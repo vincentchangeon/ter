@@ -1,0 +1,2977 @@
+annee;code_postal_acheteur;amm;substance;cas;quantite_substance;classification;classification_mention;achat_etranger
+2016;20000;2000125;cuivre du sulfate de cuivre;8011-63-0;0.2;N minéral;;Non
+2016;20000;2030332;2,4-d;94-75-7;9.6;N Organique;;Non
+2016;20000;2030332;dichlorprop-p;15165-67-0;4.8;Autre;;Non
+2016;20000;2050046;flonicamide;158062-67-0;1.25;Autre;;Non
+2016;20000;2080101;acetamipride;135410-20-7;1.2;N Organique;;Non
+2016;20000;2110086;spirotetramat;203313-25-1;1.5;T, T+, CMR;;Non
+2016;20000;2120034;glyphosate;1071-83-6;19.2;N Organique;;Non
+2016;20000;2120086;chlorpyriphos-methyl;5598-13-0;40.5;N Organique;;Non
+2016;20000;2120159;thirame;137-26-8;0.045528;N Organique;;Non
+2016;20000;2140085;abamectine;71751-41-2;0.36;T, T+, CMR;;Non
+2016;20000;7100402;2,4-d;94-75-7;12.0;N Organique;;Non
+2016;20000;9000471;glufosinate ammonium;77182-82-2;0.75;T, T+, CMR;;Non
+2016;20000;9100296;2,4-d;94-75-7;93.0;N Organique;;Non
+2016;20000;9300504;huile de vaseline;8042-47-5;65.36;Autre;;Non
+2016;20000;9400354;glyphosate;1071-83-6;136.8;N Organique;;Non
+2016;20000;9500002;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20000;9600120;thirame;137-26-8;4.0;N Organique;;Non
+2016;20000;9800201;2,4-mcpa;94-74-6;2.43;N Organique;;Non
+2016;20000;9800201;dichlorprop-p;15165-67-0;2.43;Autre;;Non
+2016;20000;9800201;glyphosate;1071-83-6;3.24;N Organique;;Non
+2016;20000;9800336;lambda-cyhalothrine;91465-08-6;0.8;T, T+, CMR;;Non
+2016;20000;9800474;cuivre du sulfate de cuivre;8011-63-0;15.0;N minéral;;Non
+2016;20090;2000018;soufre pour pulverisation (micronise);7704-34-9;144.0;Autre;;Non
+2016;20090;2010019;quizalofop-p-ethyl;100646-51-3;0.05;N Organique;;Non
+2016;20090;2010023;deltamethrine;52918-63-5;2.16;T, T+, CMR;;Non
+2016;20090;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20090;2020318;2,4-mcpa;94-74-6;0.54;N Organique;;Non
+2016;20090;2020318;dichlorprop-p;15165-67-0;0.54;Autre;;Non
+2016;20090;2020318;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;20090;2030292;oxyfluorfene;42874-03-3;1.6;T, T+, CMR;;Non
+2016;20090;2030292;propyzamide;23950-58-5;4.48;T, T+, CMR;;Non
+2016;20090;2030332;2,4-d;94-75-7;4.32;N Organique;;Non
+2016;20090;2030332;dichlorprop-p;15165-67-0;2.16;Autre;;Non
+2016;20090;2040195;myclobutanil;88671-89-0;2.835;T, T+, CMR;;Non
+2016;20090;2050046;flonicamide;158062-67-0;3.5;Autre;;Non
+2016;20090;2060084;boscalid;188425-85-6;0.267;N Organique;;Non
+2016;20090;2060084;pyraclostrobine;175013-18-0;0.067;T, T+, CMR;;Non
+2016;20090;2060098;spinosad;168316-95-8;0.72;N Organique;;Non
+2016;20090;2060133;thiaclopride;111988-49-9;9.6;T, T+, CMR;;Non
+2016;20090;2070133;napropamide;15299-99-7;27.0;N Organique;;Non
+2016;20090;2080129;meptyldinocap;131-72-6;15.75;N Organique;;Non
+2016;20090;2100095;glyphosate;1071-83-6;360.0;N Organique;;Non
+2016;20090;2100098;glyphosate;1071-83-6;244.8;N Organique;;Non
+2016;20090;2100111;mesotrione;104206-82-8;0.375;N Organique;;Non
+2016;20090;2100111;nicosulfuron;111991-09-4;0.15;N Organique;;Non
+2016;20090;2110086;spirotetramat;203313-25-1;0.1;T, T+, CMR;;Non
+2016;20090;2110141;dimethomorphe;110488-70-5;0.36;N Organique;;Non
+2016;20090;2110141;pyraclostrobine;175013-18-0;0.2;T, T+, CMR;;Non
+2016;20090;2110143;metribuzine;21087-64-9;1.2;N Organique;;Non
+2016;20090;2130049;cyflufenamid;180409-60-3;0.15;N Organique;;Non
+2016;20090;2130049;difenoconazole;119446-68-3;0.3;N Organique;;Non
+2016;20090;2130212;phosmet;732-11-6;2.5;N Organique;;Non
+2016;20090;2130255;dimethomorphe;110488-70-5;24.295;N Organique;;Non
+2016;20090;2130255;folpel;133-07-3;129.0;T, T+, CMR;;Non
+2016;20090;6800403;dazomet;533-74-4;271.6;N Organique;;Non
+2016;20090;7700216;soufre pour pulverisation (micronise);7704-34-9;6393.75;Autre;;Non
+2016;20090;8100291;metazachlore;67129-08-2;2.5;T, T+, CMR;;Non
+2016;20090;8400528;isoxaben;82558-50-7;1.25;N Organique;;Non
+2016;20090;8500174;abamectine;71751-41-2;0.036;T, T+, CMR;;Non
+2016;20090;8700102;benalaxyl;71626-11-4;2.7;N Organique;;Non
+2016;20090;8700102;folpel;133-07-3;17.325;T, T+, CMR;;Non
+2016;20090;8900681;pendimethaline;40487-42-1;2.0;N Organique;;Non
+2016;20090;9000222;soufre;7704-34-9;63.0;Autre;;Non
+2016;20090;9000471;glufosinate ammonium;77182-82-2;24.0;T, T+, CMR;;Non
+2016;20090;9100613;bioallethrine;584-79-2;0.036;Autre;;Non
+2016;20090;9100613;butoxyde de piperonyle;51-03-6;0.18;Autre;;Non
+2016;20090;9100613;permethrine;52645-53-1;0.3;Autre;;Non
+2016;20090;9200262;iprodione;36734-19-7;1.5;T, T+, CMR;;Non
+2016;20090;9200392;2,4-mcpa;94-74-6;0.8;N Organique;;Non
+2016;20090;9200392;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;0.08;Autre;;Non
+2016;20090;9200392;fluroxypyr;69377-81-7;0.16;N Organique;;Non
+2016;20090;9300189;fluroxypyr;69377-81-7;0.5;N Organique;;Non
+2016;20090;9300189;triclopyr;55335-06-3;1.5;N Organique;;Non
+2016;20090;9300504;huile de vaseline;8042-47-5;228.76;Autre;;Non
+2016;20090;9400485;cymoxanil;57966-95-7;3.2;T, T+, CMR;;Non
+2016;20090;9400485;folpel;133-07-3;26.72;T, T+, CMR;;Non
+2016;20090;9500561;glyphosate;1071-83-6;46.08;N Organique;;Non
+2016;20090;9500568;cyprodinyl;121552-61-2;0.75;N Organique;;Non
+2016;20090;9500568;fludioxonil;131341-86-1;0.5;N Organique;;Non
+2016;20090;9600103;dimethomorphe;110488-70-5;2.25;N Organique;;Non
+2016;20090;9600103;mancozebe;8018-01-7;15.0;T, T+, CMR;;Non
+2016;20090;9600116;zirame;137-30-4;7.6;T, T+, CMR;;Non
+2016;20090;9700164;mancozebe;8018-01-7;7.5;T, T+, CMR;;Non
+2016;20090;9700216;imidaclopride;138261-41-3;9.2;N Organique;;Non
+2016;20090;9700332;azoxystrobine;131860-33-8;3.25;T, T+, CMR;;Non
+2016;20090;9700442;tebuconazole;107534-96-3;0.9;T, T+, CMR;;Non
+2016;20090;9700442;triadimenol;55219-65-3;0.3;N Organique;;Non
+2016;20090;9800201;2,4-mcpa;94-74-6;0.54;N Organique;;Non
+2016;20090;9800201;dichlorprop-p;15165-67-0;0.54;Autre;;Non
+2016;20090;9800201;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;20090;9800336;lambda-cyhalothrine;91465-08-6;1.7;T, T+, CMR;;Non
+2016;20090;9800420;spiroxamine;118134-30-8;63.0;N Organique;;Non
+2016;20090;9800499;glyphosate;1071-83-6;86.4;N Organique;;Non
+2016;20090;9900014;cypermethrine;52315-07-8;0.2;N Organique;;Non
+2016;20090;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;6.0;T, T+, CMR;;Non
+2016;20090;9900331;chlorothalonil;1897-45-6;2.5;T, T+, CMR;;Non
+2016;20090;9900331;metalaxyl-m;70630-17-0;0.1815;Autre;;Non
+2016;20100;2000018;soufre pour pulverisation (micronise);7704-34-9;80.0;Autre;;Non
+2016;20100;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;23.4;T, T+, CMR;;Non
+2016;20100;2010398;folpel;133-07-3;41.6;T, T+, CMR;;Non
+2016;20100;2010398;metalaxyl-m;70630-17-0;5.044;Autre;;Non
+2016;20100;2020219;fenoxaprop-p-ethyl;71283-80-2;0.138;N Organique;;Non
+2016;20100;2030332;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;20100;2030332;dichlorprop-p;15165-67-0;2.4;Autre;;Non
+2016;20100;2040195;myclobutanil;88671-89-0;0.945;T, T+, CMR;;Non
+2016;20100;2060050;metrafenone;220899-03-6;7.0;N Organique;;Non
+2016;20100;2060098;spinosad;168316-95-8;0.48;N Organique;;Non
+2016;20100;2080099;mancozebe;8018-01-7;30.0;T, T+, CMR;;Non
+2016;20100;2080099;mandipropamide;374726-62-2;2.5;N Organique;;Non
+2016;20100;2080129;meptyldinocap;131-72-6;3.5;N Organique;;Non
+2016;20100;2090001;proquinazid;189278-12-4;1.0;T, T+, CMR;;Non
+2016;20100;2090070;quinoclamine;2797-51-5;1.25;T, T+, CMR;;Non
+2016;20100;2090119;cuivre du sulfate tribasique;12527-76-3;66.5;N minéral;;Non
+2016;20100;2090127;huile essentielle d'orange douce;8028-48-6;0.9;N Organique;;Non
+2016;20100;2090164;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20100;2100154;chlorpyriphos-ethyl;2921-88-2;10.0;T, T+, CMR;;Non
+2016;20100;2100154;cypermethrine;52315-07-8;1.0;N Organique;;Non
+2016;20100;2100181;fluopicolide;239110-15-7;10.656;N Organique;;Non
+2016;20100;2100181;fosetyl-aluminium;39148-24-8;160.008;Autre;;Non
+2016;20100;2110115;cypermethrine;52315-07-8;4.8;N Organique;;Non
+2016;20100;2120086;chlorpyriphos-methyl;5598-13-0;59.625;N Organique;;Non
+2016;20100;2120171;fosetyl-aluminium;39148-24-8;4.8;Autre;;Non
+2016;20100;2130152;fluopyram;658066-35-4;3.5;T, T+, CMR;;Non
+2016;20100;2130152;trifloxystrobine;141517-21-7;3.5;N Organique;;Non
+2016;20100;2150387;ametoctradine;865318-97-4;6.0;Autre;;Non
+2016;20100;2150387;dimethomorphe;110488-70-5;4.5;N Organique;;Non
+2016;20100;5100219;soufre sublime;7704-34-9;23710.5;Autre;;Non
+2016;20100;7400057;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20100;7700216;soufre pour pulverisation (micronise);7704-34-9;495.0;Autre;;Non
+2016;20100;8300025;penconazole;66246-88-6;0.2;T, T+, CMR;;Non
+2016;20100;8400528;isoxaben;82558-50-7;1.25;N Organique;;Non
+2016;20100;8700102;benalaxyl;71626-11-4;3.0;N Organique;;Non
+2016;20100;8700102;folpel;133-07-3;19.25;T, T+, CMR;;Non
+2016;20100;9000184;2,4-mcpa;94-74-6;2.0;N Organique;;Non
+2016;20100;9000184;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;0.2;Autre;;Non
+2016;20100;9000184;fluroxypyr;69377-81-7;0.4;N Organique;;Non
+2016;20100;9000222;soufre;7704-34-9;546.0;Autre;;Non
+2016;20100;9000471;glufosinate ammonium;77182-82-2;5.25;T, T+, CMR;;Non
+2016;20100;9100296;2,4-d;94-75-7;69.0;N Organique;;Non
+2016;20100;9100479;glyphosate;1071-83-6;96.0;N Organique;;Non
+2016;20100;9300194;chlorothalonil;1897-45-6;1.875;T, T+, CMR;;Non
+2016;20100;9300194;cyproconazole;94361-06-5;0.2;T, T+, CMR;;Non
+2016;20100;9300257;tebuconazole;107534-96-3;12.5;T, T+, CMR;;Non
+2016;20100;9300309;zetacypermethrine;52315-07-8;0.5;T, T+, CMR;;Non
+2016;20100;9400484;cuivre du sulfate de cuivre;8011-63-0;6.3;N minéral;;Non
+2016;20100;9400484;cymoxanil;57966-95-7;1.2005;T, T+, CMR;;Non
+2016;20100;9400484;mancozebe;8018-01-7;4.025;T, T+, CMR;;Non
+2016;20100;9500452;cuivre du sulfate de cuivre;8011-63-0;438.0;N minéral;;Non
+2016;20100;9500595;2,4-d;94-75-7;4.95;N Organique;;Non
+2016;20100;9500595;2,4-mcpa;94-74-6;5.775;N Organique;;Non
+2016;20100;9500595;clopyralid;1702-17-6;1.155;Autre;;Non
+2016;20100;9600368;fosetyl-aluminium;39148-24-8;211.95;Autre;;Non
+2016;20100;9600368;metirame;9006-42-2;130.05;N Organique;;Non
+2016;20100;9700070;flazasulfuron;104040-78-0;1.3;N Organique;;Non
+2016;20100;9700442;tebuconazole;107534-96-3;2.7;T, T+, CMR;;Non
+2016;20100;9700442;triadimenol;55219-65-3;0.9;N Organique;;Non
+2016;20100;9800201;2,4-mcpa;94-74-6;1.08;N Organique;;Non
+2016;20100;9800201;dichlorprop-p;15165-67-0;1.08;Autre;;Non
+2016;20100;9800201;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20100;9800420;spiroxamine;118134-30-8;22.5;N Organique;;Non
+2016;20100;9800474;cuivre du sulfate de cuivre;8011-63-0;72.0;N minéral;;Non
+2016;20100;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;40.0;T, T+, CMR;;Non
+2016;20100;9900242;mancozebe;8018-01-7;7.5;T, T+, CMR;;Non
+2016;20110;2000018;soufre pour pulverisation (micronise);7704-34-9;560.0;Autre;;Non
+2016;20110;2010132;pymetrozine;123312-89-0;2.5;T, T+, CMR;;Non
+2016;20110;2010602;cymoxanil;57966-95-7;0.48;T, T+, CMR;;Non
+2016;20110;2010602;mancozebe;8018-01-7;5.58;T, T+, CMR;;Non
+2016;20110;2060133;thiaclopride;111988-49-9;0.48;T, T+, CMR;;Non
+2016;20110;2070133;napropamide;15299-99-7;6.75;N Organique;;Non
+2016;20110;2080101;acetamipride;135410-20-7;1.0;N Organique;;Non
+2016;20110;2080123;metsulfuron-methyl;74223-64-6;0.08;N Organique;;Non
+2016;20110;2090136;fluopicolide;239110-15-7;0.625;N Organique;;Non
+2016;20110;2090136;propamocarbe;25606-41-1;6.25;Autre;;Non
+2016;20110;2100098;glyphosate;1071-83-6;9.0;N Organique;;Non
+2016;20110;2100122;chlorantraniliprole;500008-45-7;0.35;N Organique;;Non
+2016;20110;2100181;fluopicolide;239110-15-7;4.7952;N Organique;;Non
+2016;20110;2100181;fosetyl-aluminium;39148-24-8;72.0036;Autre;;Non
+2016;20110;2110005;fluazinam;79622-59-6;2.5;T, T+, CMR;;Non
+2016;20110;2120086;chlorpyriphos-methyl;5598-13-0;5.625;N Organique;;Non
+2016;20110;2130152;fluopyram;658066-35-4;1.75;T, T+, CMR;;Non
+2016;20110;2130152;trifloxystrobine;141517-21-7;1.75;N Organique;;Non
+2016;20110;2140255;acide pelargonique;112-05-0;13.6;Autre;;Non
+2016;20110;5100219;soufre sublime;7704-34-9;1683.0;Autre;;Non
+2016;20110;8400528;isoxaben;82558-50-7;1.875;N Organique;;Non
+2016;20110;9000222;soufre;7704-34-9;266.0;Autre;;Non
+2016;20110;9100479;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20110;9100613;bioallethrine;584-79-2;0.072;Autre;;Non
+2016;20110;9100613;butoxyde de piperonyle;51-03-6;0.36;Autre;;Non
+2016;20110;9100613;permethrine;52645-53-1;0.6;Autre;;Non
+2016;20110;9200482;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20110;9300504;huile de vaseline;8042-47-5;16.34;Autre;;Non
+2016;20110;9400280;flumioxazine;103361-09-7;2.0;T, T+, CMR;;Non
+2016;20110;9400458;(z)-9-dodecenylacetate;16974-11-1;1.512;N Organique;;Non
+2016;20110;9400458;e7,z9-dodecadienylacetate;54364-62-4;0.82656;N Organique;;Non
+2016;20110;9700070;flazasulfuron;104040-78-0;0.25;N Organique;;Non
+2016;20110;9800201;2,4-mcpa;94-74-6;5.4;N Organique;;Non
+2016;20110;9800201;dichlorprop-p;15165-67-0;5.4;Autre;;Non
+2016;20110;9800201;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20110;9800245;soufre pour pulverisation (micronise);7704-34-9;3360.0;Autre;;Non
+2016;20110;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;80.0;T, T+, CMR;;Non
+2016;20111;2030292;oxyfluorfene;42874-03-3;0.2;T, T+, CMR;;Non
+2016;20111;2030292;propyzamide;23950-58-5;0.56;T, T+, CMR;;Non
+2016;20111;2030332;2,4-d;94-75-7;6.0;N Organique;;Non
+2016;20111;2030332;dichlorprop-p;15165-67-0;3.0;Autre;;Non
+2016;20111;2100098;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20111;9800201;2,4-mcpa;94-74-6;1.62;N Organique;;Non
+2016;20111;9800201;dichlorprop-p;15165-67-0;1.62;Autre;;Non
+2016;20111;9800201;glyphosate;1071-83-6;2.16;N Organique;;Non
+2016;20113;2030292;oxyfluorfene;42874-03-3;0.1;T, T+, CMR;;Non
+2016;20113;2030292;propyzamide;23950-58-5;0.28;T, T+, CMR;;Non
+2016;20113;9100613;bioallethrine;584-79-2;0.36;Autre;;Non
+2016;20113;9100613;butoxyde de piperonyle;51-03-6;1.8;Autre;;Non
+2016;20113;9100613;permethrine;52645-53-1;3.0;Autre;;Non
+2016;20113;9800201;2,4-mcpa;94-74-6;0.54;N Organique;;Non
+2016;20113;9800201;dichlorprop-p;15165-67-0;0.54;Autre;;Non
+2016;20113;9800201;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;20114;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;322.2;T, T+, CMR;;Non
+2016;20114;2090119;cuivre du sulfate tribasique;12527-76-3;28.5;N minéral;;Non
+2016;20114;2090127;huile essentielle d'orange douce;8028-48-6;2.7;N Organique;;Non
+2016;20114;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20114;2140255;acide pelargonique;112-05-0;61.2;Autre;;Non
+2016;20114;7700216;soufre pour pulverisation (micronise);7704-34-9;132.0;Autre;;Non
+2016;20114;9000222;soufre;7704-34-9;140.0;Autre;;Non
+2016;20114;9800336;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;20114;9800347;fluroxypyr;69377-81-7;0.04;N Organique;;Non
+2016;20114;9800347;triclopyr;55335-06-3;0.12;N Organique;;Non
+2016;20114;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;36.0;T, T+, CMR;;Non
+2016;20117;2090063;tebuconazole;107534-96-3;4.0;T, T+, CMR;;Non
+2016;20117;2090063;trifloxystrobine;141517-21-7;2.0;N Organique;;Non
+2016;20117;2100218;quinoxyfene;124495-18-7;3.85;N Organique;;Non
+2016;20117;2100218;soufre;7704-34-9;440.0;Autre;;Non
+2016;20117;2100231;emamectine benzoate;155569-91-8;0.475;T, T+, CMR;;Non
+2016;20117;2130152;fluopyram;658066-35-4;3.0;T, T+, CMR;;Non
+2016;20117;2130152;trifloxystrobine;141517-21-7;3.0;N Organique;;Non
+2016;20117;2140252;phosphate ferrique;10045-86-0;0.03125;Autre;;Non
+2016;20117;8700702;mancozebe;8018-01-7;7.5;T, T+, CMR;;Non
+2016;20117;9600368;fosetyl-aluminium;39148-24-8;616.068;Autre;;Non
+2016;20117;9600368;metirame;9006-42-2;378.012;N Organique;;Non
+2016;20117;9800289;metalaxyl-m;70630-17-0;0.4652;Autre;;Non
+2016;20117;9900013;cuivre du sulfate de cuivre;8011-63-0;39.0;N minéral;;Non
+2016;20118;2030292;oxyfluorfene;42874-03-3;0.1;T, T+, CMR;;Non
+2016;20118;2030292;propyzamide;23950-58-5;0.28;T, T+, CMR;;Non
+2016;20118;9100613;bioallethrine;584-79-2;0.144;Autre;;Non
+2016;20118;9100613;butoxyde de piperonyle;51-03-6;0.72;Autre;;Non
+2016;20118;9100613;permethrine;52645-53-1;1.2;Autre;;Non
+2016;20118;9800201;2,4-mcpa;94-74-6;2.43;N Organique;;Non
+2016;20118;9800201;dichlorprop-p;15165-67-0;2.43;Autre;;Non
+2016;20118;9800201;glyphosate;1071-83-6;3.24;N Organique;;Non
+2016;20121;2010509;cuivre du sulfate de cuivre;8011-63-0;0.08;N minéral;;Non
+2016;20121;2030125;deltamethrine;52918-63-5;0.00345;T, T+, CMR;;Non
+2016;20121;2030466;soufre triture ventile;7704-34-9;3.315;Autre;;Non
+2016;20121;9200392;2,4-mcpa;94-74-6;0.2;N Organique;;Non
+2016;20121;9200392;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;0.02;Autre;;Non
+2016;20121;9200392;fluroxypyr;69377-81-7;0.04;N Organique;;Non
+2016;20121;9900257;cuivre du sulfate de cuivre;8011-63-0;0.2;N minéral;;Non
+2016;20123;2000327;carfentrazone ethyl;128639-02-1;1.2;N Organique;;Non
+2016;20123;2010130;cuivre de l'oxyde cuivreux;1317-39-1;60.0;N minéral;;Non
+2016;20123;2090130;benthiavalicarbe;177406-68-7;2.8;T, T+, CMR;;Non
+2016;20123;2090130;cuivre du sulfate tribasique;12527-76-3;60.0;N minéral;;Non
+2016;20123;2110101;pyraflufen-ethyl;129630-19-9;0.265;N Organique;;Non
+2016;20124;2110154;2,4-mcpa;94-74-6;5.1;N Organique;;Non
+2016;20124;2110154;dicamba;1918-00-9;0.45;N Organique;;Non
+2016;20124;9500002;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20128;9100613;bioallethrine;584-79-2;0.156;Autre;;Non
+2016;20128;9100613;butoxyde de piperonyle;51-03-6;0.78;Autre;;Non
+2016;20128;9100613;permethrine;52645-53-1;1.3;Autre;;Non
+2016;20129;2010132;pymetrozine;123312-89-0;1.0;T, T+, CMR;;Non
+2016;20129;2010612;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20129;2050046;flonicamide;158062-67-0;2.0;Autre;;Non
+2016;20129;2060084;boscalid;188425-85-6;0.534;N Organique;;Non
+2016;20129;2060084;pyraclostrobine;175013-18-0;0.134;T, T+, CMR;;Non
+2016;20129;2060098;spinosad;168316-95-8;2.4;N Organique;;Non
+2016;20129;2060113;bifenazate;149877-41-8;1.2;N Organique;;Non
+2016;20129;2060133;thiaclopride;111988-49-9;0.96;T, T+, CMR;;Non
+2016;20129;2070107;fosetyl;15845-66-6;9.3;Autre;;Non
+2016;20129;2070107;propamocarbe;25606-41-1;15.9;Autre;;Non
+2016;20129;2080060;pyriproxyfene;95737-68-1;0.5;N Organique;;Non
+2016;20129;2080101;acetamipride;135410-20-7;1.0;N Organique;;Non
+2016;20129;2080129;meptyldinocap;131-72-6;0.35;N Organique;;Non
+2016;20129;2090082;imidaclopride;138261-41-3;0.6;N Organique;;Non
+2016;20129;2090091;thiamethoxam;153719-23-4;0.5;N Organique;;Non
+2016;20129;2090094;thiophanate-methyl;23564-05-8;7.04;T, T+, CMR;;Non
+2016;20129;2090160;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20129;2100122;chlorantraniliprole;500008-45-7;0.21;N Organique;;Non
+2016;20129;2100154;chlorpyriphos-ethyl;2921-88-2;10.0;T, T+, CMR;;Non
+2016;20129;2100154;cypermethrine;52315-07-8;1.0;N Organique;;Non
+2016;20129;2100231;emamectine benzoate;155569-91-8;0.1235;T, T+, CMR;;Non
+2016;20129;2110086;spirotetramat;203313-25-1;0.5;T, T+, CMR;;Non
+2016;20129;2120087;spinetoram;935545-74-7;0.25;N Organique;;Non
+2016;20129;2130079;cyflufenamid;180409-60-3;0.2;N Organique;;Non
+2016;20129;2130092;spiromesifen;283594-90-1;1.92;Autre;;Non
+2016;20129;2140085;abamectine;71751-41-2;0.18;T, T+, CMR;;Non
+2016;20129;7500569;pyrimicarbe;23103-98-2;0.5;T, T+, CMR;;Non
+2016;20129;7600008;bupirimate;41483-43-6;9.0;N Organique;;Non
+2016;20129;7700216;soufre pour pulverisation (micronise);7704-34-9;24.75;Autre;;Non
+2016;20129;7800132;ethephon;16672-87-0;4.8;T, T+, CMR;;Non
+2016;20129;8300243;chlorothalonil;1897-45-6;5.0;T, T+, CMR;;Non
+2016;20129;8500174;abamectine;71751-41-2;0.09;T, T+, CMR;;Non
+2016;20129;8700304;metaldehyde;108-62-3;1.25;Autre;;Non
+2016;20129;9000471;glufosinate ammonium;77182-82-2;3.0;T, T+, CMR;;Non
+2016;20129;9200313;fenazaquin;120928-09-8;1.0;T, T+, CMR;;Non
+2016;20129;9300504;huile de vaseline;8042-47-5;32.68;Autre;;Non
+2016;20129;9400496;huile minerale paraffinique;8042-47-5;96.0;Autre;;Non
+2016;20129;9500199;propamocarbe;25606-41-1;2.888;Autre;;Non
+2016;20129;9500432;acrinathrine;101007-06-1;0.9;N Organique;;Non
+2016;20129;9700027;hexythiazox;78587-05-0;0.45;N Organique;;Non
+2016;20129;9700332;azoxystrobine;131860-33-8;2.5;T, T+, CMR;;Non
+2016;20129;9800219;ethephon;16672-87-0;1.8;T, T+, CMR;;Non
+2016;20129;9800474;cuivre du sulfate de cuivre;8011-63-0;9.0;N minéral;;Non
+2016;20129;9900384;metam-sodium;137-42-8;428.4;N Organique;;Non
+2016;20130;9100613;bioallethrine;584-79-2;0.072;Autre;;Non
+2016;20130;9100613;butoxyde de piperonyle;51-03-6;0.36;Autre;;Non
+2016;20130;9100613;permethrine;52645-53-1;0.6;Autre;;Non
+2016;20130;9800201;2,4-mcpa;94-74-6;1.08;N Organique;;Non
+2016;20130;9800201;dichlorprop-p;15165-67-0;1.08;Autre;;Non
+2016;20130;9800201;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20133;2030332;2,4-d;94-75-7;1.2;N Organique;;Non
+2016;20133;2030332;dichlorprop-p;15165-67-0;0.6;Autre;;Non
+2016;20133;2100098;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20135;2030332;2,4-d;94-75-7;1.2;N Organique;;Non
+2016;20135;2030332;dichlorprop-p;15165-67-0;0.6;Autre;;Non
+2016;20135;9100613;bioallethrine;584-79-2;0.072;Autre;;Non
+2016;20135;9100613;butoxyde de piperonyle;51-03-6;0.36;Autre;;Non
+2016;20135;9100613;permethrine;52645-53-1;0.6;Autre;;Non
+2016;20137;2000018;soufre pour pulverisation (micronise);7704-34-9;976.0;Autre;;Non
+2016;20137;2000416;imidaclopride;138261-41-3;0.4;N Organique;;Non
+2016;20137;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;86.4;T, T+, CMR;;Non
+2016;20137;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20137;2020219;fenoxaprop-p-ethyl;71283-80-2;0.414;N Organique;;Non
+2016;20137;2020238;pendimethaline;40487-42-1;20.8;N Organique;;Non
+2016;20137;2040195;myclobutanil;88671-89-0;0.81;T, T+, CMR;;Non
+2016;20137;2060050;metrafenone;220899-03-6;7.5;N Organique;;Non
+2016;20137;2060098;spinosad;168316-95-8;6.0;N Organique;;Non
+2016;20137;2060130;spinosad;168316-95-8;0.00192;N Organique;;Non
+2016;20137;2070133;napropamide;15299-99-7;2.25;N Organique;;Non
+2016;20137;2080038;pyrethrines;8003-34-7;0.186;N Organique;;Non
+2016;20137;2080062;benalaxyl-m;98243-83-5;5.6;N Organique;;Non
+2016;20137;2080062;mancozebe;8018-01-7;91.0;T, T+, CMR;;Non
+2016;20137;2080099;mancozebe;8018-01-7;84.0;T, T+, CMR;;Non
+2016;20137;2080099;mandipropamide;374726-62-2;7.0;N Organique;;Non
+2016;20137;2080105;glyphosate;1071-83-6;41.4;N Organique;;Non
+2016;20137;2090082;imidaclopride;138261-41-3;11.6;N Organique;;Non
+2016;20137;2090091;thiamethoxam;153719-23-4;0.25;N Organique;;Non
+2016;20137;2090127;huile essentielle d'orange douce;8028-48-6;2.1;N Organique;;Non
+2016;20137;2090134;cuivre de l'hydroxyde de cuivre;20427-59-2;5.0;T, T+, CMR;;Non
+2016;20137;2090138;pendimethaline;40487-42-1;1.8;N Organique;;Non
+2016;20137;2100181;fluopicolide;239110-15-7;7.4592;N Organique;;Non
+2016;20137;2100181;fosetyl-aluminium;39148-24-8;112.0056;Autre;;Non
+2016;20137;2110086;spirotetramat;203313-25-1;1.4;T, T+, CMR;;Non
+2016;20137;2110198;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20137;2120008;glyphosate;1071-83-6;1.08;N Organique;;Non
+2016;20137;2120086;chlorpyriphos-methyl;5598-13-0;20.25;N Organique;;Non
+2016;20137;2130152;fluopyram;658066-35-4;3.0;T, T+, CMR;;Non
+2016;20137;2130152;trifloxystrobine;141517-21-7;3.0;N Organique;;Non
+2016;20137;5100219;soufre sublime;7704-34-9;1559.25;Autre;;Non
+2016;20137;7400057;glyphosate;1071-83-6;50.4;N Organique;;Non
+2016;20137;7500716;cuivre du sulfate de cuivre;8011-63-0;8.0;N minéral;;Non
+2016;20137;7600310;soufre triture;7704-34-9;194.0;Autre;;Non
+2016;20137;7700706;2,4-d;94-75-7;2.8;N Organique;;Non
+2016;20137;7700706;dicamba;1918-00-9;0.4;N Organique;;Non
+2016;20137;8000124;oxyfluorfene;42874-03-3;0.5;T, T+, CMR;;Non
+2016;20137;8000124;propyzamide;23950-58-5;1.4;T, T+, CMR;;Non
+2016;20137;8400528;isoxaben;82558-50-7;5.625;N Organique;;Non
+2016;20137;8400574;propyzamide;23950-58-5;4.0;T, T+, CMR;;Non
+2016;20137;9000222;soufre;7704-34-9;560.0;Autre;;Non
+2016;20137;9100479;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20137;9100505;glyphosate;1071-83-6;36.0;N Organique;;Non
+2016;20137;9100613;bioallethrine;584-79-2;1.08;Autre;;Non
+2016;20137;9100613;butoxyde de piperonyle;51-03-6;5.4;Autre;;Non
+2016;20137;9100613;permethrine;52645-53-1;9.0;Autre;;Non
+2016;20137;9200392;2,4-mcpa;94-74-6;4.0;N Organique;;Non
+2016;20137;9200392;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;0.4;Autre;;Non
+2016;20137;9200392;fluroxypyr;69377-81-7;0.8;N Organique;;Non
+2016;20137;9200482;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20137;9300504;huile de vaseline;8042-47-5;16.34;Autre;;Non
+2016;20137;9500150;isoxaben;82558-50-7;1.391;N Organique;;Non
+2016;20137;9500150;oryzalin;19044-88-3;5.577;T, T+, CMR;;Non
+2016;20137;9500452;cuivre du sulfate de cuivre;8011-63-0;21.0;N minéral;;Non
+2016;20137;9500649;folpel;133-07-3;90.0;T, T+, CMR;;Non
+2016;20137;9500649;fosetyl-aluminium;39148-24-8;180.0;Autre;;Non
+2016;20137;9700070;flazasulfuron;104040-78-0;1.25;N Organique;;Non
+2016;20137;9800236;glyphosate;1071-83-6;3.6;N Organique;;Non
+2016;20137;9800245;soufre pour pulverisation (micronise);7704-34-9;448.0;Autre;;Non
+2016;20137;9800347;fluroxypyr;69377-81-7;0.16;N Organique;;Non
+2016;20137;9800347;triclopyr;55335-06-3;0.48;N Organique;;Non
+2016;20137;9800365;oxyfluorfene;42874-03-3;0.6;T, T+, CMR;;Non
+2016;20137;9800365;propyzamide;23950-58-5;1.68;T, T+, CMR;;Non
+2016;20137;9800474;cuivre du sulfate de cuivre;8011-63-0;3.0;N minéral;;Non
+2016;20137;9900037;trifloxystrobine;141517-21-7;2.25;N Organique;;Non
+2016;20137;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;46.0;T, T+, CMR;;Non
+2016;20138;2000044;fluazifop-p-butyl;79241-46-6;1.25;T, T+, CMR;;Non
+2016;20138;2010023;deltamethrine;52918-63-5;0.15;T, T+, CMR;;Non
+2016;20138;2060034;kaolin;1332-58-7;71.25;Autre;;Non
+2016;20138;2060133;thiaclopride;111988-49-9;0.96;T, T+, CMR;;Non
+2016;20138;2080101;acetamipride;135410-20-7;1.8;N Organique;;Non
+2016;20138;2130115;1,5-diaminopentane;462-94-2;0.008448;Autre;;Non
+2016;20138;2130115;acetate d'ammonium;631-61-8;2.0592;Autre;;Non
+2016;20138;2130115;deltamethrine;52918-63-5;0.004013;T, T+, CMR;;Non
+2016;20138;2130115;trimethylamine hydrochloride;593-81-7;0.008448;Autre;;Non
+2016;20138;2130212;phosmet;732-11-6;5.0;N Organique;;Non
+2016;20138;9100479;glyphosate;1071-83-6;24.0;N Organique;;Non
+2016;20138;9300504;huile de vaseline;8042-47-5;32.68;Autre;;Non
+2016;20140;2090094;thiophanate-methyl;23564-05-8;3.52;T, T+, CMR;;Non
+2016;20140;2100098;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20140;2100215;pendimethaline;40487-42-1;2.0;N Organique;;Non
+2016;20140;2130186;lambda-cyhalothrine;91465-08-6;0.05;T, T+, CMR;;Non
+2016;20140;2140183;deltamethrine;52918-63-5;0.015;T, T+, CMR;;Non
+2016;20140;9800201;2,4-mcpa;94-74-6;1.35;N Organique;;Non
+2016;20140;9800201;dichlorprop-p;15165-67-0;1.35;Autre;;Non
+2016;20140;9800201;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20144;2000510;fer sous forme de sulfate de fer;7720-78-7;1.6;Autre;;Non
+2016;20144;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;7.2;T, T+, CMR;;Non
+2016;20144;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20144;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20144;2060098;spinosad;168316-95-8;0.24;N Organique;;Non
+2016;20144;2090082;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20144;2090094;thiophanate-methyl;23564-05-8;3.52;T, T+, CMR;;Non
+2016;20144;2100193;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;20144;2110086;spirotetramat;203313-25-1;0.5;T, T+, CMR;;Non
+2016;20144;2120086;chlorpyriphos-methyl;5598-13-0;4.5;N Organique;;Non
+2016;20144;2130115;1,5-diaminopentane;462-94-2;0.000212;Autre;;Non
+2016;20144;2130115;acetate d'ammonium;631-61-8;0.051675;Autre;;Non
+2016;20144;2130115;deltamethrine;52918-63-5;0.000101;T, T+, CMR;;Non
+2016;20144;2130115;trimethylamine hydrochloride;593-81-7;0.000212;Autre;;Non
+2016;20144;9800474;cuivre du sulfate de cuivre;8011-63-0;30.0;N minéral;;Non
+2016;20144;9900189;coniothyrium minitans souche con/m/91-08;;2.8;Autre;;Non
+2016;20144;9900242;mancozebe;8018-01-7;7.5;T, T+, CMR;;Non
+2016;20150;2030332;2,4-d;94-75-7;1.2;N Organique;;Non
+2016;20150;2030332;dichlorprop-p;15165-67-0;0.6;Autre;;Non
+2016;20150;9800201;2,4-mcpa;94-74-6;0.54;N Organique;;Non
+2016;20150;9800201;dichlorprop-p;15165-67-0;0.54;Autre;;Non
+2016;20150;9800201;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;20151;2040195;myclobutanil;88671-89-0;1.35;T, T+, CMR;;Non
+2016;20151;2100181;fluopicolide;239110-15-7;6.3936;N Organique;;Non
+2016;20151;2100181;fosetyl-aluminium;39148-24-8;96.0048;Autre;;Non
+2016;20151;2120086;chlorpyriphos-methyl;5598-13-0;2.25;N Organique;;Non
+2016;20151;2130152;fluopyram;658066-35-4;2.25;T, T+, CMR;;Non
+2016;20151;2130152;trifloxystrobine;141517-21-7;2.25;N Organique;;Non
+2016;20151;9000222;soufre;7704-34-9;252.0;Autre;;Non
+2016;20151;9100479;glyphosate;1071-83-6;24.0;N Organique;;Non
+2016;20151;9600368;fosetyl-aluminium;39148-24-8;47.1;Autre;;Non
+2016;20151;9600368;metirame;9006-42-2;28.9;N Organique;;Non
+2016;20151;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;36.0;T, T+, CMR;;Non
+2016;20160;2030332;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;20160;2030332;dichlorprop-p;15165-67-0;2.4;Autre;;Non
+2016;20160;2100098;glyphosate;1071-83-6;21.6;N Organique;;Non
+2016;20160;9800201;2,4-mcpa;94-74-6;10.8;N Organique;;Non
+2016;20160;9800201;dichlorprop-p;15165-67-0;10.8;Autre;;Non
+2016;20160;9800201;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20163;2030332;2,4-d;94-75-7;1.2;N Organique;;Non
+2016;20163;2030332;dichlorprop-p;15165-67-0;0.6;Autre;;Non
+2016;20166;2010239;florasulame;145701-23-1;0.01;N Organique;;Non
+2016;20166;2010239;fluroxypyr;69377-81-7;1.0;N Organique;;Non
+2016;20166;2090160;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20166;2110086;spirotetramat;203313-25-1;0.1;T, T+, CMR;;Non
+2016;20166;2110177;chlorothalonil;1897-45-6;7.5;T, T+, CMR;;Non
+2016;20166;2110177;cyproconazole;94361-06-5;1.0;T, T+, CMR;;Non
+2016;20166;2110177;propiconazole;60207-90-1;1.25;N Organique;;Non
+2016;20166;7500569;pyrimicarbe;23103-98-2;0.5;T, T+, CMR;;Non
+2016;20166;9100613;bioallethrine;584-79-2;0.144;Autre;;Non
+2016;20166;9100613;butoxyde de piperonyle;51-03-6;0.72;Autre;;Non
+2016;20166;9100613;permethrine;52645-53-1;1.2;Autre;;Non
+2016;20166;9100645;clodinafop-propargyl;105512-06-9;0.7;N Organique;;Non
+2016;20166;9100645;cloquintocet-mexyl;99607-70-2;0.175;Autre;;Non
+2016;20166;9600025;fosetyl-aluminium;39148-24-8;4.8;Autre;;Non
+2016;20166;9800336;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;20167;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;10.8;T, T+, CMR;;Non
+2016;20167;2010023;deltamethrine;52918-63-5;0.03;T, T+, CMR;;Non
+2016;20167;2030292;oxyfluorfene;42874-03-3;0.2;T, T+, CMR;;Non
+2016;20167;2030292;propyzamide;23950-58-5;0.56;T, T+, CMR;;Non
+2016;20167;2030332;2,4-d;94-75-7;10.8;N Organique;;Non
+2016;20167;2030332;dichlorprop-p;15165-67-0;5.4;Autre;;Non
+2016;20167;2060050;metrafenone;220899-03-6;1.0;N Organique;;Non
+2016;20167;2080029;penoxsulame;219714-96-2;0.36;N Organique;;Non
+2016;20167;2100181;fluopicolide;239110-15-7;1.0656;N Organique;;Non
+2016;20167;2100181;fosetyl-aluminium;39148-24-8;16.0008;Autre;;Non
+2016;20167;2130049;cyflufenamid;180409-60-3;0.15;N Organique;;Non
+2016;20167;2130049;difenoconazole;119446-68-3;0.3;N Organique;;Non
+2016;20167;2130152;fluopyram;658066-35-4;0.5;T, T+, CMR;;Non
+2016;20167;2130152;trifloxystrobine;141517-21-7;0.5;N Organique;;Non
+2016;20167;2150387;ametoctradine;865318-97-4;3.0;Autre;;Non
+2016;20167;2150387;dimethomorphe;110488-70-5;2.25;N Organique;;Non
+2016;20167;5100219;soufre sublime;7704-34-9;594.0;Autre;;Non
+2016;20167;7700216;soufre pour pulverisation (micronise);7704-34-9;33.0;Autre;;Non
+2016;20167;9000222;soufre;7704-34-9;77.0;Autre;;Non
+2016;20167;9100479;glyphosate;1071-83-6;24.0;N Organique;;Non
+2016;20167;9700070;flazasulfuron;104040-78-0;0.25;N Organique;;Non
+2016;20167;9800201;2,4-mcpa;94-74-6;3.78;N Organique;;Non
+2016;20167;9800201;dichlorprop-p;15165-67-0;3.78;Autre;;Non
+2016;20167;9800201;glyphosate;1071-83-6;5.04;N Organique;;Non
+2016;20167;9800420;spiroxamine;118134-30-8;5.0;N Organique;;Non
+2016;20167;9800474;cuivre du sulfate de cuivre;8011-63-0;12.0;N minéral;;Non
+2016;20167;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;8.0;T, T+, CMR;;Non
+2016;20169;2030337;dichlorprop-p;15165-67-0;0.25;Autre;;Non
+2016;20169;2060098;spinosad;168316-95-8;0.96;N Organique;;Non
+2016;20169;2060130;spinosad;168316-95-8;0.0096;N Organique;;Non
+2016;20169;2060133;thiaclopride;111988-49-9;0.48;T, T+, CMR;;Non
+2016;20169;2090119;cuivre du sulfate tribasique;12527-76-3;5.7;N minéral;;Non
+2016;20169;2100193;2,4-d;94-75-7;19.2;N Organique;;Non
+2016;20169;2110086;spirotetramat;203313-25-1;1.5;T, T+, CMR;;Non
+2016;20169;2120008;glyphosate;1071-83-6;1.08;N Organique;;Non
+2016;20169;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20169;2120088;fosetyl-aluminium;39148-24-8;80.0;Autre;;Non
+2016;20169;2130115;1,5-diaminopentane;462-94-2;0.00014;Autre;;Non
+2016;20169;2130115;acetate d'ammonium;631-61-8;0.034125;Autre;;Non
+2016;20169;2130115;deltamethrine;52918-63-5;6.7e-05;T, T+, CMR;;Non
+2016;20169;2130115;trimethylamine hydrochloride;593-81-7;0.00014;Autre;;Non
+2016;20169;2140085;abamectine;71751-41-2;0.18;T, T+, CMR;;Non
+2016;20169;2140254;acide pelargonique;112-05-0;34.0;Autre;;Non
+2016;20169;7700216;soufre pour pulverisation (micronise);7704-34-9;165.0;Autre;;Non
+2016;20169;9000222;soufre;7704-34-9;28.0;Autre;;Non
+2016;20169;9000471;glufosinate ammonium;77182-82-2;20.25;T, T+, CMR;;Non
+2016;20169;9100479;glyphosate;1071-83-6;9.6;N Organique;;Non
+2016;20169;9100613;bioallethrine;584-79-2;0.636;Autre;;Non
+2016;20169;9100613;butoxyde de piperonyle;51-03-6;3.18;Autre;;Non
+2016;20169;9100613;permethrine;52645-53-1;5.3;Autre;;Non
+2016;20169;9300504;huile de vaseline;8042-47-5;49.02;Autre;;Non
+2016;20169;9500199;propamocarbe;25606-41-1;7.22;Autre;;Non
+2016;20169;9800336;lambda-cyhalothrine;91465-08-6;0.2;T, T+, CMR;;Non
+2016;20169;9800474;cuivre du sulfate de cuivre;8011-63-0;72.0;N minéral;;Non
+2016;20169;9900184;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20169;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;2.0;T, T+, CMR;;Non
+2016;20170;2120048;aminopyralid;150114-71-9;0.09;N Organique;;Non
+2016;20170;2120048;triclopyr;55335-06-3;0.72;N Organique;;Non
+2016;20170;9800126;flufenacet;142459-58-3;1.2;N Organique;;Non
+2016;20170;9800126;metribuzine;21087-64-9;0.875;N Organique;;Non
+2016;20190;2100098;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20200;2000510;fer sous forme de sulfate de fer;7720-78-7;4.8;Autre;;Non
+2016;20200;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;16.2;T, T+, CMR;;Non
+2016;20200;2010023;deltamethrine;52918-63-5;0.06;T, T+, CMR;;Non
+2016;20200;2010398;folpel;133-07-3;6.4;T, T+, CMR;;Non
+2016;20200;2010398;metalaxyl-m;70630-17-0;0.776;Autre;;Non
+2016;20200;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20200;2020003;phosphate ferrique;10045-86-0;0.0396;Autre;;Non
+2016;20200;2030273;lambda-cyhalothrine;91465-08-6;0.00025;T, T+, CMR;;Non
+2016;20200;2030273;pyrimicarbe;23103-98-2;0.005;T, T+, CMR;;Non
+2016;20200;2030332;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;20200;2030332;dichlorprop-p;15165-67-0;2.4;Autre;;Non
+2016;20200;2040195;myclobutanil;88671-89-0;0.675;T, T+, CMR;;Non
+2016;20200;2060098;spinosad;168316-95-8;0.24;N Organique;;Non
+2016;20200;2060130;spinosad;168316-95-8;0.00264;N Organique;;Non
+2016;20200;2060133;thiaclopride;111988-49-9;1.92;T, T+, CMR;;Non
+2016;20200;2080018;acetamipride;135410-20-7;0.00375;N Organique;;Non
+2016;20200;2080054;acetamipride;135410-20-7;4.8e-05;N Organique;;Non
+2016;20200;2090001;proquinazid;189278-12-4;0.2;T, T+, CMR;;Non
+2016;20200;2090090;thiamethoxam;153719-23-4;0.04;N Organique;;Non
+2016;20200;2090091;thiamethoxam;153719-23-4;0.25;N Organique;;Non
+2016;20200;2090199;huile de colza;8002-13-9;0.24759;Autre;;Non
+2016;20200;2090199;pyrethrines;8003-34-7;0.001377;N Organique;;Non
+2016;20200;2100220;glyphosate;1071-83-6;0.0054;N Organique;;Non
+2016;20200;2100221;ametoctradine;865318-97-4;0.6;Autre;;Non
+2016;20200;2100221;metirame;9006-42-2;2.2;N Organique;;Non
+2016;20200;2110159;triticonazole;131983-72-7;0.007;N Organique;;Non
+2016;20200;2120018;glyphosate;1071-83-6;3.072;N Organique;;Non
+2016;20200;2120034;glyphosate;1071-83-6;9.6;N Organique;;Non
+2016;20200;2120086;chlorpyriphos-methyl;5598-13-0;12.375;N Organique;;Non
+2016;20200;2120133;fluroxypyr;69377-81-7;0.008;N Organique;;Non
+2016;20200;2120133;triclopyr;55335-06-3;0.024;N Organique;;Non
+2016;20200;2120157;acide pelargonique;112-05-0;0.01632;Autre;;Non
+2016;20200;2120157;glyphosate;1071-83-6;0.00576;N Organique;;Non
+2016;20200;2130255;dimethomorphe;110488-70-5;0.565;N Organique;;Non
+2016;20200;2130255;folpel;133-07-3;3.0;T, T+, CMR;;Non
+2016;20200;2140085;abamectine;71751-41-2;0.09;T, T+, CMR;;Non
+2016;20200;2140121;acide pelargonique;112-05-0;2.829697;Autre;;Non
+2016;20200;2140134;soufre triture ventile;7704-34-9;4.4325;Autre;;Non
+2016;20200;2140252;phosphate ferrique;10045-86-0;0.005;Autre;;Non
+2016;20200;8400574;propyzamide;23950-58-5;4.0;T, T+, CMR;;Non
+2016;20200;9000222;soufre;7704-34-9;42.0;Autre;;Non
+2016;20200;9000471;glufosinate ammonium;77182-82-2;30.75;T, T+, CMR;;Non
+2016;20200;9100479;glyphosate;1071-83-6;57.6;N Organique;;Non
+2016;20200;9100525;tebufenpyrad;119168-77-3;1.0;T, T+, CMR;;Non
+2016;20200;9100613;bioallethrine;584-79-2;0.276;Autre;;Non
+2016;20200;9100613;butoxyde de piperonyle;51-03-6;1.38;Autre;;Non
+2016;20200;9100613;permethrine;52645-53-1;2.3;Autre;;Non
+2016;20200;9200512;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20200;9300186;tebuconazole;107534-96-3;3.0;T, T+, CMR;;Non
+2016;20200;9300504;huile de vaseline;8042-47-5;98.04;Autre;;Non
+2016;20200;9400354;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20200;9400484;cuivre du sulfate de cuivre;8011-63-0;2.52;N minéral;;Non
+2016;20200;9400484;cymoxanil;57966-95-7;0.4802;T, T+, CMR;;Non
+2016;20200;9400484;mancozebe;8018-01-7;1.61;T, T+, CMR;;Non
+2016;20200;9500147;soufre pour pulverisation (micronise);7704-34-9;0.32;Autre;;Non
+2016;20200;9500568;cyprodinyl;121552-61-2;0.0075;N Organique;;Non
+2016;20200;9500568;fludioxonil;131341-86-1;0.005;N Organique;;Non
+2016;20200;9600395;dithianon;3347-22-6;7.0;T, T+, CMR;;Non
+2016;20200;9600550;diflufenicanil;83164-33-4;2.4;N Organique;;Non
+2016;20200;9600550;glyphosate;1071-83-6;15.0;N Organique;;Non
+2016;20200;9700216;imidaclopride;138261-41-3;1.6;N Organique;;Non
+2016;20200;9800235;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20200;9800420;spiroxamine;118134-30-8;1.5;N Organique;;Non
+2016;20200;9800474;cuivre du sulfate de cuivre;8011-63-0;3.0;N minéral;;Non
+2016;20200;9800481;fleur de chaux (chaux eteinte);1305-62-0;1.95;Autre;;Non
+2016;20200;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;12.0;T, T+, CMR;;Non
+2016;20200;9900242;mancozebe;8018-01-7;15.0;T, T+, CMR;;Non
+2016;20212;2010118;mancozebe;8018-01-7;11.52;T, T+, CMR;;Non
+2016;20212;2010118;metalaxyl-m;70630-17-0;0.6984;Autre;;Non
+2016;20212;2010410;soufre pour pulverisation (micronise);7704-34-9;0.6;Autre;;Non
+2016;20212;2050146;diflufenicanil;83164-33-4;0.016;N Organique;;Non
+2016;20212;2050146;glyphosate;1071-83-6;0.1;N Organique;;Non
+2016;20212;2080129;meptyldinocap;131-72-6;1.75;N Organique;;Non
+2016;20212;2090164;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20212;2110173;cuivre de l'oxychlorure de cuivre;1332-65-6;4.185;T, T+, CMR;;Non
+2016;20212;2110173;mandipropamide;374726-62-2;0.75;N Organique;;Non
+2016;20212;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20212;2120133;fluroxypyr;69377-81-7;0.1;N Organique;;Non
+2016;20212;2120133;triclopyr;55335-06-3;0.3;N Organique;;Non
+2016;20212;2140085;abamectine;71751-41-2;0.18;T, T+, CMR;;Non
+2016;20212;8700542;cymoxanil;57966-95-7;0.72;T, T+, CMR;;Non
+2016;20212;8700542;folpel;133-07-3;7.2;T, T+, CMR;;Non
+2016;20212;9000471;glufosinate ammonium;77182-82-2;3.0;T, T+, CMR;;Non
+2016;20212;9000490;cycloxydime;101205-02-1;1.0;T, T+, CMR;;Non
+2016;20212;9600025;fosetyl-aluminium;39148-24-8;24.0;Autre;;Non
+2016;20212;9700070;flazasulfuron;104040-78-0;0.25;N Organique;;Non
+2016;20213;2000510;fer sous forme de sulfate de fer;7720-78-7;1.6;Autre;;Non
+2016;20213;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;228.6;T, T+, CMR;;Non
+2016;20213;2010019;quizalofop-p-ethyl;100646-51-3;0.5;N Organique;;Non
+2016;20213;2010023;deltamethrine;52918-63-5;12.81;T, T+, CMR;;Non
+2016;20213;2010130;cuivre de l'oxyde cuivreux;1317-39-1;52.5;N minéral;;Non
+2016;20213;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20213;2010530;myclobutanil;88671-89-0;0.009;T, T+, CMR;;Non
+2016;20213;2020003;phosphate ferrique;10045-86-0;0.0396;Autre;;Non
+2016;20213;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20213;2030273;lambda-cyhalothrine;91465-08-6;0.00025;T, T+, CMR;;Non
+2016;20213;2030273;pyrimicarbe;23103-98-2;0.005;T, T+, CMR;;Non
+2016;20213;2030332;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;20213;2030332;dichlorprop-p;15165-67-0;2.4;Autre;;Non
+2016;20213;2030337;dichlorprop-p;15165-67-0;2.75;Autre;;Non
+2016;20213;2040195;myclobutanil;88671-89-0;18.225;T, T+, CMR;;Non
+2016;20213;2050046;flonicamide;158062-67-0;70.25;Autre;;Non
+2016;20213;2050145;diflufenicanil;83164-33-4;0.0044;N Organique;;Non
+2016;20213;2050145;glyphosate;1071-83-6;0.0275;N Organique;;Non
+2016;20213;2060050;metrafenone;220899-03-6;22.5;N Organique;;Non
+2016;20213;2060084;boscalid;188425-85-6;5.34;N Organique;;Non
+2016;20213;2060084;pyraclostrobine;175013-18-0;1.34;T, T+, CMR;;Non
+2016;20213;2060085;boscalid;188425-85-6;1.8;N Organique;;Non
+2016;20213;2060085;kresoxim-methyl;143390-89-0;0.9;T, T+, CMR;;Non
+2016;20213;2060098;spinosad;168316-95-8;1.92;N Organique;;Non
+2016;20213;2060131;2,4-d;94-75-7;0.093;N Organique;;Non
+2016;20213;2060131;triclopyr;55335-06-3;0.1036;N Organique;;Non
+2016;20213;2060133;thiaclopride;111988-49-9;8.64;T, T+, CMR;;Non
+2016;20213;2070133;napropamide;15299-99-7;2.25;N Organique;;Non
+2016;20213;2080018;acetamipride;135410-20-7;0.002;N Organique;;Non
+2016;20213;2080029;penoxsulame;219714-96-2;0.06;N Organique;;Non
+2016;20213;2080060;pyriproxyfene;95737-68-1;1.4;N Organique;;Non
+2016;20213;2080062;benalaxyl-m;98243-83-5;0.4;N Organique;;Non
+2016;20213;2080062;mancozebe;8018-01-7;6.5;T, T+, CMR;;Non
+2016;20213;2080101;acetamipride;135410-20-7;5.0;N Organique;;Non
+2016;20213;2090030;thiamethoxam;153719-23-4;0.00072;N Organique;;Non
+2016;20213;2090050;cypermethrine;52315-07-8;3.072;N Organique;;Non
+2016;20213;2090080;sulcotrione;99105-77-8;12.0;T, T+, CMR;;Non
+2016;20213;2090082;imidaclopride;138261-41-3;0.4;N Organique;;Non
+2016;20213;2090091;thiamethoxam;153719-23-4;1.0;N Organique;;Non
+2016;20213;2090094;thiophanate-methyl;23564-05-8;35.2;T, T+, CMR;;Non
+2016;20213;2090127;huile essentielle d'orange douce;8028-48-6;6.3;N Organique;;Non
+2016;20213;2090164;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20213;2100001;glyphosate;1071-83-6;1.305;N Organique;;Non
+2016;20213;2100001;pyraflufen-ethyl;129630-19-9;0.00855;N Organique;;Non
+2016;20213;2100061;cuivre du sulfate de cuivre;8011-63-0;30.0;N minéral;;Oui
+2016;20213;2100098;glyphosate;1071-83-6;66.6;N Organique;;Non
+2016;20213;2100111;mesotrione;104206-82-8;0.75;N Organique;;Non
+2016;20213;2100111;nicosulfuron;111991-09-4;0.3;N Organique;;Non
+2016;20213;2100132;glyphosate;1071-83-6;457.2;N Organique;;Oui
+2016;20213;2100165;acetamipride;135410-20-7;0.0006;N Organique;;Non
+2016;20213;2100165;triticonazole;131983-72-7;0.0018;N Organique;;Non
+2016;20213;2100193;2,4-d;94-75-7;28.8;N Organique;;Non
+2016;20213;2100231;emamectine benzoate;155569-91-8;0.19;T, T+, CMR;;Non
+2016;20213;2110086;spirotetramat;203313-25-1;49.8;T, T+, CMR;;Oui
+2016;20213;2110141;dimethomorphe;110488-70-5;2.16;N Organique;;Non
+2016;20213;2110141;pyraclostrobine;175013-18-0;1.2;T, T+, CMR;;Non
+2016;20213;2110150;huile de colza;8002-13-9;0.3108;Autre;;Non
+2016;20213;2110159;triticonazole;131983-72-7;0.007;N Organique;;Non
+2016;20213;2110198;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20213;2120015;glyphosate;1071-83-6;0.00108;N Organique;;Non
+2016;20213;2120018;glyphosate;1071-83-6;0.768;N Organique;;Non
+2016;20213;2120034;glyphosate;1071-83-6;19.2;N Organique;;Non
+2016;20213;2120048;aminopyralid;150114-71-9;0.06;N Organique;;Non
+2016;20213;2120048;triclopyr;55335-06-3;0.48;N Organique;;Non
+2016;20213;2120074;forchlorfenuron;68157-60-8;0.14;T, T+, CMR;;Non
+2016;20213;2120086;chlorpyriphos-methyl;5598-13-0;394.875;N Organique;;Oui
+2016;20213;2120088;fosetyl-aluminium;39148-24-8;536.0;Autre;;Non
+2016;20213;2120133;fluroxypyr;69377-81-7;0.308;N Organique;;Non
+2016;20213;2120133;triclopyr;55335-06-3;0.924;N Organique;;Non
+2016;20213;2130037;glufosinate ammonium;77182-82-2;45.0;T, T+, CMR;;Oui
+2016;20213;2130050;cyprodinyl;121552-61-2;11.25;N Organique;;Oui
+2016;20213;2130050;fludioxonil;131341-86-1;7.5;N Organique;;Oui
+2016;20213;2130075;metaldehyde;108-62-3;0.2;Autre;;Non
+2016;20213;2130083;lambda-cyhalothrine;91465-08-6;0.3;T, T+, CMR;;Non
+2016;20213;2130115;1,5-diaminopentane;462-94-2;0.004612;Autre;;Non
+2016;20213;2130115;acetate d'ammonium;631-61-8;1.124175;Autre;;Non
+2016;20213;2130115;deltamethrine;52918-63-5;0.002191;T, T+, CMR;;Non
+2016;20213;2130115;trimethylamine hydrochloride;593-81-7;0.004612;Autre;;Non
+2016;20213;2130152;fluopyram;658066-35-4;1.0;T, T+, CMR;;Non
+2016;20213;2130152;trifloxystrobine;141517-21-7;1.0;N Organique;;Non
+2016;20213;2130212;phosmet;732-11-6;10.0;N Organique;;Non
+2016;20213;2140035;abamectine;71751-41-2;5.67;T, T+, CMR;;Oui
+2016;20213;2140085;abamectine;71751-41-2;4.698;T, T+, CMR;;Non
+2016;20213;2140121;acide pelargonique;112-05-0;1.404157;Autre;;Non
+2016;20213;2140134;soufre triture ventile;7704-34-9;1.4775;Autre;;Non
+2016;20213;2140183;deltamethrine;52918-63-5;0.075;T, T+, CMR;;Non
+2016;20213;2160008;fluopyram;658066-35-4;0.6;T, T+, CMR;;Non
+2016;20213;2160008;tebuconazole;107534-96-3;0.6;T, T+, CMR;;Non
+2016;20213;7400057;glyphosate;1071-83-6;79.2;N Organique;;Non
+2016;20213;7600008;bupirimate;41483-43-6;5.25;N Organique;;Non
+2016;20213;7700078;diquat;85-00-7;7.0;T, T+, CMR;;Non
+2016;20213;8400528;isoxaben;82558-50-7;0.625;N Organique;;Non
+2016;20213;8500023;thirame;137-26-8;24.0;N Organique;;Non
+2016;20213;8500194;tau-fluvalinate;102851-06-9;2.88;N Organique;;Non
+2016;20213;9000222;soufre;7704-34-9;7.0;Autre;;Non
+2016;20213;9000471;glufosinate ammonium;77182-82-2;155.25;T, T+, CMR;;Non
+2016;20213;9000490;cycloxydime;101205-02-1;20.0;T, T+, CMR;;Oui
+2016;20213;9100296;2,4-d;94-75-7;81.0;N Organique;;Non
+2016;20213;9100418;nicosulfuron;111991-09-4;1.6;N Organique;;Non
+2016;20213;9100479;glyphosate;1071-83-6;158.4;N Organique;;Non
+2016;20213;9100525;tebufenpyrad;119168-77-3;1.802;T, T+, CMR;;Non
+2016;20213;9100558;cypermethrine;52315-07-8;0.00225;N Organique;;Non
+2016;20213;9100613;bioallethrine;584-79-2;0.288;Autre;;Non
+2016;20213;9100613;butoxyde de piperonyle;51-03-6;1.44;Autre;;Non
+2016;20213;9100613;permethrine;52645-53-1;2.4;Autre;;Non
+2016;20213;9200262;iprodione;36734-19-7;30.0;T, T+, CMR;;Non
+2016;20213;9200313;fenazaquin;120928-09-8;1.0;T, T+, CMR;;Non
+2016;20213;9200512;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20213;9300186;tebuconazole;107534-96-3;3.25;T, T+, CMR;;Non
+2016;20213;9300504;huile de vaseline;8042-47-5;4215.72;Autre;;Non
+2016;20213;9400354;glyphosate;1071-83-6;252.0;N Organique;;Non
+2016;20213;9500213;fenbuconazole;114369-43-6;1.0;N Organique;;Non
+2016;20213;9500281;2,4-mcpa;94-74-6;0.252;N Organique;;Non
+2016;20213;9500281;dicamba;1918-00-9;0.0216;N Organique;;Non
+2016;20213;9500281;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;15.48;Autre;;Non
+2016;20213;9500432;acrinathrine;101007-06-1;1.05;N Organique;;Non
+2016;20213;9500561;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20213;9600025;fosetyl-aluminium;39148-24-8;254.4;Autre;;Non
+2016;20213;9600097;cuivre de l'hydroxyde de cuivre;20427-59-2;0.0432;T, T+, CMR;;Non
+2016;20213;9600116;zirame;137-30-4;83.6;T, T+, CMR;;Non
+2016;20213;9600120;thirame;137-26-8;28.0;N Organique;;Non
+2016;20213;9600395;dithianon;3347-22-6;7.0;T, T+, CMR;;Non
+2016;20213;9700027;hexythiazox;78587-05-0;0.2;N Organique;;Non
+2016;20213;9700070;flazasulfuron;104040-78-0;0.2;N Organique;;Non
+2016;20213;9700214;kresoxim-methyl;143390-89-0;0.3;T, T+, CMR;;Non
+2016;20213;9700216;imidaclopride;138261-41-3;0.6;N Organique;;Non
+2016;20213;9700332;azoxystrobine;131860-33-8;0.25;T, T+, CMR;;Non
+2016;20213;9700521;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20213;9800289;metalaxyl-m;70630-17-0;0.4652;Autre;;Non
+2016;20213;9800336;lambda-cyhalothrine;91465-08-6;12.9;T, T+, CMR;;Oui
+2016;20213;9800392;dodine;2439-10-3;24.0;T, T+, CMR;;Non
+2016;20213;9800474;cuivre du sulfate de cuivre;8011-63-0;111.0;N minéral;;Non
+2016;20213;9900104;chlorpyriphos-ethyl;2921-88-2;5.0;T, T+, CMR;;Non
+2016;20213;9900189;coniothyrium minitans souche con/m/91-08;;6.4;Autre;;Non
+2016;20213;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;172.0;T, T+, CMR;;Non
+2016;20213;9900242;mancozebe;8018-01-7;945.0;T, T+, CMR;;Non
+2016;20213;9900331;chlorothalonil;1897-45-6;410.0;T, T+, CMR;;Non
+2016;20213;9900331;metalaxyl-m;70630-17-0;29.766;Autre;;Non
+2016;20214;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;18.0;T, T+, CMR;;Non
+2016;20214;2010023;deltamethrine;52918-63-5;0.03;T, T+, CMR;;Non
+2016;20214;2010350;diflufenicanil;83164-33-4;0.8;N Organique;;Non
+2016;20214;2010350;glyphosate;1071-83-6;5.0;N Organique;;Non
+2016;20214;2010398;folpel;133-07-3;41.6;T, T+, CMR;;Non
+2016;20214;2010398;metalaxyl-m;70630-17-0;5.044;Autre;;Non
+2016;20214;2060131;2,4-d;94-75-7;0.186;N Organique;;Non
+2016;20214;2060131;triclopyr;55335-06-3;0.2072;N Organique;;Non
+2016;20214;2080018;acetamipride;135410-20-7;0.00375;N Organique;;Non
+2016;20214;2090091;thiamethoxam;153719-23-4;0.25;N Organique;;Non
+2016;20214;2090127;huile essentielle d'orange douce;8028-48-6;0.3;N Organique;;Non
+2016;20214;2100078;deltamethrine;52918-63-5;2.3e-05;T, T+, CMR;;Non
+2016;20214;2120034;glyphosate;1071-83-6;19.2;N Organique;;Non
+2016;20214;2120048;aminopyralid;150114-71-9;0.18;N Organique;;Non
+2016;20214;2120048;triclopyr;55335-06-3;1.44;N Organique;;Non
+2016;20214;2120086;chlorpyriphos-methyl;5598-13-0;23.625;N Organique;;Non
+2016;20214;2120132;dimethomorphe;110488-70-5;16.65;N Organique;;Non
+2016;20214;2120132;metirame;9006-42-2;81.4;N Organique;;Non
+2016;20214;2120159;thirame;137-26-8;0.013008;N Organique;;Non
+2016;20214;2140252;phosphate ferrique;10045-86-0;0.015;Autre;;Non
+2016;20214;8500194;tau-fluvalinate;102851-06-9;2.4;N Organique;;Non
+2016;20214;9000222;soufre;7704-34-9;287.0;Autre;;Non
+2016;20214;9000471;glufosinate ammonium;77182-82-2;4.5;T, T+, CMR;;Non
+2016;20214;9000490;cycloxydime;101205-02-1;0.5;T, T+, CMR;;Non
+2016;20214;9100558;cypermethrine;52315-07-8;0.003188;N Organique;;Non
+2016;20214;9100613;bioallethrine;584-79-2;0.048;Autre;;Non
+2016;20214;9100613;butoxyde de piperonyle;51-03-6;0.24;Autre;;Non
+2016;20214;9100613;permethrine;52645-53-1;0.4;Autre;;Non
+2016;20214;9400354;glyphosate;1071-83-6;108.0;N Organique;;Non
+2016;20214;9500432;acrinathrine;101007-06-1;0.075;N Organique;;Non
+2016;20214;9700216;imidaclopride;138261-41-3;1.4;N Organique;;Non
+2016;20214;9800336;lambda-cyhalothrine;91465-08-6;0.3;T, T+, CMR;;Non
+2016;20214;9800420;spiroxamine;118134-30-8;16.5;N Organique;;Non
+2016;20214;9800474;cuivre du sulfate de cuivre;8011-63-0;12.0;N minéral;;Non
+2016;20214;9900104;chlorpyriphos-ethyl;2921-88-2;2.5;T, T+, CMR;;Non
+2016;20215;2000018;soufre pour pulverisation (micronise);7704-34-9;1040.0;Autre;;Non
+2016;20215;2000316;esfenvalerate;66230-04-4;2.1;T, T+, CMR;;Non
+2016;20215;2000416;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20215;2000510;fer sous forme de sulfate de fer;7720-78-7;6.4;Autre;;Non
+2016;20215;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;16.2;T, T+, CMR;;Non
+2016;20215;2010019;quizalofop-p-ethyl;100646-51-3;0.05;N Organique;;Non
+2016;20215;2010023;deltamethrine;52918-63-5;8.43;T, T+, CMR;;Non
+2016;20215;2010130;cuivre de l'oxyde cuivreux;1317-39-1;525.0;N minéral;;Non
+2016;20215;2010132;pymetrozine;123312-89-0;8.0;T, T+, CMR;;Non
+2016;20215;2010354;fosetyl-aluminium;39148-24-8;96.0;Autre;;Oui
+2016;20215;2010398;folpel;133-07-3;9.6;T, T+, CMR;;Non
+2016;20215;2010398;metalaxyl-m;70630-17-0;1.164;Autre;;Non
+2016;20215;2010410;soufre pour pulverisation (micronise);7704-34-9;0.6;Autre;;Non
+2016;20215;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20215;2020003;phosphate ferrique;10045-86-0;0.0792;Autre;;Non
+2016;20215;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20215;2030273;lambda-cyhalothrine;91465-08-6;0.00075;T, T+, CMR;;Non
+2016;20215;2030273;pyrimicarbe;23103-98-2;0.015;T, T+, CMR;;Non
+2016;20215;2040195;myclobutanil;88671-89-0;17.145;T, T+, CMR;;Non
+2016;20215;2050046;flonicamide;158062-67-0;24.5;Autre;;Non
+2016;20215;2050146;diflufenicanil;83164-33-4;0.032;N Organique;;Non
+2016;20215;2050146;glyphosate;1071-83-6;0.2;N Organique;;Non
+2016;20215;2060002;difenoconazole;119446-68-3;6.25;N Organique;;Non
+2016;20215;2060050;metrafenone;220899-03-6;2.0;N Organique;;Non
+2016;20215;2060084;boscalid;188425-85-6;27.768;N Organique;;Non
+2016;20215;2060084;pyraclostrobine;175013-18-0;6.968;T, T+, CMR;;Non
+2016;20215;2060085;boscalid;188425-85-6;4.0;N Organique;;Non
+2016;20215;2060085;kresoxim-methyl;143390-89-0;2.0;T, T+, CMR;;Non
+2016;20215;2060098;spinosad;168316-95-8;21.12;N Organique;;Non
+2016;20215;2060133;thiaclopride;111988-49-9;31.2;T, T+, CMR;;Non
+2016;20215;2080018;acetamipride;135410-20-7;0.0115;N Organique;;Non
+2016;20215;2080054;acetamipride;135410-20-7;1e-05;N Organique;;Non
+2016;20215;2080060;pyriproxyfene;95737-68-1;13.5;N Organique;;Non
+2016;20215;2080099;mancozebe;8018-01-7;30.0;T, T+, CMR;;Non
+2016;20215;2080099;mandipropamide;374726-62-2;2.5;N Organique;;Non
+2016;20215;2080101;acetamipride;135410-20-7;18.2;N Organique;;Non
+2016;20215;2080109;myclobutanil;88671-89-0;0.45;T, T+, CMR;;Non
+2016;20215;2080109;quinoxyfene;124495-18-7;0.45;N Organique;;Non
+2016;20215;2090001;proquinazid;189278-12-4;3.6;T, T+, CMR;;Non
+2016;20215;2090019;6-benzyladenine;1214-39-7;0.7;T, T+, CMR;;Non
+2016;20215;2090029;thiamethoxam;153719-23-4;0.005;N Organique;;Non
+2016;20215;2090030;thiamethoxam;153719-23-4;0.00072;N Organique;;Non
+2016;20215;2090044;glyphosate;1071-83-6;0.757;N Organique;;Non
+2016;20215;2090050;cypermethrine;52315-07-8;5.76;N Organique;;Non
+2016;20215;2090080;sulcotrione;99105-77-8;24.0;T, T+, CMR;;Non
+2016;20215;2090082;imidaclopride;138261-41-3;3.2;N Organique;;Non
+2016;20215;2090091;thiamethoxam;153719-23-4;4.0;N Organique;;Non
+2016;20215;2090094;thiophanate-methyl;23564-05-8;436.48;T, T+, CMR;;Non
+2016;20215;2090127;huile essentielle d'orange douce;8028-48-6;0.3;N Organique;;Non
+2016;20215;2090146;abamectine;71751-41-2;1.5e-05;T, T+, CMR;;Non
+2016;20215;2090146;pyrethrines;8003-34-7;0.0002;N Organique;;Non
+2016;20215;2090164;glyphosate;1071-83-6;3.6;N Organique;;Non
+2016;20215;2090176;diquat;85-00-7;0.0015;T, T+, CMR;;Non
+2016;20215;2090176;glyphosate;1071-83-6;0.0415;N Organique;;Non
+2016;20215;2090188;glyphosate;1071-83-6;309.6;N Organique;;Non
+2016;20215;2100001;glyphosate;1071-83-6;35.235;N Organique;;Non
+2016;20215;2100001;pyraflufen-ethyl;129630-19-9;0.23085;N Organique;;Non
+2016;20215;2100004;acetamipride;135410-20-7;4.8e-05;N Organique;;Non
+2016;20215;2100004;triticonazole;131983-72-7;0.000144;N Organique;;Non
+2016;20215;2100058;captane;133-06-2;10.8;T, T+, CMR;;Non
+2016;20215;2100058;trifloxystrobine;141517-21-7;0.72;N Organique;;Non
+2016;20215;2100078;deltamethrine;52918-63-5;8e-06;T, T+, CMR;;Non
+2016;20215;2100098;glyphosate;1071-83-6;37.8;N Organique;;Non
+2016;20215;2100121;chlorantraniliprole;500008-45-7;0.4;N Organique;;Non
+2016;20215;2100154;chlorpyriphos-ethyl;2921-88-2;5.0;T, T+, CMR;;Non
+2016;20215;2100154;cypermethrine;52315-07-8;0.5;N Organique;;Non
+2016;20215;2100186;glyphosate;1071-83-6;57.6;N Organique;;Oui
+2016;20215;2100221;ametoctradine;865318-97-4;17.4;Autre;;Non
+2016;20215;2100221;metirame;9006-42-2;63.8;N Organique;;Non
+2016;20215;2100231;emamectine benzoate;155569-91-8;1.425;T, T+, CMR;;Non
+2016;20215;2110086;spirotetramat;203313-25-1;50.0;T, T+, CMR;;Non
+2016;20215;2110141;dimethomorphe;110488-70-5;2.16;N Organique;;Non
+2016;20215;2110141;pyraclostrobine;175013-18-0;1.2;T, T+, CMR;;Non
+2016;20215;2110150;huile de colza;8002-13-9;0.6216;Autre;;Non
+2016;20215;2110159;triticonazole;131983-72-7;0.007;N Organique;;Non
+2016;20215;2110173;cuivre de l'oxychlorure de cuivre;1332-65-6;29.295;T, T+, CMR;;Non
+2016;20215;2110173;mandipropamide;374726-62-2;5.25;N Organique;;Non
+2016;20215;2120018;glyphosate;1071-83-6;1.536;N Organique;;Non
+2016;20215;2120034;glyphosate;1071-83-6;777.6;N Organique;;Non
+2016;20215;2120048;aminopyralid;150114-71-9;0.18;N Organique;;Non
+2016;20215;2120048;triclopyr;55335-06-3;1.44;N Organique;;Non
+2016;20215;2120074;forchlorfenuron;68157-60-8;0.02;T, T+, CMR;;Non
+2016;20215;2120086;chlorpyriphos-methyl;5598-13-0;302.625;N Organique;;Non
+2016;20215;2120132;dimethomorphe;110488-70-5;22.05;N Organique;;Non
+2016;20215;2120132;metirame;9006-42-2;107.8;N Organique;;Non
+2016;20215;2120133;fluroxypyr;69377-81-7;0.004;N Organique;;Non
+2016;20215;2120133;triclopyr;55335-06-3;0.012;N Organique;;Non
+2016;20215;2120157;acide pelargonique;112-05-0;0.01632;Autre;;Non
+2016;20215;2120157;glyphosate;1071-83-6;0.00576;N Organique;;Non
+2016;20215;2120214;chlorantraniliprole;500008-45-7;0.4;N Organique;;Non
+2016;20215;2120214;thiamethoxam;153719-23-4;0.4;N Organique;;Non
+2016;20215;2130049;cyflufenamid;180409-60-3;0.45;N Organique;;Non
+2016;20215;2130049;difenoconazole;119446-68-3;0.9;N Organique;;Non
+2016;20215;2130067;cyflufenamid;180409-60-3;1.0;N Organique;;Non
+2016;20215;2130075;metaldehyde;108-62-3;4.2;Autre;;Non
+2016;20215;2130083;lambda-cyhalothrine;91465-08-6;1.5;T, T+, CMR;;Non
+2016;20215;2130152;fluopyram;658066-35-4;2.5;T, T+, CMR;;Non
+2016;20215;2130152;trifloxystrobine;141517-21-7;2.5;N Organique;;Non
+2016;20215;2130153;acide acetique;64-19-7;0.096;Autre;;Non
+2016;20215;2130212;phosmet;732-11-6;175.0;N Organique;;Non
+2016;20215;2130255;dimethomorphe;110488-70-5;5.085;N Organique;;Non
+2016;20215;2130255;folpel;133-07-3;27.0;T, T+, CMR;;Non
+2016;20215;2140001;acide gibberellique;77-06-5;1.6;Autre;;Non
+2016;20215;2140085;abamectine;71751-41-2;5.13;T, T+, CMR;;Non
+2016;20215;2140121;acide pelargonique;112-05-0;2.61349;Autre;;Non
+2016;20215;2140127;cymoxanil;57966-95-7;4.95;T, T+, CMR;;Non
+2016;20215;2140127;zoxamide;156052-68-5;4.95;N Organique;;Non
+2016;20215;2140134;soufre triture ventile;7704-34-9;1.182;Autre;;Non
+2016;20215;2140183;deltamethrine;52918-63-5;1.95;T, T+, CMR;;Non
+2016;20215;2140252;phosphate ferrique;10045-86-0;0.04875;Autre;;Non
+2016;20215;2150417;bacillus thuringiensis ssp kurstaki;68038-71-1;0.0324;Autre;;Non
+2016;20215;2160008;fluopyram;658066-35-4;9.0;T, T+, CMR;;Non
+2016;20215;2160008;tebuconazole;107534-96-3;9.0;T, T+, CMR;;Non
+2016;20215;7400755;acide alpha naphtylacetique (ana);86-87-3;0.05;N Organique;;Non
+2016;20215;7600008;bupirimate;41483-43-6;57.5;N Organique;;Non
+2016;20215;8300025;penconazole;66246-88-6;2.0;T, T+, CMR;;Non
+2016;20215;8400574;propyzamide;23950-58-5;2.0;T, T+, CMR;;Non
+2016;20215;8500023;thirame;137-26-8;940.0;N Organique;;Non
+2016;20215;8500174;abamectine;71751-41-2;2.16;T, T+, CMR;;Oui
+2016;20215;8500194;tau-fluvalinate;102851-06-9;29.28;N Organique;;Non
+2016;20215;8700102;benalaxyl;71626-11-4;3.6;N Organique;;Non
+2016;20215;8700102;folpel;133-07-3;23.1;T, T+, CMR;;Non
+2016;20215;8800498;acide alpha naphtylacetique (ana);86-87-3;0.1333;N Organique;;Non
+2016;20215;8800498;alpha naphtyl acetamide (nad);86-86-2;0.3658;N Organique;;Non
+2016;20215;8800841;difenoconazole;119446-68-3;2.5;N Organique;;Non
+2016;20215;8800941;metaldehyde;108-62-3;21.12;Autre;;Oui
+2016;20215;8900685;e/z8 acetate de dodecenyle;37338-40-2;1.76;N Organique;;Non
+2016;20215;9000184;2,4-mcpa;94-74-6;16.0;N Organique;;Non
+2016;20215;9000184;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;1.6;Autre;;Non
+2016;20215;9000184;fluroxypyr;69377-81-7;3.2;N Organique;;Non
+2016;20215;9000222;soufre;7704-34-9;203.0;Autre;;Non
+2016;20215;9000471;glufosinate ammonium;77182-82-2;437.25;T, T+, CMR;;Non
+2016;20215;9000490;cycloxydime;101205-02-1;1.0;T, T+, CMR;;Non
+2016;20215;9100296;2,4-d;94-75-7;27.0;N Organique;;Non
+2016;20215;9100418;nicosulfuron;111991-09-4;3.4;N Organique;;Non
+2016;20215;9100525;tebufenpyrad;119168-77-3;1.0;T, T+, CMR;;Non
+2016;20215;9100537;glyphosate;1071-83-6;50.4;N Organique;;Non
+2016;20215;9100558;cypermethrine;52315-07-8;0.001938;N Organique;;Non
+2016;20215;9200155;oxyfluorfene;42874-03-3;5.76;T, T+, CMR;;Non
+2016;20215;9200159;pyrimethanil;53112-28-0;22.0;N Organique;;Non
+2016;20215;9200215;cymoxanil;57966-95-7;2.4;T, T+, CMR;;Non
+2016;20215;9200215;metirame-zinc;9006-42-2;32.0;N Organique;;Non
+2016;20215;9200262;iprodione;36734-19-7;155.0;T, T+, CMR;;Non
+2016;20215;9200313;fenazaquin;120928-09-8;0.4;T, T+, CMR;;Non
+2016;20215;9300108;captane;133-06-2;24.0;T, T+, CMR;;Non
+2016;20215;9300186;tebuconazole;107534-96-3;25.5;T, T+, CMR;;Non
+2016;20215;9300504;huile de vaseline;8042-47-5;6830.12;Autre;;Non
+2016;20215;9400354;glyphosate;1071-83-6;957.6;N Organique;;Non
+2016;20215;9400484;cuivre du sulfate de cuivre;8011-63-0;10.08;N minéral;;Non
+2016;20215;9400484;cymoxanil;57966-95-7;1.9208;T, T+, CMR;;Non
+2016;20215;9400484;mancozebe;8018-01-7;6.44;T, T+, CMR;;Non
+2016;20215;9500135;metaldehyde;108-62-3;0.045;Autre;;Non
+2016;20215;9500213;fenbuconazole;114369-43-6;16.5;N Organique;;Non
+2016;20215;9500281;2,4-mcpa;94-74-6;0.126;N Organique;;Non
+2016;20215;9500281;dicamba;1918-00-9;0.0108;N Organique;;Non
+2016;20215;9500281;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;7.74;Autre;;Non
+2016;20215;9500414;cypermethrine;52315-07-8;0.005;N Organique;;Non
+2016;20215;9500432;acrinathrine;101007-06-1;10.575;N Organique;;Non
+2016;20215;9500561;glyphosate;1071-83-6;4.5;N Organique;;Non
+2016;20215;9500568;cyprodinyl;121552-61-2;0.75;N Organique;;Non
+2016;20215;9500568;fludioxonil;131341-86-1;0.5;N Organique;;Non
+2016;20215;9500629;cyprodinyl;121552-61-2;0.5;N Organique;;Non
+2016;20215;9500649;folpel;133-07-3;3.0;T, T+, CMR;;Non
+2016;20215;9500649;fosetyl-aluminium;39148-24-8;6.0;Autre;;Non
+2016;20215;9600025;fosetyl-aluminium;39148-24-8;470.4;Autre;;Non
+2016;20215;9600103;dimethomorphe;110488-70-5;0.45;N Organique;;Non
+2016;20215;9600103;mancozebe;8018-01-7;3.0;T, T+, CMR;;Non
+2016;20215;9600116;zirame;137-30-4;486.4;T, T+, CMR;;Non
+2016;20215;9600120;thirame;137-26-8;336.0;N Organique;;Non
+2016;20215;9600368;fosetyl-aluminium;39148-24-8;259.992;Autre;;Non
+2016;20215;9600368;metirame;9006-42-2;159.528;N Organique;;Non
+2016;20215;9600390;glyphosate;1071-83-6;50.4;N Organique;;Non
+2016;20215;9600395;dithianon;3347-22-6;63.0;T, T+, CMR;;Non
+2016;20215;9700027;hexythiazox;78587-05-0;0.4;N Organique;;Non
+2016;20215;9700216;imidaclopride;138261-41-3;13.0;N Organique;;Non
+2016;20215;9700332;azoxystrobine;131860-33-8;1.25;T, T+, CMR;;Non
+2016;20215;9700463;dimethomorphe;110488-70-5;7.232;N Organique;;Non
+2016;20215;9700463;folpel;133-07-3;38.4;T, T+, CMR;;Non
+2016;20215;9700521;glyphosate;1071-83-6;1.08;N Organique;;Non
+2016;20215;9800096;huile minerale paraffinique;8042-47-5;1.6;Autre;;Non
+2016;20215;9800098;metamitrone;41394-05-2;2.7;N Organique;;Non
+2016;20215;9800201;2,4-mcpa;94-74-6;2.16;N Organique;;Non
+2016;20215;9800201;dichlorprop-p;15165-67-0;2.16;Autre;;Non
+2016;20215;9800201;glyphosate;1071-83-6;2.88;N Organique;;Non
+2016;20215;9800336;lambda-cyhalothrine;91465-08-6;15.4;T, T+, CMR;;Non
+2016;20215;9800392;dodine;2439-10-3;14.0;T, T+, CMR;;Non
+2016;20215;9800420;spiroxamine;118134-30-8;27.0;N Organique;;Non
+2016;20215;9800474;cuivre du sulfate de cuivre;8011-63-0;309.0;N minéral;;Non
+2016;20215;9800477;bentazone;25057-89-0;4.8;N Organique;;Non
+2016;20215;9800477;dicamba;1918-00-9;1.35;N Organique;;Non
+2016;20215;9800481;fleur de chaux (chaux eteinte);1305-62-0;1.95;Autre;;Non
+2016;20215;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;72.0;T, T+, CMR;;Non
+2016;20215;9900242;mancozebe;8018-01-7;75.0;T, T+, CMR;;Non
+2016;20215;9900282;cuivre de l'oxychlorure de cuivre;1332-40-7;0.3003;T, T+, CMR;;Non
+2016;20215;9900331;chlorothalonil;1897-45-6;2.5;T, T+, CMR;;Non
+2016;20215;9900331;metalaxyl-m;70630-17-0;0.1815;Autre;;Non
+2016;20217;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;61.2;T, T+, CMR;;Non
+2016;20217;2010023;deltamethrine;52918-63-5;0.21;T, T+, CMR;;Non
+2016;20217;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20217;2030125;deltamethrine;52918-63-5;0.00045;T, T+, CMR;;Non
+2016;20217;2030273;lambda-cyhalothrine;91465-08-6;0.0005;T, T+, CMR;;Non
+2016;20217;2030273;pyrimicarbe;23103-98-2;0.01;T, T+, CMR;;Non
+2016;20217;2030332;2,4-d;94-75-7;1.2;N Organique;;Non
+2016;20217;2030332;dichlorprop-p;15165-67-0;0.6;Autre;;Non
+2016;20217;2060098;spinosad;168316-95-8;0.24;N Organique;;Non
+2016;20217;2060133;thiaclopride;111988-49-9;0.48;T, T+, CMR;;Non
+2016;20217;2070133;napropamide;15299-99-7;20.25;N Organique;;Non
+2016;20217;2080018;acetamipride;135410-20-7;0.00575;N Organique;;Non
+2016;20217;2080054;acetamipride;135410-20-7;9.6e-05;N Organique;;Non
+2016;20217;2090119;cuivre du sulfate tribasique;12527-76-3;9.5;N minéral;;Non
+2016;20217;2100098;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20217;2100220;glyphosate;1071-83-6;0.0054;N Organique;;Non
+2016;20217;2100231;emamectine benzoate;155569-91-8;0.285;T, T+, CMR;;Non
+2016;20217;2110141;dimethomorphe;110488-70-5;0.36;N Organique;;Non
+2016;20217;2110141;pyraclostrobine;175013-18-0;0.2;T, T+, CMR;;Non
+2016;20217;2120018;glyphosate;1071-83-6;1.152;N Organique;;Non
+2016;20217;2120048;aminopyralid;150114-71-9;0.09;N Organique;;Non
+2016;20217;2120048;triclopyr;55335-06-3;0.72;N Organique;;Non
+2016;20217;2120086;chlorpyriphos-methyl;5598-13-0;5.625;N Organique;;Non
+2016;20217;2120133;fluroxypyr;69377-81-7;0.008;N Organique;;Non
+2016;20217;2120133;triclopyr;55335-06-3;0.024;N Organique;;Non
+2016;20217;2130152;fluopyram;658066-35-4;0.5;T, T+, CMR;;Non
+2016;20217;2130152;trifloxystrobine;141517-21-7;0.5;N Organique;;Non
+2016;20217;2140106;huile minerale paraffinique;8042-47-5;0.395;Autre;;Non
+2016;20217;2140121;acide pelargonique;112-05-0;0.216207;Autre;;Non
+2016;20217;2160008;fluopyram;658066-35-4;0.8;T, T+, CMR;;Non
+2016;20217;2160008;tebuconazole;107534-96-3;0.8;T, T+, CMR;;Non
+2016;20217;5100219;soufre sublime;7704-34-9;371.25;Autre;;Non
+2016;20217;7400057;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20217;8400528;isoxaben;82558-50-7;5.625;N Organique;;Non
+2016;20217;8900620;folpel;133-07-3;2.5;T, T+, CMR;;Non
+2016;20217;9000222;soufre;7704-34-9;952.0;Autre;;Non
+2016;20217;9100296;2,4-d;94-75-7;18.0;N Organique;;Non
+2016;20217;9400354;glyphosate;1071-83-6;115.2;N Organique;;Non
+2016;20217;9500568;cyprodinyl;121552-61-2;0.00375;N Organique;;Non
+2016;20217;9500568;fludioxonil;131341-86-1;0.0025;N Organique;;Non
+2016;20217;9500649;folpel;133-07-3;36.0;T, T+, CMR;;Non
+2016;20217;9500649;fosetyl-aluminium;39148-24-8;72.0;Autre;;Non
+2016;20217;9600368;fosetyl-aluminium;39148-24-8;84.78;Autre;;Non
+2016;20217;9600368;metirame;9006-42-2;52.02;N Organique;;Non
+2016;20217;9700216;imidaclopride;138261-41-3;1.2;N Organique;;Non
+2016;20217;9800336;lambda-cyhalothrine;91465-08-6;0.4;T, T+, CMR;;Non
+2016;20217;9800420;spiroxamine;118134-30-8;24.0;N Organique;;Non
+2016;20217;9800474;cuivre du sulfate de cuivre;8011-63-0;54.0;N minéral;;Non
+2016;20217;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;24.0;T, T+, CMR;;Non
+2016;20217;9900282;cuivre de l'oxychlorure de cuivre;1332-40-7;0.15015;T, T+, CMR;;Non
+2016;20218;2000510;fer sous forme de sulfate de fer;7720-78-7;1.6;Autre;;Non
+2016;20218;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;64.8;T, T+, CMR;;Non
+2016;20218;2010023;deltamethrine;52918-63-5;0.015;T, T+, CMR;;Non
+2016;20218;2030332;2,4-d;94-75-7;1.2;N Organique;;Non
+2016;20218;2030332;dichlorprop-p;15165-67-0;0.6;Autre;;Non
+2016;20218;2040195;myclobutanil;88671-89-0;2.295;T, T+, CMR;;Non
+2016;20218;2060050;metrafenone;220899-03-6;1.0;N Organique;;Non
+2016;20218;2060133;thiaclopride;111988-49-9;0.96;T, T+, CMR;;Non
+2016;20218;2080018;acetamipride;135410-20-7;0.001;N Organique;;Non
+2016;20218;2080099;mancozebe;8018-01-7;24.0;T, T+, CMR;;Non
+2016;20218;2080099;mandipropamide;374726-62-2;2.0;N Organique;;Non
+2016;20218;2080109;myclobutanil;88671-89-0;0.45;T, T+, CMR;;Non
+2016;20218;2080109;quinoxyfene;124495-18-7;0.45;N Organique;;Non
+2016;20218;2090001;proquinazid;189278-12-4;0.4;T, T+, CMR;;Non
+2016;20218;2090034;difenoconazole;119446-68-3;8.4e-05;N Organique;;Non
+2016;20218;2090119;cuivre du sulfate tribasique;12527-76-3;13.3;N minéral;;Non
+2016;20218;2090132;cuivre du sulfate tribasique;12527-76-3;5.332;N minéral;;Non
+2016;20218;2090132;zoxamide;156052-68-5;0.8;N Organique;;Non
+2016;20218;2090138;pendimethaline;40487-42-1;0.09;N Organique;;Non
+2016;20218;2090176;diquat;85-00-7;0.0015;T, T+, CMR;;Non
+2016;20218;2090176;glyphosate;1071-83-6;0.0415;N Organique;;Non
+2016;20218;2100001;glyphosate;1071-83-6;22.185;N Organique;;Non
+2016;20218;2100001;pyraflufen-ethyl;129630-19-9;0.14535;N Organique;;Non
+2016;20218;2100098;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20218;2100181;fluopicolide;239110-15-7;0.5328;N Organique;;Non
+2016;20218;2100181;fosetyl-aluminium;39148-24-8;8.0004;Autre;;Non
+2016;20218;2110073;indoxacarbe;173584-44-6;0.3;T, T+, CMR;;Non
+2016;20218;2110197;spiroxamine;118134-30-8;4.0;N Organique;;Non
+2016;20218;2120034;glyphosate;1071-83-6;57.6;N Organique;;Non
+2016;20218;2120086;chlorpyriphos-methyl;5598-13-0;12.375;N Organique;;Non
+2016;20218;2130152;fluopyram;658066-35-4;0.25;T, T+, CMR;;Non
+2016;20218;2130152;trifloxystrobine;141517-21-7;0.25;N Organique;;Non
+2016;20218;2140121;acide pelargonique;112-05-0;0.432414;Autre;;Non
+2016;20218;2140255;acide pelargonique;112-05-0;20.4;Autre;;Non
+2016;20218;8700102;benalaxyl;71626-11-4;1.2;N Organique;;Non
+2016;20218;8700102;folpel;133-07-3;7.7;T, T+, CMR;;Non
+2016;20218;9000222;soufre;7704-34-9;931.0;Autre;;Non
+2016;20218;9000471;glufosinate ammonium;77182-82-2;19.5;T, T+, CMR;;Non
+2016;20218;9100613;bioallethrine;584-79-2;0.072;Autre;;Non
+2016;20218;9100613;butoxyde de piperonyle;51-03-6;0.36;Autre;;Non
+2016;20218;9100613;permethrine;52645-53-1;0.6;Autre;;Non
+2016;20218;9400354;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20218;9420113;2,4-d;94-75-7;0.14;N Organique;;Non
+2016;20218;9420113;dicamba;1918-00-9;0.02;N Organique;;Non
+2016;20218;9420113;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;10.0;Autre;;Non
+2016;20218;9500432;acrinathrine;101007-06-1;0.225;N Organique;;Non
+2016;20218;9600025;fosetyl-aluminium;39148-24-8;4.8;Autre;;Non
+2016;20218;9700065;quinoxyfene;124495-18-7;0.75;N Organique;;Non
+2016;20218;9700442;tebuconazole;107534-96-3;0.45;T, T+, CMR;;Non
+2016;20218;9700442;triadimenol;55219-65-3;0.15;N Organique;;Non
+2016;20218;9800201;2,4-mcpa;94-74-6;1.08;N Organique;;Non
+2016;20218;9800201;dichlorprop-p;15165-67-0;1.08;Autre;;Non
+2016;20218;9800201;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20218;9800336;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;20218;9800474;cuivre du sulfate de cuivre;8011-63-0;141.0;N minéral;;Non
+2016;20218;9900242;mancozebe;8018-01-7;15.0;T, T+, CMR;;Non
+2016;20219;2060130;spinosad;168316-95-8;0.00024;N Organique;;Non
+2016;20220;2000510;fer sous forme de sulfate de fer;7720-78-7;1.6;Autre;;Non
+2016;20220;2010023;deltamethrine;52918-63-5;0.075;T, T+, CMR;;Non
+2016;20220;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20220;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20220;2060084;boscalid;188425-85-6;0.267;N Organique;;Non
+2016;20220;2060084;pyraclostrobine;175013-18-0;0.067;T, T+, CMR;;Non
+2016;20220;2060098;spinosad;168316-95-8;0.24;N Organique;;Non
+2016;20220;2060133;thiaclopride;111988-49-9;1.44;T, T+, CMR;;Non
+2016;20220;2080054;acetamipride;135410-20-7;4.8e-05;N Organique;;Non
+2016;20220;2090024;sulcotrione;99105-77-8;1.5;T, T+, CMR;;Non
+2016;20220;2100165;acetamipride;135410-20-7;0.00115;N Organique;;Non
+2016;20220;2100165;triticonazole;131983-72-7;0.00345;N Organique;;Non
+2016;20220;2120048;aminopyralid;150114-71-9;0.03;N Organique;;Non
+2016;20220;2120048;triclopyr;55335-06-3;0.24;N Organique;;Non
+2016;20220;2120086;chlorpyriphos-methyl;5598-13-0;18.0;N Organique;;Non
+2016;20220;2140090;azadirachtine;11141-17-6;0.049;Autre;;Non
+2016;20220;9000222;soufre;7704-34-9;21.0;Autre;;Non
+2016;20220;9000471;glufosinate ammonium;77182-82-2;3.0;T, T+, CMR;;Non
+2016;20220;9100296;2,4-d;94-75-7;6.0;N Organique;;Non
+2016;20220;9100613;bioallethrine;584-79-2;0.072;Autre;;Non
+2016;20220;9100613;butoxyde de piperonyle;51-03-6;0.36;Autre;;Non
+2016;20220;9100613;permethrine;52645-53-1;0.6;Autre;;Non
+2016;20220;9300504;huile de vaseline;8042-47-5;98.04;Autre;;Non
+2016;20220;9400085;etofenprox;80844-07-1;0.2875;T, T+, CMR;;Non
+2016;20220;9400354;glyphosate;1071-83-6;21.6;N Organique;;Non
+2016;20220;9700216;imidaclopride;138261-41-3;2.0;N Organique;;Non
+2016;20220;9800201;2,4-mcpa;94-74-6;1.35;N Organique;;Non
+2016;20220;9800201;dichlorprop-p;15165-67-0;1.35;Autre;;Non
+2016;20220;9800201;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20220;9800336;lambda-cyhalothrine;91465-08-6;0.2;T, T+, CMR;;Non
+2016;20220;9800474;cuivre du sulfate de cuivre;8011-63-0;138.0;N minéral;;Non
+2016;20221;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;1.8;T, T+, CMR;;Non
+2016;20221;2010023;deltamethrine;52918-63-5;0.33;T, T+, CMR;;Non
+2016;20221;2010132;pymetrozine;123312-89-0;0.5;T, T+, CMR;;Non
+2016;20221;2010398;folpel;133-07-3;6.4;T, T+, CMR;;Non
+2016;20221;2010398;metalaxyl-m;70630-17-0;0.776;Autre;;Non
+2016;20221;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20221;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20221;2030273;lambda-cyhalothrine;91465-08-6;0.00025;T, T+, CMR;;Non
+2016;20221;2030273;pyrimicarbe;23103-98-2;0.005;T, T+, CMR;;Non
+2016;20221;2030332;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;20221;2030332;dichlorprop-p;15165-67-0;2.4;Autre;;Non
+2016;20221;2040195;myclobutanil;88671-89-0;0.27;T, T+, CMR;;Non
+2016;20221;2050046;flonicamide;158062-67-0;1.75;Autre;;Non
+2016;20221;2060050;metrafenone;220899-03-6;0.5;N Organique;;Non
+2016;20221;2060084;boscalid;188425-85-6;0.534;N Organique;;Non
+2016;20221;2060084;pyraclostrobine;175013-18-0;0.134;T, T+, CMR;;Non
+2016;20221;2060085;boscalid;188425-85-6;0.4;N Organique;;Non
+2016;20221;2060085;kresoxim-methyl;143390-89-0;0.2;T, T+, CMR;;Non
+2016;20221;2060133;thiaclopride;111988-49-9;0.96;T, T+, CMR;;Non
+2016;20221;2080060;pyriproxyfene;95737-68-1;1.3;N Organique;;Non
+2016;20221;2080100;folpel;133-07-3;4.0;T, T+, CMR;;Non
+2016;20221;2080100;mandipropamide;374726-62-2;0.5;N Organique;;Non
+2016;20221;2080101;acetamipride;135410-20-7;0.4;N Organique;;Non
+2016;20221;2090001;proquinazid;189278-12-4;0.4;T, T+, CMR;;Non
+2016;20221;2090034;difenoconazole;119446-68-3;0.000167;N Organique;;Non
+2016;20221;2090050;cypermethrine;52315-07-8;0.192;N Organique;;Non
+2016;20221;2090094;thiophanate-methyl;23564-05-8;3.52;T, T+, CMR;;Non
+2016;20221;2090119;cuivre du sulfate tribasique;12527-76-3;15.2;N minéral;;Non
+2016;20221;2090188;glyphosate;1071-83-6;25.2;N Organique;;Non
+2016;20221;2100098;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20221;2100221;ametoctradine;865318-97-4;1.8;Autre;;Non
+2016;20221;2100221;metirame;9006-42-2;6.6;N Organique;;Non
+2016;20221;2100231;emamectine benzoate;155569-91-8;0.095;T, T+, CMR;;Non
+2016;20221;2110086;spirotetramat;203313-25-1;7.0;T, T+, CMR;;Non
+2016;20221;2110141;dimethomorphe;110488-70-5;2.16;N Organique;;Non
+2016;20221;2110141;pyraclostrobine;175013-18-0;1.2;T, T+, CMR;;Non
+2016;20221;2110143;metribuzine;21087-64-9;0.6;N Organique;;Non
+2016;20221;2110197;spiroxamine;118134-30-8;20.0;N Organique;;Non
+2016;20221;2120018;glyphosate;1071-83-6;2.304;N Organique;;Non
+2016;20221;2120048;aminopyralid;150114-71-9;0.18;N Organique;;Non
+2016;20221;2120048;triclopyr;55335-06-3;1.44;N Organique;;Non
+2016;20221;2120069;bacillus firmus i-1582;;1.0;Autre;;Non
+2016;20221;2120086;chlorpyriphos-methyl;5598-13-0;79.875;N Organique;;Non
+2016;20221;2120133;fluroxypyr;69377-81-7;0.1;N Organique;;Non
+2016;20221;2120133;triclopyr;55335-06-3;0.3;N Organique;;Non
+2016;20221;2120214;chlorantraniliprole;500008-45-7;0.4;N Organique;;Non
+2016;20221;2120214;thiamethoxam;153719-23-4;0.4;N Organique;;Non
+2016;20221;2130067;cyflufenamid;180409-60-3;0.25;N Organique;;Non
+2016;20221;2130075;metaldehyde;108-62-3;0.2;Autre;;Non
+2016;20221;2130212;phosmet;732-11-6;5.0;N Organique;;Non
+2016;20221;2140085;abamectine;71751-41-2;0.288;T, T+, CMR;;Non
+2016;20221;2140121;acide pelargonique;112-05-0;0.691387;Autre;;Non
+2016;20221;2140252;phosphate ferrique;10045-86-0;0.005;Autre;;Non
+2016;20221;7400057;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20221;7600008;bupirimate;41483-43-6;1.5;N Organique;;Non
+2016;20221;8300092;flutriafol;76674-21-0;2.5;N Organique;;Non
+2016;20221;8800498;acide alpha naphtylacetique (ana);86-87-3;0.0043;N Organique;;Non
+2016;20221;8800498;alpha naphtyl acetamide (nad);86-86-2;0.0118;N Organique;;Non
+2016;20221;9000222;soufre;7704-34-9;133.0;Autre;;Non
+2016;20221;9000471;glufosinate ammonium;77182-82-2;30.75;T, T+, CMR;;Non
+2016;20221;9100296;2,4-d;94-75-7;48.0;N Organique;;Non
+2016;20221;9100613;bioallethrine;584-79-2;0.072;Autre;;Non
+2016;20221;9100613;butoxyde de piperonyle;51-03-6;0.36;Autre;;Non
+2016;20221;9100613;permethrine;52645-53-1;0.6;Autre;;Non
+2016;20221;9200313;fenazaquin;120928-09-8;0.4;T, T+, CMR;;Non
+2016;20221;9300504;huile de vaseline;8042-47-5;980.4;Autre;;Non
+2016;20221;9400354;glyphosate;1071-83-6;280.8;N Organique;;Non
+2016;20221;9400484;cuivre du sulfate de cuivre;8011-63-0;3.78;N minéral;;Non
+2016;20221;9400484;cymoxanil;57966-95-7;0.7203;T, T+, CMR;;Non
+2016;20221;9400484;mancozebe;8018-01-7;2.415;T, T+, CMR;;Non
+2016;20221;9420113;2,4-d;94-75-7;0.28;N Organique;;Non
+2016;20221;9420113;dicamba;1918-00-9;0.04;N Organique;;Non
+2016;20221;9420113;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;20.0;Autre;;Non
+2016;20221;9500199;propamocarbe;25606-41-1;0.722;Autre;;Non
+2016;20221;9500414;cypermethrine;52315-07-8;0.0005;N Organique;;Non
+2016;20221;9600025;fosetyl-aluminium;39148-24-8;105.6;Autre;;Non
+2016;20221;9600103;dimethomorphe;110488-70-5;1.8;N Organique;;Non
+2016;20221;9600103;mancozebe;8018-01-7;12.0;T, T+, CMR;;Non
+2016;20221;9700216;imidaclopride;138261-41-3;1.0;N Organique;;Non
+2016;20221;9700332;azoxystrobine;131860-33-8;0.25;T, T+, CMR;;Non
+2016;20221;9700521;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20221;9800336;lambda-cyhalothrine;91465-08-6;1.0;T, T+, CMR;;Non
+2016;20221;9800420;spiroxamine;118134-30-8;1.5;N Organique;;Non
+2016;20221;9800481;fleur de chaux (chaux eteinte);1305-62-0;1.95;Autre;;Non
+2016;20221;9900104;chlorpyriphos-ethyl;2921-88-2;1.25;T, T+, CMR;;Non
+2016;20221;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;6.0;T, T+, CMR;;Non
+2016;20221;9900331;chlorothalonil;1897-45-6;2.5;T, T+, CMR;;Non
+2016;20221;9900331;metalaxyl-m;70630-17-0;0.1815;Autre;;Non
+2016;20222;2030273;lambda-cyhalothrine;91465-08-6;0.00025;T, T+, CMR;;Non
+2016;20222;2030273;pyrimicarbe;23103-98-2;0.005;T, T+, CMR;;Non
+2016;20222;2080018;acetamipride;135410-20-7;0.00475;N Organique;;Non
+2016;20224;2080089;thiaclopride;111988-49-9;0.000135;T, T+, CMR;;Non
+2016;20224;2090176;diquat;85-00-7;0.003;T, T+, CMR;;Non
+2016;20224;2090176;glyphosate;1071-83-6;0.083;N Organique;;Non
+2016;20224;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20224;2120157;acide pelargonique;112-05-0;0.01632;Autre;;Non
+2016;20224;2120157;glyphosate;1071-83-6;0.00576;N Organique;;Non
+2016;20225;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;93.6;T, T+, CMR;;Non
+2016;20225;2010023;deltamethrine;52918-63-5;0.075;T, T+, CMR;;Non
+2016;20225;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20225;2100231;emamectine benzoate;155569-91-8;0.285;T, T+, CMR;;Non
+2016;20225;2120086;chlorpyriphos-methyl;5598-13-0;13.5;N Organique;;Non
+2016;20225;2120132;dimethomorphe;110488-70-5;2.7;N Organique;;Non
+2016;20225;2120132;metirame;9006-42-2;13.2;N Organique;;Non
+2016;20225;7400057;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20225;9000222;soufre;7704-34-9;210.0;Autre;;Non
+2016;20225;9400354;glyphosate;1071-83-6;21.6;N Organique;;Non
+2016;20225;9400484;cuivre du sulfate de cuivre;8011-63-0;8.82;N minéral;;Non
+2016;20225;9400484;cymoxanil;57966-95-7;1.6807;T, T+, CMR;;Non
+2016;20225;9400484;mancozebe;8018-01-7;5.635;T, T+, CMR;;Non
+2016;20225;9700216;imidaclopride;138261-41-3;1.6;N Organique;;Non
+2016;20225;9800336;lambda-cyhalothrine;91465-08-6;0.2;T, T+, CMR;;Non
+2016;20225;9800420;spiroxamine;118134-30-8;3.0;N Organique;;Non
+2016;20225;9900104;chlorpyriphos-ethyl;2921-88-2;2.5;T, T+, CMR;;Non
+2016;20225;9900242;mancozebe;8018-01-7;7.5;T, T+, CMR;;Non
+2016;20226;2010023;deltamethrine;52918-63-5;0.03;T, T+, CMR;;Non
+2016;20226;2060130;spinosad;168316-95-8;0.00072;N Organique;;Non
+2016;20226;2080101;acetamipride;135410-20-7;0.2;N Organique;;Non
+2016;20226;2090079;acide acetique;64-19-7;0.09;Autre;;Non
+2016;20226;2120086;chlorpyriphos-methyl;5598-13-0;10.125;N Organique;;Non
+2016;20226;2130054;propiconazole;60207-90-1;0.81;N Organique;;Non
+2016;20226;2140121;acide pelargonique;112-05-0;0.216207;Autre;;Non
+2016;20226;9100505;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20226;9100558;cypermethrine;52315-07-8;0.000938;N Organique;;Non
+2016;20226;9300504;huile de vaseline;8042-47-5;16.34;Autre;;Non
+2016;20226;9400354;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20226;9700216;imidaclopride;138261-41-3;0.6;N Organique;;Non
+2016;20226;9800474;cuivre du sulfate de cuivre;8011-63-0;3.0;N minéral;;Non
+2016;20227;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20227;2130153;acide acetique;64-19-7;0.054;Autre;;Non
+2016;20228;2040195;myclobutanil;88671-89-0;0.54;T, T+, CMR;;Non
+2016;20228;2080018;acetamipride;135410-20-7;0.00375;N Organique;;Non
+2016;20228;2090001;proquinazid;189278-12-4;0.6;T, T+, CMR;;Non
+2016;20228;2100098;glyphosate;1071-83-6;3.6;N Organique;;Non
+2016;20228;2100221;ametoctradine;865318-97-4;3.6;Autre;;Non
+2016;20228;2100221;metirame;9006-42-2;13.2;N Organique;;Non
+2016;20228;2120048;aminopyralid;150114-71-9;0.09;N Organique;;Non
+2016;20228;2120048;triclopyr;55335-06-3;0.72;N Organique;;Non
+2016;20228;2120086;chlorpyriphos-methyl;5598-13-0;2.25;N Organique;;Non
+2016;20228;2120132;dimethomorphe;110488-70-5;2.7;N Organique;;Non
+2016;20228;2120132;metirame;9006-42-2;13.2;N Organique;;Non
+2016;20228;2130255;dimethomorphe;110488-70-5;0.565;N Organique;;Non
+2016;20228;2130255;folpel;133-07-3;3.0;T, T+, CMR;;Non
+2016;20228;2140085;abamectine;71751-41-2;0.18;T, T+, CMR;;Non
+2016;20228;9000222;soufre;7704-34-9;196.0;Autre;;Non
+2016;20228;9000471;glufosinate ammonium;77182-82-2;5.25;T, T+, CMR;;Non
+2016;20228;9100558;cypermethrine;52315-07-8;0.00225;N Organique;;Non
+2016;20228;9200262;iprodione;36734-19-7;2.5;T, T+, CMR;;Non
+2016;20228;9300504;huile de vaseline;8042-47-5;32.68;Autre;;Non
+2016;20228;9400354;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20228;9600025;fosetyl-aluminium;39148-24-8;9.6;Autre;;Non
+2016;20228;9700216;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20228;9800420;spiroxamine;118134-30-8;4.5;N Organique;;Non
+2016;20228;9800474;cuivre du sulfate de cuivre;8011-63-0;30.0;N minéral;;Non
+2016;20229;2010023;deltamethrine;52918-63-5;0.03;T, T+, CMR;;Non
+2016;20229;2050146;diflufenicanil;83164-33-4;0.032;N Organique;;Non
+2016;20229;2050146;glyphosate;1071-83-6;0.2;N Organique;;Non
+2016;20229;2100098;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20229;2120086;chlorpyriphos-methyl;5598-13-0;3.375;N Organique;;Non
+2016;20229;2140121;acide pelargonique;112-05-0;1.18795;Autre;;Non
+2016;20229;9700216;imidaclopride;138261-41-3;0.4;N Organique;;Non
+2016;20230;2000510;fer sous forme de sulfate de fer;7720-78-7;11.2;Autre;;Non
+2016;20230;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;417.6;T, T+, CMR;;Non
+2016;20230;2010019;quizalofop-p-ethyl;100646-51-3;0.75;N Organique;;Non
+2016;20230;2010023;deltamethrine;52918-63-5;2.685;T, T+, CMR;;Non
+2016;20230;2010130;cuivre de l'oxyde cuivreux;1317-39-1;817.5;N minéral;;Non
+2016;20230;2010398;folpel;133-07-3;99.2;T, T+, CMR;;Non
+2016;20230;2010398;metalaxyl-m;70630-17-0;12.028;Autre;;Non
+2016;20230;2010509;cuivre du sulfate de cuivre;8011-63-0;0.08;N minéral;;Non
+2016;20230;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20230;2010530;myclobutanil;88671-89-0;0.009;T, T+, CMR;;Non
+2016;20230;2020003;phosphate ferrique;10045-86-0;0.00594;Autre;;Non
+2016;20230;2030332;2,4-d;94-75-7;2.4;N Organique;;Non
+2016;20230;2030332;dichlorprop-p;15165-67-0;1.2;Autre;;Non
+2016;20230;2030337;dichlorprop-p;15165-67-0;1.375;Autre;;Non
+2016;20230;2040195;myclobutanil;88671-89-0;20.79;T, T+, CMR;;Non
+2016;20230;2050046;flonicamide;158062-67-0;8.5;Autre;;Non
+2016;20230;2060034;kaolin;1332-58-7;1009.375;Autre;;Non
+2016;20230;2060050;metrafenone;220899-03-6;21.0;N Organique;;Non
+2016;20230;2060084;boscalid;188425-85-6;4.272;N Organique;;Non
+2016;20230;2060084;pyraclostrobine;175013-18-0;1.072;T, T+, CMR;;Non
+2016;20230;2060085;boscalid;188425-85-6;3.8;N Organique;;Non
+2016;20230;2060085;kresoxim-methyl;143390-89-0;1.9;T, T+, CMR;;Non
+2016;20230;2060098;spinosad;168316-95-8;19.92;N Organique;;Non
+2016;20230;2060130;spinosad;168316-95-8;0.0408;N Organique;;Non
+2016;20230;2060131;2,4-d;94-75-7;0.093;N Organique;;Non
+2016;20230;2060131;triclopyr;55335-06-3;0.1036;N Organique;;Non
+2016;20230;2060133;thiaclopride;111988-49-9;15.36;T, T+, CMR;;Non
+2016;20230;2080018;acetamipride;135410-20-7;0.0295;N Organique;;Non
+2016;20230;2080038;pyrethrines;8003-34-7;0.186;N Organique;;Non
+2016;20230;2080039;2,4-db;94-82-6;12.0;N Organique;;Non
+2016;20230;2080054;acetamipride;135410-20-7;4.8e-05;N Organique;;Non
+2016;20230;2080060;pyriproxyfene;95737-68-1;7.2;N Organique;;Non
+2016;20230;2080062;benalaxyl-m;98243-83-5;7.4;N Organique;;Non
+2016;20230;2080062;mancozebe;8018-01-7;120.25;T, T+, CMR;;Non
+2016;20230;2080099;mancozebe;8018-01-7;150.0;T, T+, CMR;;Non
+2016;20230;2080099;mandipropamide;374726-62-2;12.5;N Organique;;Non
+2016;20230;2080100;folpel;133-07-3;52.0;T, T+, CMR;;Non
+2016;20230;2080100;mandipropamide;374726-62-2;6.5;N Organique;;Non
+2016;20230;2080101;acetamipride;135410-20-7;10.0;N Organique;;Non
+2016;20230;2080109;myclobutanil;88671-89-0;0.675;T, T+, CMR;;Non
+2016;20230;2080109;quinoxyfene;124495-18-7;0.675;N Organique;;Non
+2016;20230;2080129;meptyldinocap;131-72-6;19.25;N Organique;;Non
+2016;20230;2090001;proquinazid;189278-12-4;16.4;T, T+, CMR;;Non
+2016;20230;2090030;thiamethoxam;153719-23-4;0.00432;N Organique;;Non
+2016;20230;2090050;cypermethrine;52315-07-8;0.096;N Organique;;Non
+2016;20230;2090082;imidaclopride;138261-41-3;0.6;N Organique;;Non
+2016;20230;2090091;thiamethoxam;153719-23-4;1.5;N Organique;;Non
+2016;20230;2090094;thiophanate-methyl;23564-05-8;112.64;T, T+, CMR;;Non
+2016;20230;2090119;cuivre du sulfate tribasique;12527-76-3;159.6;N minéral;;Non
+2016;20230;2090127;huile essentielle d'orange douce;8028-48-6;2.4;N Organique;;Non
+2016;20230;2090164;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20230;2100001;glyphosate;1071-83-6;5.22;N Organique;;Non
+2016;20230;2100001;pyraflufen-ethyl;129630-19-9;0.0342;N Organique;;Non
+2016;20230;2100098;glyphosate;1071-83-6;16.2;N Organique;;Non
+2016;20230;2100154;chlorpyriphos-ethyl;2921-88-2;20.0;T, T+, CMR;;Non
+2016;20230;2100154;cypermethrine;52315-07-8;2.0;N Organique;;Non
+2016;20230;2100165;acetamipride;135410-20-7;0.00215;N Organique;;Non
+2016;20230;2100165;triticonazole;131983-72-7;0.00645;N Organique;;Non
+2016;20230;2100181;fluopicolide;239110-15-7;19.1808;N Organique;;Non
+2016;20230;2100181;fosetyl-aluminium;39148-24-8;288.0144;Autre;;Non
+2016;20230;2100193;2,4-d;94-75-7;14.4;N Organique;;Non
+2016;20230;2100218;quinoxyfene;124495-18-7;0.42;N Organique;;Non
+2016;20230;2100218;soufre;7704-34-9;48.0;Autre;;Non
+2016;20230;2100221;ametoctradine;865318-97-4;40.2;Autre;;Non
+2016;20230;2100221;metirame;9006-42-2;147.4;N Organique;;Non
+2016;20230;2100231;emamectine benzoate;155569-91-8;2.375;T, T+, CMR;;Non
+2016;20230;2110086;spirotetramat;203313-25-1;26.0;T, T+, CMR;;Non
+2016;20230;2110101;pyraflufen-ethyl;129630-19-9;0.265;N Organique;;Non
+2016;20230;2110141;dimethomorphe;110488-70-5;0.72;N Organique;;Non
+2016;20230;2110141;pyraclostrobine;175013-18-0;0.4;T, T+, CMR;;Non
+2016;20230;2110150;huile de colza;8002-13-9;0.9324;Autre;;Non
+2016;20230;2110159;triticonazole;131983-72-7;0.0035;N Organique;;Non
+2016;20230;2110180;cuivre de l'oxyde cuivreux;1317-39-1;0.075;N minéral;;Non
+2016;20230;2110198;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20230;2120018;glyphosate;1071-83-6;3.84;N Organique;;Non
+2016;20230;2120034;glyphosate;1071-83-6;124.8;N Organique;;Non
+2016;20230;2120048;aminopyralid;150114-71-9;0.12;N Organique;;Non
+2016;20230;2120048;triclopyr;55335-06-3;0.96;N Organique;;Non
+2016;20230;2120086;chlorpyriphos-methyl;5598-13-0;427.5;N Organique;;Non
+2016;20230;2120088;fosetyl-aluminium;39148-24-8;248.0;Autre;;Non
+2016;20230;2120132;dimethomorphe;110488-70-5;9.0;N Organique;;Non
+2016;20230;2120132;metirame;9006-42-2;44.0;N Organique;;Non
+2016;20230;2120133;fluroxypyr;69377-81-7;0.004;N Organique;;Non
+2016;20230;2120133;triclopyr;55335-06-3;0.012;N Organique;;Non
+2016;20230;2120177;gliocladium catenulatum j 1446;;0.64;Autre;;Non
+2016;20230;2120214;chlorantraniliprole;500008-45-7;0.8;N Organique;;Non
+2016;20230;2120214;thiamethoxam;153719-23-4;0.8;N Organique;;Non
+2016;20230;2130049;cyflufenamid;180409-60-3;4.35;N Organique;;Non
+2016;20230;2130049;difenoconazole;119446-68-3;8.7;N Organique;;Non
+2016;20230;2130067;cyflufenamid;180409-60-3;0.25;N Organique;;Non
+2016;20230;2130075;metaldehyde;108-62-3;0.4;Autre;;Non
+2016;20230;2130083;lambda-cyhalothrine;91465-08-6;1.2;T, T+, CMR;;Non
+2016;20230;2130093;diflufenicanil;83164-33-4;0.001728;N Organique;;Non
+2016;20230;2130093;glyphosate;1071-83-6;0.0108;N Organique;;Non
+2016;20230;2130115;1,5-diaminopentane;462-94-2;0.037312;Autre;;Non
+2016;20230;2130115;acetate d'ammonium;631-61-8;9.0948;Autre;;Non
+2016;20230;2130115;deltamethrine;52918-63-5;0.017723;T, T+, CMR;;Non
+2016;20230;2130115;trimethylamine hydrochloride;593-81-7;0.037312;Autre;;Non
+2016;20230;2130152;fluopyram;658066-35-4;8.25;T, T+, CMR;;Non
+2016;20230;2130152;trifloxystrobine;141517-21-7;8.25;N Organique;;Non
+2016;20230;2130212;phosmet;732-11-6;42.5;N Organique;;Non
+2016;20230;2130255;dimethomorphe;110488-70-5;2.26;N Organique;;Non
+2016;20230;2130255;folpel;133-07-3;12.0;T, T+, CMR;;Non
+2016;20230;2140001;acide gibberellique;77-06-5;0.276;Autre;;Non
+2016;20230;2140085;abamectine;71751-41-2;2.286;T, T+, CMR;;Non
+2016;20230;2140090;azadirachtine;11141-17-6;0.196;Autre;;Non
+2016;20230;2140121;acide pelargonique;112-05-0;4.017647;Autre;;Non
+2016;20230;2140127;cymoxanil;57966-95-7;29.37;T, T+, CMR;;Non
+2016;20230;2140127;zoxamide;156052-68-5;29.37;N Organique;;Non
+2016;20230;2140183;deltamethrine;52918-63-5;2.775;T, T+, CMR;;Non
+2016;20230;2140252;phosphate ferrique;10045-86-0;0.044375;Autre;;Non
+2016;20230;2150086;cyantraniliprole;736994-63-1;0.2;Autre;;Non
+2016;20230;2150387;ametoctradine;865318-97-4;43.5;Autre;;Non
+2016;20230;2150387;dimethomorphe;110488-70-5;32.625;N Organique;;Non
+2016;20230;2150417;bacillus thuringiensis ssp kurstaki;68038-71-1;0.0162;Autre;;Non
+2016;20230;7400057;glyphosate;1071-83-6;525.6;N Organique;;Non
+2016;20230;7600008;bupirimate;41483-43-6;29.5;N Organique;;Non
+2016;20230;7700216;soufre pour pulverisation (micronise);7704-34-9;16.5;Autre;;Non
+2016;20230;8500023;thirame;137-26-8;540.0;N Organique;;Non
+2016;20230;8500194;tau-fluvalinate;102851-06-9;12.48;N Organique;;Non
+2016;20230;8700102;benalaxyl;71626-11-4;3.6;N Organique;;Non
+2016;20230;8700102;folpel;133-07-3;23.1;T, T+, CMR;;Non
+2016;20230;8900620;folpel;133-07-3;5.0;T, T+, CMR;;Non
+2016;20230;9000184;2,4-mcpa;94-74-6;2.0;N Organique;;Non
+2016;20230;9000184;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;0.2;Autre;;Non
+2016;20230;9000184;fluroxypyr;69377-81-7;0.4;N Organique;;Non
+2016;20230;9000222;soufre;7704-34-9;1715.0;Autre;;Non
+2016;20230;9000471;glufosinate ammonium;77182-82-2;240.0;T, T+, CMR;;Non
+2016;20230;9000490;cycloxydime;101205-02-1;39.0;T, T+, CMR;;Non
+2016;20230;9000833;metazachlore;67129-08-2;2.0;T, T+, CMR;;Non
+2016;20230;9000833;quinmerac;90717-03-6;0.5;N Organique;;Non
+2016;20230;9100296;2,4-d;94-75-7;12.0;N Organique;;Non
+2016;20230;9100479;glyphosate;1071-83-6;268.8;N Organique;;Non
+2016;20230;9100525;tebufenpyrad;119168-77-3;3.2;T, T+, CMR;;Non
+2016;20230;9200056;acide b-indole butyrique (aib);133-32-4;0.0008;T, T+, CMR;;Non
+2016;20230;9200060;acide b-indole butyrique (aib);133-32-4;0.2;T, T+, CMR;;Non
+2016;20230;9200155;oxyfluorfene;42874-03-3;0.72;T, T+, CMR;;Non
+2016;20230;9200262;iprodione;36734-19-7;24.0;T, T+, CMR;;Non
+2016;20230;9200313;fenazaquin;120928-09-8;6.8;T, T+, CMR;;Non
+2016;20230;9200482;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20230;9300186;tebuconazole;107534-96-3;2.0;T, T+, CMR;;Non
+2016;20230;9300241;glyphosate;1071-83-6;0.306;N Organique;;Non
+2016;20230;9300309;zetacypermethrine;52315-07-8;3.4;T, T+, CMR;;Non
+2016;20230;9300504;huile de vaseline;8042-47-5;14134.1;Autre;;Non
+2016;20230;9400354;glyphosate;1071-83-6;972.0;N Organique;;Non
+2016;20230;9400484;cuivre du sulfate de cuivre;8011-63-0;16.38;N minéral;;Non
+2016;20230;9400484;cymoxanil;57966-95-7;3.1213;T, T+, CMR;;Non
+2016;20230;9400484;mancozebe;8018-01-7;10.465;T, T+, CMR;;Non
+2016;20230;9500040;quizalofop-p-ethyl;100646-51-3;0.5;N Organique;;Non
+2016;20230;9500213;fenbuconazole;114369-43-6;12.75;N Organique;;Non
+2016;20230;9500414;cypermethrine;52315-07-8;0.001;N Organique;;Non
+2016;20230;9500432;acrinathrine;101007-06-1;1.575;N Organique;;Non
+2016;20230;9500467;triclopyr;55335-06-3;0.3;N Organique;;Non
+2016;20230;9500561;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20230;9500568;cyprodinyl;121552-61-2;0.00375;N Organique;;Non
+2016;20230;9500568;fludioxonil;131341-86-1;0.0025;N Organique;;Non
+2016;20230;9500649;folpel;133-07-3;51.0;T, T+, CMR;;Non
+2016;20230;9500649;fosetyl-aluminium;39148-24-8;102.0;Autre;;Non
+2016;20230;9600025;fosetyl-aluminium;39148-24-8;52.8;Autre;;Non
+2016;20230;9600116;zirame;137-30-4;114.0;T, T+, CMR;;Non
+2016;20230;9600120;thirame;137-26-8;340.0;N Organique;;Non
+2016;20230;9600368;fosetyl-aluminium;39148-24-8;192.168;Autre;;Non
+2016;20230;9600368;metirame;9006-42-2;117.912;N Organique;;Non
+2016;20230;9600395;dithianon;3347-22-6;5.6;T, T+, CMR;;Non
+2016;20230;9600512;folpel;133-07-3;528.0;T, T+, CMR;;Non
+2016;20230;9600512;fosetyl-aluminium;39148-24-8;528.0;Autre;;Non
+2016;20230;9700070;flazasulfuron;104040-78-0;6.45;N Organique;;Non
+2016;20230;9700216;imidaclopride;138261-41-3;8.4;N Organique;;Non
+2016;20230;9700355;gibberellines (a4+a7);8030-53-3;0.06;Autre;;Non
+2016;20230;9800096;huile minerale paraffinique;8042-47-5;2.4;Autre;;Non
+2016;20230;9800336;lambda-cyhalothrine;91465-08-6;12.4;T, T+, CMR;;Non
+2016;20230;9800420;spiroxamine;118134-30-8;150.0;N Organique;;Non
+2016;20230;9800474;cuivre du sulfate de cuivre;8011-63-0;222.0;N minéral;;Non
+2016;20230;9800481;fleur de chaux (chaux eteinte);1305-62-0;9.1;Autre;;Non
+2016;20230;9900037;trifloxystrobine;141517-21-7;0.25;N Organique;;Non
+2016;20230;9900104;chlorpyriphos-ethyl;2921-88-2;2.5;T, T+, CMR;;Non
+2016;20230;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;96.0;T, T+, CMR;;Non
+2016;20230;9900242;mancozebe;8018-01-7;22.5;T, T+, CMR;;Non
+2016;20230;9900331;chlorothalonil;1897-45-6;5.0;T, T+, CMR;;Non
+2016;20230;9900331;metalaxyl-m;70630-17-0;0.363;Autre;;Non
+2016;20232;2000510;fer sous forme de sulfate de fer;7720-78-7;1.6;Autre;;Non
+2016;20232;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;48.6;T, T+, CMR;;Non
+2016;20232;2010023;deltamethrine;52918-63-5;0.105;T, T+, CMR;;Non
+2016;20232;2010130;cuivre de l'oxyde cuivreux;1317-39-1;7.5;N minéral;;Non
+2016;20232;2010321;glyphosate;1071-83-6;0.00576;N Organique;;Non
+2016;20232;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20232;2030273;lambda-cyhalothrine;91465-08-6;0.00025;T, T+, CMR;;Non
+2016;20232;2030273;pyrimicarbe;23103-98-2;0.005;T, T+, CMR;;Non
+2016;20232;2060034;kaolin;1332-58-7;296.875;Autre;;Non
+2016;20232;2060098;spinosad;168316-95-8;1.2;N Organique;;Non
+2016;20232;2060130;spinosad;168316-95-8;0.00024;N Organique;;Non
+2016;20232;2060133;thiaclopride;111988-49-9;0.48;T, T+, CMR;;Non
+2016;20232;2080018;acetamipride;135410-20-7;0.00375;N Organique;;Non
+2016;20232;2090050;cypermethrine;52315-07-8;0.096;N Organique;;Non
+2016;20232;2090119;cuivre du sulfate tribasique;12527-76-3;22.8;N minéral;;Non
+2016;20232;2090127;huile essentielle d'orange douce;8028-48-6;1.2;N Organique;;Non
+2016;20232;2100098;glyphosate;1071-83-6;5.4;N Organique;;Non
+2016;20232;2100221;ametoctradine;865318-97-4;0.6;Autre;;Non
+2016;20232;2100221;metirame;9006-42-2;2.2;N Organique;;Non
+2016;20232;2120034;glyphosate;1071-83-6;9.6;N Organique;;Non
+2016;20232;2120086;chlorpyriphos-methyl;5598-13-0;3.375;N Organique;;Non
+2016;20232;2140121;acide pelargonique;112-05-0;1.18795;Autre;;Non
+2016;20232;2140183;deltamethrine;52918-63-5;0.075;T, T+, CMR;;Non
+2016;20232;5100219;soufre sublime;7704-34-9;297.0;Autre;;Non
+2016;20232;9000222;soufre;7704-34-9;1064.0;Autre;;Non
+2016;20232;9100558;cypermethrine;52315-07-8;0.0005;N Organique;;Non
+2016;20232;9200262;iprodione;36734-19-7;3.5;T, T+, CMR;;Non
+2016;20232;9300309;zetacypermethrine;52315-07-8;0.2;T, T+, CMR;;Non
+2016;20232;9400354;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20232;9700216;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20232;9800096;huile minerale paraffinique;8042-47-5;0.8;Autre;;Non
+2016;20232;9800201;2,4-mcpa;94-74-6;1.08;N Organique;;Non
+2016;20232;9800201;dichlorprop-p;15165-67-0;1.08;Autre;;Non
+2016;20232;9800201;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20232;9800336;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;20232;9800474;cuivre du sulfate de cuivre;8011-63-0;96.0;N minéral;;Non
+2016;20232;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;10.0;T, T+, CMR;;Non
+2016;20233;2010023;deltamethrine;52918-63-5;0.015;T, T+, CMR;;Non
+2016;20233;2010410;soufre pour pulverisation (micronise);7704-34-9;0.6;Autre;;Non
+2016;20233;2090164;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20233;2110150;huile de colza;8002-13-9;0.3108;Autre;;Non
+2016;20233;2120133;fluroxypyr;69377-81-7;0.02;N Organique;;Non
+2016;20233;2120133;triclopyr;55335-06-3;0.06;N Organique;;Non
+2016;20233;2140134;soufre triture ventile;7704-34-9;1.4775;Autre;;Non
+2016;20233;9700521;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20233;9800336;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;20234;2100098;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20234;2120086;chlorpyriphos-methyl;5598-13-0;4.5;N Organique;;Non
+2016;20234;2140121;acide pelargonique;112-05-0;1.18795;Autre;;Non
+2016;20234;9400354;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20234;9700216;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20235;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;1.8;T, T+, CMR;;Non
+2016;20235;2090029;thiamethoxam;153719-23-4;0.0075;N Organique;;Non
+2016;20235;2100083;2,4-d;94-75-7;0.063;N Organique;;Non
+2016;20235;2100083;2,4-mcpa;94-74-6;0.063;N Organique;;Non
+2016;20235;2100083;dicamba;1918-00-9;0.018;N Organique;;Non
+2016;20235;2100083;mecoprop-p (mcpp-p);16484-77-8;0.0378;N Organique;;Non
+2016;20235;2100098;glyphosate;1071-83-6;3.6;N Organique;;Non
+2016;20235;2100220;glyphosate;1071-83-6;0.0054;N Organique;;Non
+2016;20235;2100221;ametoctradine;865318-97-4;1.2;Autre;;Non
+2016;20235;2100221;metirame;9006-42-2;4.4;N Organique;;Non
+2016;20235;2120086;chlorpyriphos-methyl;5598-13-0;4.5;N Organique;;Non
+2016;20235;2120132;dimethomorphe;110488-70-5;0.45;N Organique;;Non
+2016;20235;2120132;metirame;9006-42-2;2.2;N Organique;;Non
+2016;20235;2120133;fluroxypyr;69377-81-7;0.002;N Organique;;Non
+2016;20235;2120133;triclopyr;55335-06-3;0.006;N Organique;;Non
+2016;20235;9400354;glyphosate;1071-83-6;50.4;N Organique;;Non
+2016;20235;9800420;spiroxamine;118134-30-8;1.5;N Organique;;Non
+2016;20235;9800474;cuivre du sulfate de cuivre;8011-63-0;6.0;N minéral;;Non
+2016;20235;9900282;cuivre de l'oxychlorure de cuivre;1332-40-7;0.15015;T, T+, CMR;;Non
+2016;20236;2080054;acetamipride;135410-20-7;4.8e-05;N Organique;;Non
+2016;20236;2090044;glyphosate;1071-83-6;0.757;N Organique;;Non
+2016;20236;2100165;acetamipride;135410-20-7;0.001;N Organique;;Non
+2016;20236;2100165;triticonazole;131983-72-7;0.003;N Organique;;Non
+2016;20237;2090176;diquat;85-00-7;0.003;T, T+, CMR;;Non
+2016;20237;2090176;glyphosate;1071-83-6;0.083;N Organique;;Non
+2016;20237;2120018;glyphosate;1071-83-6;0.384;N Organique;;Non
+2016;20237;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20237;2140121;acide pelargonique;112-05-0;1.620364;Autre;;Non
+2016;20237;9500281;2,4-mcpa;94-74-6;0.126;N Organique;;Non
+2016;20237;9500281;dicamba;1918-00-9;0.0108;N Organique;;Non
+2016;20237;9500281;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;7.74;Autre;;Non
+2016;20238;2010023;deltamethrine;52918-63-5;0.03;T, T+, CMR;;Non
+2016;20238;2040195;myclobutanil;88671-89-0;0.27;T, T+, CMR;;Non
+2016;20238;2120132;dimethomorphe;110488-70-5;0.9;N Organique;;Non
+2016;20238;2120132;metirame;9006-42-2;4.4;N Organique;;Non
+2016;20238;9000222;soufre;7704-34-9;7.0;Autre;;Non
+2016;20238;9400354;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20238;9700216;imidaclopride;138261-41-3;0.4;N Organique;;Non
+2016;20239;2010023;deltamethrine;52918-63-5;0.075;T, T+, CMR;;Non
+2016;20239;2060130;spinosad;168316-95-8;0.00072;N Organique;;Non
+2016;20239;2080039;2,4-db;94-82-6;4.0;N Organique;;Non
+2016;20239;2110083;cuivre du sulfate tribasique;12527-76-3;0.000638;N minéral;;Non
+2016;20239;2110083;pyrethrines;8003-34-7;0.000188;N Organique;;Non
+2016;20239;2110083;soufre;7704-34-9;0.0045;Autre;;Non
+2016;20239;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20239;2130212;phosmet;732-11-6;5.0;N Organique;;Non
+2016;20239;9100296;2,4-d;94-75-7;6.0;N Organique;;Non
+2016;20239;9300504;huile de vaseline;8042-47-5;16.34;Autre;;Non
+2016;20239;9400354;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20239;9500561;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20239;9600025;fosetyl-aluminium;39148-24-8;4.8;Autre;;Non
+2016;20239;9800336;lambda-cyhalothrine;91465-08-6;0.3;T, T+, CMR;;Non
+2016;20240;2000018;soufre pour pulverisation (micronise);7704-34-9;160.0;Autre;;Non
+2016;20240;2000125;cuivre du sulfate de cuivre;8011-63-0;0.08;N minéral;;Non
+2016;20240;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;212.4;T, T+, CMR;;Non
+2016;20240;2010023;deltamethrine;52918-63-5;1.65;T, T+, CMR;;Non
+2016;20240;2010130;cuivre de l'oxyde cuivreux;1317-39-1;37.5;N minéral;;Non
+2016;20240;2010321;glyphosate;1071-83-6;0.01152;N Organique;;Non
+2016;20240;2010398;folpel;133-07-3;227.2;T, T+, CMR;;Non
+2016;20240;2010398;metalaxyl-m;70630-17-0;27.548;Autre;;Non
+2016;20240;2010493;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20240;2010509;cuivre du sulfate de cuivre;8011-63-0;0.24;N minéral;;Non
+2016;20240;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20240;2020448;glyphosate;1071-83-6;0.126;N Organique;;Non
+2016;20240;2030011;carfentrazone ethyl;128639-02-1;2.4;N Organique;;Non
+2016;20240;2030125;deltamethrine;52918-63-5;0.00165;T, T+, CMR;;Non
+2016;20240;2030175;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20240;2030273;lambda-cyhalothrine;91465-08-6;0.00125;T, T+, CMR;;Non
+2016;20240;2030273;pyrimicarbe;23103-98-2;0.025;T, T+, CMR;;Non
+2016;20240;2030332;2,4-d;94-75-7;0.0312;N Organique;;Non
+2016;20240;2030332;dichlorprop-p;15165-67-0;0.0156;Autre;;Non
+2016;20240;2030337;dichlorprop-p;15165-67-0;3.0;Autre;;Non
+2016;20240;2040195;myclobutanil;88671-89-0;24.975;T, T+, CMR;;Non
+2016;20240;2050046;flonicamide;158062-67-0;2.75;Autre;;Non
+2016;20240;2060034;kaolin;1332-58-7;1080.625;Autre;;Non
+2016;20240;2060050;metrafenone;220899-03-6;87.5;N Organique;;Non
+2016;20240;2060084;boscalid;188425-85-6;6.141;N Organique;;Non
+2016;20240;2060084;pyraclostrobine;175013-18-0;1.541;T, T+, CMR;;Non
+2016;20240;2060088;benoxacor;98730-04-2;2.8;Autre;;Non
+2016;20240;2060088;mesotrione;104206-82-8;5.6;N Organique;;Non
+2016;20240;2060088;s-metolachlore;87392-12-9;56.0;N Organique;;Non
+2016;20240;2060098;spinosad;168316-95-8;6.48;N Organique;;Non
+2016;20240;2060130;spinosad;168316-95-8;0.0192;N Organique;;Non
+2016;20240;2060131;2,4-d;94-75-7;0.186;N Organique;;Non
+2016;20240;2060131;triclopyr;55335-06-3;0.2072;N Organique;;Non
+2016;20240;2060133;thiaclopride;111988-49-9;4.32;T, T+, CMR;;Non
+2016;20240;2070133;napropamide;15299-99-7;148.5;N Organique;;Non
+2016;20240;2080004;trichoderma atroviride;;;Autre;;Non
+2016;20240;2080018;acetamipride;135410-20-7;0.00675;N Organique;;Non
+2016;20240;2080026;nicosulfuron;111991-09-4;0.96;N Organique;;Non
+2016;20240;2080029;penoxsulame;219714-96-2;1.04;N Organique;;Non
+2016;20240;2080038;pyrethrines;8003-34-7;0.186;N Organique;;Non
+2016;20240;2080054;acetamipride;135410-20-7;0.000202;N Organique;;Non
+2016;20240;2080060;pyriproxyfene;95737-68-1;7.4;N Organique;;Non
+2016;20240;2080062;benalaxyl-m;98243-83-5;46.8;N Organique;;Non
+2016;20240;2080062;mancozebe;8018-01-7;760.5;T, T+, CMR;;Non
+2016;20240;2080099;mancozebe;8018-01-7;1710.0;T, T+, CMR;;Non
+2016;20240;2080099;mandipropamide;374726-62-2;142.5;N Organique;;Non
+2016;20240;2080100;folpel;133-07-3;284.0;T, T+, CMR;;Non
+2016;20240;2080100;mandipropamide;374726-62-2;35.5;N Organique;;Non
+2016;20240;2080101;acetamipride;135410-20-7;9.4;N Organique;;Non
+2016;20240;2080105;glyphosate;1071-83-6;5.4;N Organique;;Non
+2016;20240;2080109;myclobutanil;88671-89-0;31.725;T, T+, CMR;;Non
+2016;20240;2080109;quinoxyfene;124495-18-7;31.725;N Organique;;Non
+2016;20240;2080129;meptyldinocap;131-72-6;24.5;N Organique;;Non
+2016;20240;2090001;proquinazid;189278-12-4;42.8;T, T+, CMR;;Non
+2016;20240;2090032;2,4-d;94-75-7;0.0021;N Organique;;Non
+2016;20240;2090032;2,4-mcpa;94-74-6;0.0021;N Organique;;Non
+2016;20240;2090032;dicamba;1918-00-9;0.0006;N Organique;;Non
+2016;20240;2090032;mecoprop (mcpp);7085-19-0;0.00126;N Organique;;Non
+2016;20240;2090044;glyphosate;1071-83-6;0.757;N Organique;;Non
+2016;20240;2090050;cypermethrine;52315-07-8;22.752;N Organique;;Non
+2016;20240;2090053;bromoxynil octanoate;1689-99-2;9.17;T, T+, CMR;;Non
+2016;20240;2090053;isoxadifen-ethyl;163520-33-0;0.875;N Organique;;Non
+2016;20240;2090053;tembotrione;335104-84-2;1.75;T, T+, CMR;;Non
+2016;20240;2090079;acide acetique;64-19-7;0.09;Autre;;Non
+2016;20240;2090080;sulcotrione;99105-77-8;28.5;T, T+, CMR;;Non
+2016;20240;2090082;imidaclopride;138261-41-3;19.4;N Organique;;Non
+2016;20240;2090091;thiamethoxam;153719-23-4;2.25;N Organique;;Non
+2016;20240;2090094;thiophanate-methyl;23564-05-8;137.28;T, T+, CMR;;Non
+2016;20240;2090119;cuivre du sulfate tribasique;12527-76-3;438.9;N minéral;;Non
+2016;20240;2090132;cuivre du sulfate tribasique;12527-76-3;69.316;N minéral;;Non
+2016;20240;2090132;zoxamide;156052-68-5;10.4;N Organique;;Non
+2016;20240;2090146;abamectine;71751-41-2;6e-05;T, T+, CMR;;Non
+2016;20240;2090146;pyrethrines;8003-34-7;0.0008;N Organique;;Non
+2016;20240;2090164;glyphosate;1071-83-6;7.92;N Organique;;Non
+2016;20240;2090178;tebuconazole;107534-96-3;9.4e-05;T, T+, CMR;;Non
+2016;20240;2090178;trifloxystrobine;141517-21-7;9.4e-05;N Organique;;Non
+2016;20240;2090199;huile de colza;8002-13-9;0.24759;Autre;;Non
+2016;20240;2090199;pyrethrines;8003-34-7;0.001377;N Organique;;Non
+2016;20240;2100001;glyphosate;1071-83-6;189.225;N Organique;;Non
+2016;20240;2100001;pyraflufen-ethyl;129630-19-9;1.23975;N Organique;;Non
+2016;20240;2100004;acetamipride;135410-20-7;4.8e-05;N Organique;;Non
+2016;20240;2100004;triticonazole;131983-72-7;0.000144;N Organique;;Non
+2016;20240;2100078;deltamethrine;52918-63-5;3.5e-05;T, T+, CMR;;Non
+2016;20240;2100121;chlorantraniliprole;500008-45-7;11.79;N Organique;;Non
+2016;20240;2100154;chlorpyriphos-ethyl;2921-88-2;3.0;T, T+, CMR;;Non
+2016;20240;2100154;cypermethrine;52315-07-8;0.3;N Organique;;Non
+2016;20240;2100165;acetamipride;135410-20-7;0.0018;N Organique;;Non
+2016;20240;2100165;triticonazole;131983-72-7;0.0054;N Organique;;Non
+2016;20240;2100181;fluopicolide;239110-15-7;90.576;N Organique;;Non
+2016;20240;2100181;fosetyl-aluminium;39148-24-8;1360.068;Autre;;Non
+2016;20240;2100193;2,4-d;94-75-7;110.4;N Organique;;Non
+2016;20240;2100218;quinoxyfene;124495-18-7;0.84;N Organique;;Non
+2016;20240;2100218;soufre;7704-34-9;96.0;Autre;;Non
+2016;20240;2100219;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20240;2100220;glyphosate;1071-83-6;0.0072;N Organique;;Non
+2016;20240;2100221;ametoctradine;865318-97-4;54.6;Autre;;Non
+2016;20240;2100221;metirame;9006-42-2;200.2;N Organique;;Non
+2016;20240;2110073;indoxacarbe;173584-44-6;18.6;T, T+, CMR;;Non
+2016;20240;2110084;butoxyde de piperonyle;51-03-6;0.0108;Autre;;Non
+2016;20240;2110084;pyrethrines;8003-34-7;0.0015;N Organique;;Non
+2016;20240;2110086;spirotetramat;203313-25-1;43.1;T, T+, CMR;;Non
+2016;20240;2110101;pyraflufen-ethyl;129630-19-9;3.445;N Organique;;Non
+2016;20240;2110141;dimethomorphe;110488-70-5;0.36;N Organique;;Non
+2016;20240;2110141;pyraclostrobine;175013-18-0;0.2;T, T+, CMR;;Non
+2016;20240;2110143;metribuzine;21087-64-9;1.2;N Organique;;Non
+2016;20240;2110159;triticonazole;131983-72-7;0.0035;N Organique;;Non
+2016;20240;2110160;triticonazole;131983-72-7;0.000288;N Organique;;Non
+2016;20240;2110180;cuivre de l'oxyde cuivreux;1317-39-1;0.4875;N minéral;;Non
+2016;20240;2110196;bicarbonate de potassium;298-14-6;0.255;Autre;;Non
+2016;20240;2110197;spiroxamine;118134-30-8;219.0;N Organique;;Non
+2016;20240;2110198;glyphosate;1071-83-6;446.4;N Organique;;Non
+2016;20240;2120018;glyphosate;1071-83-6;2.688;N Organique;;Non
+2016;20240;2120034;glyphosate;1071-83-6;57.6;N Organique;;Non
+2016;20240;2120048;aminopyralid;150114-71-9;0.3;N Organique;;Non
+2016;20240;2120048;triclopyr;55335-06-3;2.4;N Organique;;Non
+2016;20240;2120086;chlorpyriphos-methyl;5598-13-0;607.5;N Organique;;Non
+2016;20240;2120088;fosetyl-aluminium;39148-24-8;1496.0;Autre;;Non
+2016;20240;2120132;dimethomorphe;110488-70-5;3.6;N Organique;;Non
+2016;20240;2120132;metirame;9006-42-2;17.6;N Organique;;Non
+2016;20240;2120133;fluroxypyr;69377-81-7;0.0072;N Organique;;Non
+2016;20240;2120133;triclopyr;55335-06-3;0.0216;N Organique;;Non
+2016;20240;2120157;acide pelargonique;112-05-0;0.17952;Autre;;Non
+2016;20240;2120157;glyphosate;1071-83-6;0.06336;N Organique;;Non
+2016;20240;2120214;chlorantraniliprole;500008-45-7;8.6;N Organique;;Non
+2016;20240;2120214;thiamethoxam;153719-23-4;8.6;N Organique;;Non
+2016;20240;2130049;cyflufenamid;180409-60-3;9.45;N Organique;;Non
+2016;20240;2130049;difenoconazole;119446-68-3;18.9;N Organique;;Non
+2016;20240;2130075;metaldehyde;108-62-3;0.2;Autre;;Non
+2016;20240;2130083;lambda-cyhalothrine;91465-08-6;0.3;T, T+, CMR;;Non
+2016;20240;2130093;diflufenicanil;83164-33-4;0.000576;N Organique;;Non
+2016;20240;2130093;glyphosate;1071-83-6;0.0036;N Organique;;Non
+2016;20240;2130115;1,5-diaminopentane;462-94-2;0.04312;Autre;;Non
+2016;20240;2130115;acetate d'ammonium;631-61-8;10.5105;Autre;;Non
+2016;20240;2130115;deltamethrine;52918-63-5;0.020482;T, T+, CMR;;Non
+2016;20240;2130115;trimethylamine hydrochloride;593-81-7;0.04312;Autre;;Non
+2016;20240;2130151;hydrazide maleique;123-33-1;0.36;Autre;;Non
+2016;20240;2130152;fluopyram;658066-35-4;38.575;T, T+, CMR;;Non
+2016;20240;2130152;trifloxystrobine;141517-21-7;38.575;N Organique;;Non
+2016;20240;2130164;foramsulfuron;173159-57-4;1.35;N Organique;;Non
+2016;20240;2130164;thiencarbazone-methyl;317815-83-1;0.45;T, T+, CMR;;Non
+2016;20240;2130212;phosmet;732-11-6;10.0;N Organique;;Non
+2016;20240;2140001;acide gibberellique;77-06-5;1.452;Autre;;Non
+2016;20240;2140085;abamectine;71751-41-2;6.21;T, T+, CMR;;Non
+2016;20240;2140090;azadirachtine;11141-17-6;0.343;Autre;;Non
+2016;20240;2140093;glyphosate;1071-83-6;81.0;N Organique;;Non
+2016;20240;2140121;acide pelargonique;112-05-0;1.361391;Autre;;Non
+2016;20240;2140127;cymoxanil;57966-95-7;92.07;T, T+, CMR;;Non
+2016;20240;2140127;zoxamide;156052-68-5;92.07;N Organique;;Non
+2016;20240;2140134;soufre triture ventile;7704-34-9;0.394;Autre;;Non
+2016;20240;2140252;phosphate ferrique;10045-86-0;0.073125;Autre;;Non
+2016;20240;2150011;tebuconazole;107534-96-3;0.005;T, T+, CMR;;Non
+2016;20240;2150387;ametoctradine;865318-97-4;138.0;Autre;;Non
+2016;20240;2150387;dimethomorphe;110488-70-5;103.5;N Organique;;Non
+2016;20240;2150417;bacillus thuringiensis ssp kurstaki;68038-71-1;0.0162;Autre;;Non
+2016;20240;5100219;soufre sublime;7704-34-9;272.25;Autre;;Non
+2016;20240;7400057;glyphosate;1071-83-6;2700.0;N Organique;;Non
+2016;20240;7700078;diquat;85-00-7;8.0;T, T+, CMR;;Non
+2016;20240;7700216;soufre pour pulverisation (micronise);7704-34-9;16.5;Autre;;Non
+2016;20240;7700706;2,4-d;94-75-7;0.42;N Organique;;Non
+2016;20240;7700706;dicamba;1918-00-9;0.06;N Organique;;Non
+2016;20240;7800132;ethephon;16672-87-0;2.4;T, T+, CMR;;Non
+2016;20240;8100291;metazachlore;67129-08-2;2.5;T, T+, CMR;;Non
+2016;20240;8400528;isoxaben;82558-50-7;60.0;N Organique;;Non
+2016;20240;8400574;propyzamide;23950-58-5;32.0;T, T+, CMR;;Non
+2016;20240;8500194;tau-fluvalinate;102851-06-9;14.16;N Organique;;Non
+2016;20240;8700102;benalaxyl;71626-11-4;120.3;N Organique;;Non
+2016;20240;8700102;folpel;133-07-3;771.925;T, T+, CMR;;Non
+2016;20240;9000184;2,4-mcpa;94-74-6;2.0;N Organique;;Non
+2016;20240;9000184;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;0.2;Autre;;Non
+2016;20240;9000184;fluroxypyr;69377-81-7;0.4;N Organique;;Non
+2016;20240;9000222;soufre;7704-34-9;1183.0;Autre;;Non
+2016;20240;9000471;glufosinate ammonium;77182-82-2;580.5;T, T+, CMR;;Non
+2016;20240;9000490;cycloxydime;101205-02-1;60.7;T, T+, CMR;;Non
+2016;20240;9100231;metaldehyde;108-62-3;0.075;Autre;;Non
+2016;20240;9100296;2,4-d;94-75-7;81.0;N Organique;;Non
+2016;20240;9100418;nicosulfuron;111991-09-4;4.2;N Organique;;Non
+2016;20240;9100479;glyphosate;1071-83-6;1521.6;N Organique;;Non
+2016;20240;9100525;tebufenpyrad;119168-77-3;16.802;T, T+, CMR;;Non
+2016;20240;9100558;cypermethrine;52315-07-8;0.005625;N Organique;;Non
+2016;20240;9200135;cypermethrine;52315-07-8;0.001;N Organique;;Non
+2016;20240;9200262;iprodione;36734-19-7;5.0;T, T+, CMR;;Non
+2016;20240;9200313;fenazaquin;120928-09-8;11.8;T, T+, CMR;;Non
+2016;20240;9200383;lambda-cyhalothrine;91465-08-6;0.75;T, T+, CMR;;Non
+2016;20240;9200392;2,4-mcpa;94-74-6;0.4;N Organique;;Non
+2016;20240;9200392;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;0.04;Autre;;Non
+2016;20240;9200392;fluroxypyr;69377-81-7;0.08;N Organique;;Non
+2016;20240;9200482;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20240;9200493;bromoxynil octanoate;1689-99-2;12.0;T, T+, CMR;;Non
+2016;20240;9200512;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20240;9300032;tebufenozide;112410-23-8;0.48;N Organique;;Non
+2016;20240;9300186;tebuconazole;107534-96-3;9.5;T, T+, CMR;;Non
+2016;20240;9300241;glyphosate;1071-83-6;0.238;N Organique;;Non
+2016;20240;9300309;zetacypermethrine;52315-07-8;0.4;T, T+, CMR;;Non
+2016;20240;9300504;huile de vaseline;8042-47-5;4558.86;Autre;;Non
+2016;20240;9400012;tetraconazole;112281-77-3;2.6;N Organique;;Non
+2016;20240;9400280;flumioxazine;103361-09-7;53.5;T, T+, CMR;;Non
+2016;20240;9400354;glyphosate;1071-83-6;475.2;N Organique;;Non
+2016;20240;9400484;cuivre du sulfate de cuivre;8011-63-0;16.38;N minéral;;Non
+2016;20240;9400484;cymoxanil;57966-95-7;3.1213;T, T+, CMR;;Non
+2016;20240;9400484;mancozebe;8018-01-7;10.465;T, T+, CMR;;Non
+2016;20240;9400485;cymoxanil;57966-95-7;17.2;T, T+, CMR;;Non
+2016;20240;9400485;folpel;133-07-3;143.62;T, T+, CMR;;Non
+2016;20240;9500040;quizalofop-p-ethyl;100646-51-3;1.5;N Organique;;Non
+2016;20240;9500135;metaldehyde;108-62-3;0.09;Autre;;Non
+2016;20240;9500150;isoxaben;82558-50-7;0.107;N Organique;;Non
+2016;20240;9500150;oryzalin;19044-88-3;0.429;T, T+, CMR;;Non
+2016;20240;9500199;propamocarbe;25606-41-1;1.444;Autre;;Non
+2016;20240;9500281;2,4-mcpa;94-74-6;0.252;N Organique;;Non
+2016;20240;9500281;dicamba;1918-00-9;0.0216;N Organique;;Non
+2016;20240;9500281;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;15.48;Autre;;Non
+2016;20240;9500414;cypermethrine;52315-07-8;0.001;N Organique;;Non
+2016;20240;9500432;acrinathrine;101007-06-1;1.65;N Organique;;Non
+2016;20240;9500467;triclopyr;55335-06-3;0.78;N Organique;;Non
+2016;20240;9500561;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20240;9500568;cyprodinyl;121552-61-2;1.875;N Organique;;Non
+2016;20240;9500568;fludioxonil;131341-86-1;1.25;N Organique;;Non
+2016;20240;9500649;folpel;133-07-3;9.0;T, T+, CMR;;Non
+2016;20240;9500649;fosetyl-aluminium;39148-24-8;18.0;Autre;;Non
+2016;20240;9600025;fosetyl-aluminium;39148-24-8;24.0;Autre;;Non
+2016;20240;9600097;cuivre de l'hydroxyde de cuivre;20427-59-2;0.0864;T, T+, CMR;;Non
+2016;20240;9600120;thirame;137-26-8;12.0;N Organique;;Non
+2016;20240;9600368;fosetyl-aluminium;39148-24-8;448.392;Autre;;Non
+2016;20240;9600368;metirame;9006-42-2;275.128;N Organique;;Non
+2016;20240;9600386;fosetyl-aluminium;39148-24-8;0.8;Autre;;Non
+2016;20240;9600395;dithianon;3347-22-6;46.2;T, T+, CMR;;Non
+2016;20240;9600512;folpel;133-07-3;134.4;T, T+, CMR;;Non
+2016;20240;9600512;fosetyl-aluminium;39148-24-8;134.4;Autre;;Non
+2016;20240;9700027;hexythiazox;78587-05-0;0.1;N Organique;;Non
+2016;20240;9700065;quinoxyfene;124495-18-7;25.125;N Organique;;Non
+2016;20240;9700070;flazasulfuron;104040-78-0;14.65;N Organique;;Non
+2016;20240;9700214;kresoxim-methyl;143390-89-0;2.4;T, T+, CMR;;Non
+2016;20240;9700216;imidaclopride;138261-41-3;2.8;N Organique;;Non
+2016;20240;9700332;azoxystrobine;131860-33-8;0.25;T, T+, CMR;;Non
+2016;20240;9700442;tebuconazole;107534-96-3;17.325;T, T+, CMR;;Non
+2016;20240;9700442;triadimenol;55219-65-3;5.775;N Organique;;Non
+2016;20240;9700521;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20240;9800096;huile minerale paraffinique;8042-47-5;3.2;Autre;;Non
+2016;20240;9800259;benoxacor;98730-04-2;9.0;Autre;;Non
+2016;20240;9800259;s-metolachlore;87392-12-9;183.0;N Organique;;Non
+2016;20240;9800336;lambda-cyhalothrine;91465-08-6;12.4;T, T+, CMR;;Non
+2016;20240;9800344;fludioxonil;131341-86-1;0.029;N Organique;;Non
+2016;20240;9800344;metalaxyl-m;70630-17-0;0.011252;Autre;;Non
+2016;20240;9800347;fluroxypyr;69377-81-7;0.36;N Organique;;Non
+2016;20240;9800347;triclopyr;55335-06-3;1.08;N Organique;;Non
+2016;20240;9800420;spiroxamine;118134-30-8;67.0;N Organique;;Non
+2016;20240;9800474;cuivre du sulfate de cuivre;8011-63-0;33.0;N minéral;;Non
+2016;20240;9800481;fleur de chaux (chaux eteinte);1305-62-0;1.3;Autre;;Non
+2016;20240;9900104;chlorpyriphos-ethyl;2921-88-2;16.25;T, T+, CMR;;Non
+2016;20240;9900119;isoxaben;82558-50-7;0.00182;N Organique;;Non
+2016;20240;9900119;oryzalin;19044-88-3;0.00756;T, T+, CMR;;Non
+2016;20240;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;360.0;T, T+, CMR;;Non
+2016;20240;9900242;mancozebe;8018-01-7;37.5;T, T+, CMR;;Non
+2016;20240;9900282;cuivre de l'oxychlorure de cuivre;1332-40-7;0.15015;T, T+, CMR;;Non
+2016;20242;2010509;cuivre du sulfate de cuivre;8011-63-0;0.08;N minéral;;Non
+2016;20242;2110196;bicarbonate de potassium;298-14-6;0.085;Autre;;Non
+2016;20242;2140121;acide pelargonique;112-05-0;0.432414;Autre;;Non
+2016;20243;2000018;soufre pour pulverisation (micronise);7704-34-9;32.0;Autre;;Non
+2016;20243;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;1.8;T, T+, CMR;;Non
+2016;20243;2010023;deltamethrine;52918-63-5;0.375;T, T+, CMR;;Non
+2016;20243;2010321;glyphosate;1071-83-6;0.01152;N Organique;;Non
+2016;20243;2010410;soufre pour pulverisation (micronise);7704-34-9;1.2;Autre;;Non
+2016;20243;2010509;cuivre du sulfate de cuivre;8011-63-0;0.08;N minéral;;Non
+2016;20243;2020003;phosphate ferrique;10045-86-0;0.0396;Autre;;Non
+2016;20243;2020448;glyphosate;1071-83-6;0.126;N Organique;;Non
+2016;20243;2030125;deltamethrine;52918-63-5;0.0018;T, T+, CMR;;Non
+2016;20243;2030273;lambda-cyhalothrine;91465-08-6;0.00075;T, T+, CMR;;Non
+2016;20243;2030273;pyrimicarbe;23103-98-2;0.015;T, T+, CMR;;Non
+2016;20243;2030332;2,4-d;94-75-7;0.2112;N Organique;;Non
+2016;20243;2030332;dichlorprop-p;15165-67-0;0.1056;Autre;;Non
+2016;20243;2030337;dichlorprop-p;15165-67-0;1.75;Autre;;Non
+2016;20243;2050146;diflufenicanil;83164-33-4;0.0784;N Organique;;Non
+2016;20243;2050146;glyphosate;1071-83-6;0.49;N Organique;;Non
+2016;20243;2060050;metrafenone;220899-03-6;2.5;N Organique;;Non
+2016;20243;2060098;spinosad;168316-95-8;0.24;N Organique;;Non
+2016;20243;2060130;spinosad;168316-95-8;0.0048;N Organique;;Non
+2016;20243;2080054;acetamipride;135410-20-7;0.00025;N Organique;;Non
+2016;20243;2080062;benalaxyl-m;98243-83-5;4.4;N Organique;;Non
+2016;20243;2080062;mancozebe;8018-01-7;71.5;T, T+, CMR;;Non
+2016;20243;2080099;mancozebe;8018-01-7;66.0;T, T+, CMR;;Non
+2016;20243;2080099;mandipropamide;374726-62-2;5.5;N Organique;;Non
+2016;20243;2080101;acetamipride;135410-20-7;0.8;N Organique;;Non
+2016;20243;2080112;thirame;137-26-8;0.9696;N Organique;;Non
+2016;20243;2090001;proquinazid;189278-12-4;1.2;T, T+, CMR;;Non
+2016;20243;2090034;difenoconazole;119446-68-3;0.000251;N Organique;;Non
+2016;20243;2090044;glyphosate;1071-83-6;0.757;N Organique;;Non
+2016;20243;2090050;cypermethrine;52315-07-8;1.152;N Organique;;Non
+2016;20243;2090119;cuivre du sulfate tribasique;12527-76-3;15.2;N minéral;;Non
+2016;20243;2090132;cuivre du sulfate tribasique;12527-76-3;18.662;N minéral;;Non
+2016;20243;2090132;zoxamide;156052-68-5;2.8;N Organique;;Non
+2016;20243;2090164;glyphosate;1071-83-6;6.84;N Organique;;Non
+2016;20243;2090178;tebuconazole;107534-96-3;9.4e-05;T, T+, CMR;;Non
+2016;20243;2090178;trifloxystrobine;141517-21-7;9.4e-05;N Organique;;Non
+2016;20243;2100004;acetamipride;135410-20-7;0.000136;N Organique;;Non
+2016;20243;2100004;triticonazole;131983-72-7;0.000408;N Organique;;Non
+2016;20243;2100078;deltamethrine;52918-63-5;2.2e-05;T, T+, CMR;;Non
+2016;20243;2100165;acetamipride;135410-20-7;0.00175;N Organique;;Non
+2016;20243;2100165;triticonazole;131983-72-7;0.00525;N Organique;;Non
+2016;20243;2100181;fluopicolide;239110-15-7;3.1968;N Organique;;Non
+2016;20243;2100181;fosetyl-aluminium;39148-24-8;48.0024;Autre;;Non
+2016;20243;2100193;2,4-d;94-75-7;14.4;N Organique;;Non
+2016;20243;2100220;glyphosate;1071-83-6;0.0054;N Organique;;Non
+2016;20243;2110073;indoxacarbe;173584-44-6;0.9;T, T+, CMR;;Non
+2016;20243;2110083;cuivre du sulfate tribasique;12527-76-3;0.000638;N minéral;;Non
+2016;20243;2110083;pyrethrines;8003-34-7;0.000188;N Organique;;Non
+2016;20243;2110083;soufre;7704-34-9;0.0045;Autre;;Non
+2016;20243;2110084;butoxyde de piperonyle;51-03-6;0.00315;Autre;;Non
+2016;20243;2110084;pyrethrines;8003-34-7;0.000438;N Organique;;Non
+2016;20243;2110086;spirotetramat;203313-25-1;10.4;T, T+, CMR;;Non
+2016;20243;2110141;dimethomorphe;110488-70-5;0.72;N Organique;;Non
+2016;20243;2110141;pyraclostrobine;175013-18-0;0.4;T, T+, CMR;;Non
+2016;20243;2110150;huile de colza;8002-13-9;0.3885;Autre;;Non
+2016;20243;2110180;cuivre de l'oxyde cuivreux;1317-39-1;0.2475;N minéral;;Non
+2016;20243;2110197;spiroxamine;118134-30-8;10.0;N Organique;;Non
+2016;20243;2110198;glyphosate;1071-83-6;21.6;N Organique;;Non
+2016;20243;2120018;glyphosate;1071-83-6;1.92;N Organique;;Non
+2016;20243;2120086;chlorpyriphos-methyl;5598-13-0;48.375;N Organique;;Non
+2016;20243;2120088;fosetyl-aluminium;39148-24-8;112.0;Autre;;Non
+2016;20243;2120133;fluroxypyr;69377-81-7;0.0018;N Organique;;Non
+2016;20243;2120133;triclopyr;55335-06-3;0.0054;N Organique;;Non
+2016;20243;2120157;acide pelargonique;112-05-0;0.02448;Autre;;Non
+2016;20243;2120157;glyphosate;1071-83-6;0.00864;N Organique;;Non
+2016;20243;2130049;cyflufenamid;180409-60-3;0.45;N Organique;;Non
+2016;20243;2130049;difenoconazole;119446-68-3;0.9;N Organique;;Non
+2016;20243;2130093;diflufenicanil;83164-33-4;0.002304;N Organique;;Non
+2016;20243;2130093;glyphosate;1071-83-6;0.0144;N Organique;;Non
+2016;20243;2130115;1,5-diaminopentane;462-94-2;0.000388;Autre;;Non
+2016;20243;2130115;acetate d'ammonium;631-61-8;0.094575;Autre;;Non
+2016;20243;2130115;deltamethrine;52918-63-5;0.000184;T, T+, CMR;;Non
+2016;20243;2130115;trimethylamine hydrochloride;593-81-7;0.000388;Autre;;Non
+2016;20243;2130151;hydrazide maleique;123-33-1;0.048;Autre;;Non
+2016;20243;2130152;fluopyram;658066-35-4;1.25;T, T+, CMR;;Non
+2016;20243;2130152;trifloxystrobine;141517-21-7;1.25;N Organique;;Non
+2016;20243;2140001;acide gibberellique;77-06-5;0.228;Autre;;Non
+2016;20243;2140085;abamectine;71751-41-2;0.18;T, T+, CMR;;Non
+2016;20243;2140121;acide pelargonique;112-05-0;1.534831;Autre;;Non
+2016;20243;2140134;soufre triture ventile;7704-34-9;0.788;Autre;;Non
+2016;20243;2140167;acide decanoique;334-48-5;0.02376;Autre;;Non
+2016;20243;2140167;acide octanoique;124-07-2;0.03564;Autre;;Non
+2016;20243;2140252;phosphate ferrique;10045-86-0;0.06375;Autre;;Non
+2016;20243;2150011;tebuconazole;107534-96-3;0.005;T, T+, CMR;;Non
+2016;20243;2150387;ametoctradine;865318-97-4;6.0;Autre;;Non
+2016;20243;2150387;dimethomorphe;110488-70-5;4.5;N Organique;;Non
+2016;20243;5100219;soufre sublime;7704-34-9;99.0;Autre;;Non
+2016;20243;7400057;glyphosate;1071-83-6;158.4;N Organique;;Non
+2016;20243;7700078;diquat;85-00-7;5.0;T, T+, CMR;;Non
+2016;20243;7700216;soufre pour pulverisation (micronise);7704-34-9;16.5;Autre;;Non
+2016;20243;9000222;soufre;7704-34-9;91.0;Autre;;Non
+2016;20243;9000471;glufosinate ammonium;77182-82-2;11.25;T, T+, CMR;;Non
+2016;20243;9100479;glyphosate;1071-83-6;91.2;N Organique;;Non
+2016;20243;9100525;tebufenpyrad;119168-77-3;0.002;T, T+, CMR;;Non
+2016;20243;9100558;cypermethrine;52315-07-8;0.001;N Organique;;Non
+2016;20243;9200135;cypermethrine;52315-07-8;0.001;N Organique;;Non
+2016;20243;9200512;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20243;9300241;glyphosate;1071-83-6;0.085;N Organique;;Non
+2016;20243;9300504;huile de vaseline;8042-47-5;326.8;Autre;;Non
+2016;20243;9400354;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20243;9500135;metaldehyde;108-62-3;0.045;Autre;;Non
+2016;20243;9500432;acrinathrine;101007-06-1;0.075;N Organique;;Non
+2016;20243;9600097;cuivre de l'hydroxyde de cuivre;20427-59-2;0.0864;T, T+, CMR;;Non
+2016;20243;9600512;folpel;133-07-3;9.6;T, T+, CMR;;Non
+2016;20243;9600512;fosetyl-aluminium;39148-24-8;9.6;Autre;;Non
+2016;20243;9700065;quinoxyfene;124495-18-7;1.875;N Organique;;Non
+2016;20243;9700070;flazasulfuron;104040-78-0;0.1;N Organique;;Non
+2016;20243;9700442;tebuconazole;107534-96-3;1.35;T, T+, CMR;;Non
+2016;20243;9700442;triadimenol;55219-65-3;0.45;N Organique;;Non
+2016;20243;9700521;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;20243;9800096;huile minerale paraffinique;8042-47-5;1.6;Autre;;Non
+2016;20243;9800336;lambda-cyhalothrine;91465-08-6;1.1;T, T+, CMR;;Non
+2016;20243;9800344;fludioxonil;131341-86-1;0.015;N Organique;;Non
+2016;20243;9800344;metalaxyl-m;70630-17-0;0.00582;Autre;;Non
+2016;20243;9800347;fluroxypyr;69377-81-7;0.12;N Organique;;Non
+2016;20243;9800347;triclopyr;55335-06-3;0.36;N Organique;;Non
+2016;20243;9800481;fleur de chaux (chaux eteinte);1305-62-0;3.9;Autre;;Non
+2016;20243;9900119;isoxaben;82558-50-7;0.002392;N Organique;;Non
+2016;20243;9900119;oryzalin;19044-88-3;0.009936;T, T+, CMR;;Non
+2016;20243;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;12.0;T, T+, CMR;;Non
+2016;20244;2090082;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20244;2100098;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20244;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20244;9700216;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20245;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20245;2060098;spinosad;168316-95-8;0.24;N Organique;;Non
+2016;20245;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20245;8500023;thirame;137-26-8;4.0;N Organique;;Non
+2016;20245;9300504;huile de vaseline;8042-47-5;16.34;Autre;;Non
+2016;20245;9800474;cuivre du sulfate de cuivre;8011-63-0;3.0;N minéral;;Non
+2016;20246;2010509;cuivre du sulfate de cuivre;8011-63-0;0.08;N minéral;;Non
+2016;20246;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20246;2040195;myclobutanil;88671-89-0;0.135;T, T+, CMR;;Non
+2016;20246;2090082;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20246;2120086;chlorpyriphos-methyl;5598-13-0;7.875;N Organique;;Non
+2016;20246;2120132;dimethomorphe;110488-70-5;0.45;N Organique;;Non
+2016;20246;2120132;metirame;9006-42-2;2.2;N Organique;;Non
+2016;20246;2120157;acide pelargonique;112-05-0;0.06732;Autre;;Non
+2016;20246;2120157;glyphosate;1071-83-6;0.02376;N Organique;;Non
+2016;20246;9000471;glufosinate ammonium;77182-82-2;12.0;T, T+, CMR;;Non
+2016;20246;9400354;glyphosate;1071-83-6;144.0;N Organique;;Non
+2016;20246;9400484;cuivre du sulfate de cuivre;8011-63-0;2.52;N minéral;;Non
+2016;20246;9400484;cymoxanil;57966-95-7;0.4802;T, T+, CMR;;Non
+2016;20246;9400484;mancozebe;8018-01-7;1.61;T, T+, CMR;;Non
+2016;20246;9600025;fosetyl-aluminium;39148-24-8;4.8;Autre;;Non
+2016;20246;9800336;lambda-cyhalothrine;91465-08-6;1.1;T, T+, CMR;;Non
+2016;20246;9800420;spiroxamine;118134-30-8;1.5;N Organique;;Non
+2016;20246;9800474;cuivre du sulfate de cuivre;8011-63-0;3.0;N minéral;;Non
+2016;20248;2090188;glyphosate;1071-83-6;3.6;N Organique;;Non
+2016;20248;2120048;aminopyralid;150114-71-9;0.03;N Organique;;Non
+2016;20248;2120048;triclopyr;55335-06-3;0.24;N Organique;;Non
+2016;20248;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20248;9200159;pyrimethanil;53112-28-0;2.0;N Organique;;Non
+2016;20248;9200262;iprodione;36734-19-7;1.0;T, T+, CMR;;Non
+2016;20248;9400354;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20248;9500649;folpel;133-07-3;3.0;T, T+, CMR;;Non
+2016;20248;9500649;fosetyl-aluminium;39148-24-8;6.0;Autre;;Non
+2016;20248;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;2.0;T, T+, CMR;;Non
+2016;20250;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;9.0;T, T+, CMR;;Non
+2016;20250;2080054;acetamipride;135410-20-7;1e-05;N Organique;;Non
+2016;20250;2090029;thiamethoxam;153719-23-4;0.005;N Organique;;Non
+2016;20250;2090094;thiophanate-methyl;23564-05-8;7.04;T, T+, CMR;;Non
+2016;20250;2090127;huile essentielle d'orange douce;8028-48-6;0.9;N Organique;;Non
+2016;20250;2090164;glyphosate;1071-83-6;1.08;N Organique;;Non
+2016;20250;2100098;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20250;2100165;acetamipride;135410-20-7;0.001;N Organique;;Non
+2016;20250;2100165;triticonazole;131983-72-7;0.003;N Organique;;Non
+2016;20250;2110086;spirotetramat;203313-25-1;1.0;T, T+, CMR;;Non
+2016;20250;2120018;glyphosate;1071-83-6;0.768;N Organique;;Non
+2016;20250;2120034;glyphosate;1071-83-6;9.6;N Organique;;Non
+2016;20250;2120086;chlorpyriphos-methyl;5598-13-0;9.0;N Organique;;Non
+2016;20250;2120157;acide pelargonique;112-05-0;0.01632;Autre;;Non
+2016;20250;2120157;glyphosate;1071-83-6;0.00576;N Organique;;Non
+2016;20250;2140134;soufre triture ventile;7704-34-9;0.394;Autre;;Non
+2016;20250;9000471;glufosinate ammonium;77182-82-2;5.25;T, T+, CMR;;Non
+2016;20250;9300186;tebuconazole;107534-96-3;2.5;T, T+, CMR;;Non
+2016;20250;9300504;huile de vaseline;8042-47-5;81.7;Autre;;Non
+2016;20250;9400354;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20250;9420113;2,4-d;94-75-7;0.14;N Organique;;Non
+2016;20250;9420113;dicamba;1918-00-9;0.02;N Organique;;Non
+2016;20250;9420113;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;10.0;Autre;;Non
+2016;20250;9500561;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20250;9500568;cyprodinyl;121552-61-2;0.00375;N Organique;;Non
+2016;20250;9500568;fludioxonil;131341-86-1;0.0025;N Organique;;Non
+2016;20250;9600025;fosetyl-aluminium;39148-24-8;14.4;Autre;;Non
+2016;20250;9700259;glyphosate;1071-83-6;0.864;N Organique;;Non
+2016;20250;9800201;2,4-mcpa;94-74-6;1.08;N Organique;;Non
+2016;20250;9800201;dichlorprop-p;15165-67-0;1.08;Autre;;Non
+2016;20250;9800201;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20250;9800336;lambda-cyhalothrine;91465-08-6;0.7;T, T+, CMR;;Non
+2016;20250;9800474;cuivre du sulfate de cuivre;8011-63-0;6.0;N minéral;;Non
+2016;20250;9800481;fleur de chaux (chaux eteinte);1305-62-0;2.6;Autre;;Non
+2016;20250;9900104;chlorpyriphos-ethyl;2921-88-2;2.5;T, T+, CMR;;Non
+2016;20251;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;3.6;T, T+, CMR;;Non
+2016;20251;2090001;proquinazid;189278-12-4;0.6;T, T+, CMR;;Non
+2016;20251;2090164;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20251;2100221;ametoctradine;865318-97-4;1.8;Autre;;Non
+2016;20251;2100221;metirame;9006-42-2;6.6;N Organique;;Non
+2016;20251;2120086;chlorpyriphos-methyl;5598-13-0;4.5;N Organique;;Non
+2016;20251;9800336;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;20252;2090176;diquat;85-00-7;0.0015;T, T+, CMR;;Non
+2016;20252;2090176;glyphosate;1071-83-6;0.0415;N Organique;;Non
+2016;20252;2120133;fluroxypyr;69377-81-7;0.008;N Organique;;Non
+2016;20252;2120133;triclopyr;55335-06-3;0.024;N Organique;;Non
+2016;20253;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;126.0;T, T+, CMR;;Non
+2016;20253;2010023;deltamethrine;52918-63-5;0.675;T, T+, CMR;;Non
+2016;20253;2010130;cuivre de l'oxyde cuivreux;1317-39-1;30.0;N minéral;;Non
+2016;20253;2040195;myclobutanil;88671-89-0;4.59;T, T+, CMR;;Non
+2016;20253;2060085;boscalid;188425-85-6;6.6;N Organique;;Non
+2016;20253;2060085;kresoxim-methyl;143390-89-0;3.3;T, T+, CMR;;Non
+2016;20253;2060098;spinosad;168316-95-8;0.96;N Organique;;Non
+2016;20253;2060133;thiaclopride;111988-49-9;0.96;T, T+, CMR;;Non
+2016;20253;2090001;proquinazid;189278-12-4;4.0;T, T+, CMR;;Non
+2016;20253;2090127;huile essentielle d'orange douce;8028-48-6;0.6;N Organique;;Non
+2016;20253;2100001;glyphosate;1071-83-6;5.22;N Organique;;Non
+2016;20253;2100001;pyraflufen-ethyl;129630-19-9;0.0342;N Organique;;Non
+2016;20253;2100218;quinoxyfene;124495-18-7;0.42;N Organique;;Non
+2016;20253;2100218;soufre;7704-34-9;48.0;Autre;;Non
+2016;20253;2100221;ametoctradine;865318-97-4;24.6;Autre;;Non
+2016;20253;2100221;metirame;9006-42-2;90.2;N Organique;;Non
+2016;20253;2110196;bicarbonate de potassium;298-14-6;0.255;Autre;;Non
+2016;20253;2110197;spiroxamine;118134-30-8;22.5;N Organique;;Non
+2016;20253;2120048;aminopyralid;150114-71-9;0.03;N Organique;;Non
+2016;20253;2120048;triclopyr;55335-06-3;0.24;N Organique;;Non
+2016;20253;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20253;2120132;dimethomorphe;110488-70-5;38.7;N Organique;;Non
+2016;20253;2120132;metirame;9006-42-2;189.2;N Organique;;Non
+2016;20253;2120214;chlorantraniliprole;500008-45-7;7.4;N Organique;;Non
+2016;20253;2120214;thiamethoxam;153719-23-4;7.4;N Organique;;Non
+2016;20253;2130049;cyflufenamid;180409-60-3;0.3;N Organique;;Non
+2016;20253;2130049;difenoconazole;119446-68-3;0.6;N Organique;;Non
+2016;20253;2130152;fluopyram;658066-35-4;4.0;T, T+, CMR;;Non
+2016;20253;2130152;trifloxystrobine;141517-21-7;4.0;N Organique;;Non
+2016;20253;2130212;phosmet;732-11-6;7.5;N Organique;;Non
+2016;20253;2130255;dimethomorphe;110488-70-5;16.95;N Organique;;Non
+2016;20253;2130255;folpel;133-07-3;90.0;T, T+, CMR;;Non
+2016;20253;5100219;soufre sublime;7704-34-9;495.0;Autre;;Non
+2016;20253;8900620;folpel;133-07-3;12.5;T, T+, CMR;;Non
+2016;20253;9000222;soufre;7704-34-9;679.0;Autre;;Non
+2016;20253;9100613;bioallethrine;584-79-2;0.012;Autre;;Non
+2016;20253;9100613;butoxyde de piperonyle;51-03-6;0.06;Autre;;Non
+2016;20253;9100613;permethrine;52645-53-1;0.1;Autre;;Non
+2016;20253;9200062;acide b-indole butyrique (aib);133-32-4;0.0025;T, T+, CMR;;Non
+2016;20253;9300309;zetacypermethrine;52315-07-8;2.2;T, T+, CMR;;Non
+2016;20253;9400354;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20253;9400484;cuivre du sulfate de cuivre;8011-63-0;6.3;N minéral;;Non
+2016;20253;9400484;cymoxanil;57966-95-7;1.2005;T, T+, CMR;;Non
+2016;20253;9400484;mancozebe;8018-01-7;4.025;T, T+, CMR;;Non
+2016;20253;9500561;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20253;9500649;folpel;133-07-3;54.0;T, T+, CMR;;Non
+2016;20253;9500649;fosetyl-aluminium;39148-24-8;108.0;Autre;;Non
+2016;20253;9600368;fosetyl-aluminium;39148-24-8;271.296;Autre;;Non
+2016;20253;9600368;metirame;9006-42-2;166.464;N Organique;;Non
+2016;20253;9700216;imidaclopride;138261-41-3;0.6;N Organique;;Non
+2016;20253;9800336;lambda-cyhalothrine;91465-08-6;0.2;T, T+, CMR;;Non
+2016;20253;9800420;spiroxamine;118134-30-8;52.5;N Organique;;Non
+2016;20253;9800474;cuivre du sulfate de cuivre;8011-63-0;36.0;N minéral;;Non
+2016;20253;9800481;fleur de chaux (chaux eteinte);1305-62-0;2.6;Autre;;Non
+2016;20253;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;26.0;T, T+, CMR;;Non
+2016;20256;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20256;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20256;2120086;chlorpyriphos-methyl;5598-13-0;2.25;N Organique;;Non
+2016;20256;9700216;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20259;2000510;fer sous forme de sulfate de fer;7720-78-7;1.6;Autre;;Non
+2016;20260;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;10.8;T, T+, CMR;;Non
+2016;20260;2040195;myclobutanil;88671-89-0;1.08;T, T+, CMR;;Non
+2016;20260;2060133;thiaclopride;111988-49-9;2.4;T, T+, CMR;;Non
+2016;20260;2120034;glyphosate;1071-83-6;9.6;N Organique;;Non
+2016;20260;2120086;chlorpyriphos-methyl;5598-13-0;2.25;N Organique;;Non
+2016;20260;2120132;dimethomorphe;110488-70-5;5.85;N Organique;;Non
+2016;20260;2120132;metirame;9006-42-2;28.6;N Organique;;Non
+2016;20260;9100613;bioallethrine;584-79-2;0.612;Autre;;Non
+2016;20260;9100613;butoxyde de piperonyle;51-03-6;3.06;Autre;;Non
+2016;20260;9100613;permethrine;52645-53-1;5.1;Autre;;Non
+2016;20260;9400354;glyphosate;1071-83-6;21.6;N Organique;;Non
+2016;20260;9600368;fosetyl-aluminium;39148-24-8;11.304;Autre;;Non
+2016;20260;9600368;metirame;9006-42-2;6.936;N Organique;;Non
+2016;20260;9700216;imidaclopride;138261-41-3;1.0;N Organique;;Non
+2016;20260;9800201;2,4-mcpa;94-74-6;4.59;N Organique;;Non
+2016;20260;9800201;dichlorprop-p;15165-67-0;4.59;Autre;;Non
+2016;20260;9800201;glyphosate;1071-83-6;6.12;N Organique;;Non
+2016;20260;9800420;spiroxamine;118134-30-8;4.5;N Organique;;Non
+2016;20260;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;2.0;T, T+, CMR;;Non
+2016;20270;2000018;soufre pour pulverisation (micronise);7704-34-9;1776.0;Autre;;Non
+2016;20270;2000125;cuivre du sulfate de cuivre;8011-63-0;4.6;N minéral;;Non
+2016;20270;2000201;silthiofam;175217-20-6;0.625;N Organique;;Non
+2016;20270;2000214;acrinathrine;101007-06-1;2.25;N Organique;;Non
+2016;20270;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;495.0;T, T+, CMR;;Non
+2016;20270;2010023;deltamethrine;52918-63-5;5.61;T, T+, CMR;;Non
+2016;20270;2010130;cuivre de l'oxyde cuivreux;1317-39-1;71.25;N minéral;;Non
+2016;20270;2010139;2,4-d;94-75-7;0.3;N Organique;;Non
+2016;20270;2010280;metconazole;125116-23-6;4.5;T, T+, CMR;;Non
+2016;20270;2010351;iodosulfuron-methyl-sodium;144550-36-7;0.18;N Organique;;Non
+2016;20270;2010351;mefenpyr-diethyl;135590-91-9;0.54;Autre;;Non
+2016;20270;2010351;mesosulfuron-methyl;208465-21-8;0.18;N Organique;;Non
+2016;20270;2010398;folpel;133-07-3;166.4;T, T+, CMR;;Non
+2016;20270;2010398;metalaxyl-m;70630-17-0;20.176;Autre;;Non
+2016;20270;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20270;2010602;cymoxanil;57966-95-7;5.76;T, T+, CMR;;Non
+2016;20270;2010602;mancozebe;8018-01-7;66.96;T, T+, CMR;;Non
+2016;20270;2020020;cycloxydime;101205-02-1;0.3;T, T+, CMR;;Non
+2016;20270;2020219;fenoxaprop-p-ethyl;71283-80-2;0.069;N Organique;;Non
+2016;20270;2020224;iodosulfuron-methyl-sodium;144550-36-7;0.27;N Organique;;Non
+2016;20270;2020224;mefenpyr-diethyl;135590-91-9;0.81;Autre;;Non
+2016;20270;2020224;mesosulfuron-methyl;208465-21-8;0.27;N Organique;;Non
+2016;20270;2020234;metaldehyde;108-62-3;5.0;Autre;;Non
+2016;20270;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20270;2030011;carfentrazone ethyl;128639-02-1;5.1;N Organique;;Non
+2016;20270;2030125;deltamethrine;52918-63-5;0.00045;T, T+, CMR;;Non
+2016;20270;2030265;chlormequat chlorure;999-81-5;16.1;Autre;;Non
+2016;20270;2030273;lambda-cyhalothrine;91465-08-6;0.00025;T, T+, CMR;;Non
+2016;20270;2030273;pyrimicarbe;23103-98-2;0.005;T, T+, CMR;;Non
+2016;20270;2030337;dichlorprop-p;15165-67-0;6.25;Autre;;Non
+2016;20270;2040195;myclobutanil;88671-89-0;33.615;T, T+, CMR;;Non
+2016;20270;2050046;flonicamide;158062-67-0;7.0;Autre;;Non
+2016;20270;2050075;boscalid;188425-85-6;2.5;N Organique;;Non
+2016;20270;2060027;iodosulfuron-methyl-sodium;144550-36-7;0.06;N Organique;;Non
+2016;20270;2060027;mefenpyr-diethyl;135590-91-9;0.9;Autre;;Non
+2016;20270;2060027;mesosulfuron-methyl;208465-21-8;0.3;N Organique;;Non
+2016;20270;2060034;kaolin;1332-58-7;819.375;Autre;;Non
+2016;20270;2060050;metrafenone;220899-03-6;103.5;N Organique;;Non
+2016;20270;2060084;boscalid;188425-85-6;9.345;N Organique;;Non
+2016;20270;2060084;pyraclostrobine;175013-18-0;2.345;T, T+, CMR;;Non
+2016;20270;2060085;boscalid;188425-85-6;25.8;N Organique;;Non
+2016;20270;2060085;kresoxim-methyl;143390-89-0;12.9;T, T+, CMR;;Non
+2016;20270;2060088;benoxacor;98730-04-2;2.4;Autre;;Non
+2016;20270;2060088;mesotrione;104206-82-8;4.8;N Organique;;Non
+2016;20270;2060088;s-metolachlore;87392-12-9;48.0;N Organique;;Non
+2016;20270;2060098;spinosad;168316-95-8;9.84;N Organique;;Non
+2016;20270;2060130;spinosad;168316-95-8;0.01392;N Organique;;Non
+2016;20270;2060131;2,4-d;94-75-7;0.093;N Organique;;Non
+2016;20270;2060131;triclopyr;55335-06-3;0.1036;N Organique;;Non
+2016;20270;2060133;thiaclopride;111988-49-9;13.92;T, T+, CMR;;Non
+2016;20270;2070077;prothioconazole;178928-70-6;3.75;T, T+, CMR;;Non
+2016;20270;2070133;napropamide;15299-99-7;47.25;N Organique;;Non
+2016;20270;2080018;acetamipride;135410-20-7;0.00475;N Organique;;Non
+2016;20270;2080026;nicosulfuron;111991-09-4;0.66;N Organique;;Non
+2016;20270;2080029;penoxsulame;219714-96-2;2.6;N Organique;;Non
+2016;20270;2080038;pyrethrines;8003-34-7;2.604;N Organique;;Non
+2016;20270;2080054;acetamipride;135410-20-7;0.00022;N Organique;;Non
+2016;20270;2080060;pyriproxyfene;95737-68-1;2.5;N Organique;;Non
+2016;20270;2080062;benalaxyl-m;98243-83-5;17.2;N Organique;;Non
+2016;20270;2080062;mancozebe;8018-01-7;279.5;T, T+, CMR;;Non
+2016;20270;2080099;mancozebe;8018-01-7;912.0;T, T+, CMR;;Non
+2016;20270;2080099;mandipropamide;374726-62-2;76.0;N Organique;;Non
+2016;20270;2080100;folpel;133-07-3;340.0;T, T+, CMR;;Non
+2016;20270;2080100;mandipropamide;374726-62-2;42.5;N Organique;;Non
+2016;20270;2080101;acetamipride;135410-20-7;15.0;N Organique;;Non
+2016;20270;2080109;myclobutanil;88671-89-0;26.325;T, T+, CMR;;Non
+2016;20270;2080109;quinoxyfene;124495-18-7;26.325;N Organique;;Non
+2016;20270;2080112;thirame;137-26-8;1.4736;N Organique;;Non
+2016;20270;2080121;dimethomorphe;110488-70-5;15.75;N Organique;;Non
+2016;20270;2080121;dithianon;3347-22-6;36.75;T, T+, CMR;;Non
+2016;20270;2080129;meptyldinocap;131-72-6;75.25;N Organique;;Oui
+2016;20270;2080145;diflufenicanil;83164-33-4;6.0;N Organique;;Non
+2016;20270;2080145;flufenacet;142459-58-3;12.0;N Organique;;Non
+2016;20270;2090001;proquinazid;189278-12-4;55.6;T, T+, CMR;;Non
+2016;20270;2090050;cypermethrine;52315-07-8;8.448;N Organique;;Non
+2016;20270;2090053;bromoxynil octanoate;1689-99-2;6.55;T, T+, CMR;;Non
+2016;20270;2090053;isoxadifen-ethyl;163520-33-0;0.625;N Organique;;Non
+2016;20270;2090053;tembotrione;335104-84-2;1.25;T, T+, CMR;;Non
+2016;20270;2090080;sulcotrione;99105-77-8;18.0;T, T+, CMR;;Non
+2016;20270;2090082;imidaclopride;138261-41-3;0.8;N Organique;;Non
+2016;20270;2090091;thiamethoxam;153719-23-4;7.5;N Organique;;Non
+2016;20270;2090094;thiophanate-methyl;23564-05-8;66.88;T, T+, CMR;;Non
+2016;20270;2090104;penconazole;66246-88-6;3.5;T, T+, CMR;;Oui
+2016;20270;2090119;cuivre du sulfate tribasique;12527-76-3;646.0;N minéral;;Non
+2016;20270;2090127;huile essentielle d'orange douce;8028-48-6;6.0;N Organique;;Non
+2016;20270;2090132;cuivre du sulfate tribasique;12527-76-3;39.99;N minéral;;Non
+2016;20270;2090132;zoxamide;156052-68-5;6.0;N Organique;;Non
+2016;20270;2090160;glyphosate;1071-83-6;151.2;N Organique;;Non
+2016;20270;2090164;glyphosate;1071-83-6;1.44;N Organique;;Non
+2016;20270;2090186;prosulfocarbe;52888-80-9;112.0;N Organique;;Non
+2016;20270;2090188;glyphosate;1071-83-6;57.6;N Organique;;Non
+2016;20270;2090199;huile de colza;8002-13-9;0.24759;Autre;;Non
+2016;20270;2090199;pyrethrines;8003-34-7;0.001377;N Organique;;Non
+2016;20270;2100001;glyphosate;1071-83-6;285.795;N Organique;;Non
+2016;20270;2100001;pyraflufen-ethyl;129630-19-9;1.87245;N Organique;;Non
+2016;20270;2100069;metsulfuron-methyl;74223-64-6;0.007;N Organique;;Non
+2016;20270;2100069;thifensulfuron-methyle;79277-27-3;0.068;N Organique;;Non
+2016;20270;2100085;quinoxyfene;124495-18-7;1.75;N Organique;;Oui
+2016;20270;2100086;metirame;9006-42-2;192.5;N Organique;;Oui
+2016;20270;2100098;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;20270;2100111;mesotrione;104206-82-8;4.125;N Organique;;Non
+2016;20270;2100111;nicosulfuron;111991-09-4;1.65;N Organique;;Non
+2016;20270;2100121;chlorantraniliprole;500008-45-7;17.16;N Organique;;Non
+2016;20270;2100132;glyphosate;1071-83-6;144.0;N Organique;;Oui
+2016;20270;2100134;penconazole;66246-88-6;0.1;T, T+, CMR;;Oui
+2016;20270;2100138;cloquintocet-mexyl;99607-70-2;1.0;Autre;;Non
+2016;20270;2100138;pinoxaden;243973-20-8;4.0;T, T+, CMR;;Non
+2016;20270;2100154;chlorpyriphos-ethyl;2921-88-2;188.5;T, T+, CMR;;Non
+2016;20270;2100154;cypermethrine;52315-07-8;18.85;N Organique;;Non
+2016;20270;2100165;acetamipride;135410-20-7;0.0006;N Organique;;Non
+2016;20270;2100165;triticonazole;131983-72-7;0.0018;N Organique;;Non
+2016;20270;2100181;fluopicolide;239110-15-7;123.0768;N Organique;;Non
+2016;20270;2100181;fosetyl-aluminium;39148-24-8;1848.0924;Autre;;Non
+2016;20270;2100186;glyphosate;1071-83-6;144.0;N Organique;;Oui
+2016;20270;2100193;2,4-d;94-75-7;148.8;N Organique;;Non
+2016;20270;2100218;quinoxyfene;124495-18-7;1.12;N Organique;;Non
+2016;20270;2100218;soufre;7704-34-9;128.0;Autre;;Non
+2016;20270;2100221;ametoctradine;865318-97-4;241.2;Autre;;Oui
+2016;20270;2100221;metirame;9006-42-2;884.4;N Organique;;Oui
+2016;20270;2100231;emamectine benzoate;155569-91-8;0.8075;T, T+, CMR;;Non
+2016;20270;2110004;propyzamide;23950-58-5;72.0;T, T+, CMR;;Oui
+2016;20270;2110049;prothioconazole;178928-70-6;3.75;T, T+, CMR;;Non
+2016;20270;2110049;tebuconazole;107534-96-3;3.75;T, T+, CMR;;Non
+2016;20270;2110073;indoxacarbe;173584-44-6;30.3;T, T+, CMR;;Non
+2016;20270;2110086;spirotetramat;203313-25-1;65.5;T, T+, CMR;;Non
+2016;20270;2110101;pyraflufen-ethyl;129630-19-9;7.5525;N Organique;;Non
+2016;20270;2110105;azoxystrobine;131860-33-8;3.75;T, T+, CMR;;Non
+2016;20270;2110150;huile de colza;8002-13-9;0.777;Autre;;Non
+2016;20270;2110197;spiroxamine;118134-30-8;157.5;N Organique;;Non
+2016;20270;2110198;glyphosate;1071-83-6;309.6;N Organique;;Non
+2016;20270;2120018;glyphosate;1071-83-6;0.768;N Organique;;Non
+2016;20270;2120034;glyphosate;1071-83-6;470.4;N Organique;;Non
+2016;20270;2120048;aminopyralid;150114-71-9;0.09;N Organique;;Non
+2016;20270;2120048;triclopyr;55335-06-3;0.72;N Organique;;Non
+2016;20270;2120086;chlorpyriphos-methyl;5598-13-0;947.25;N Organique;;Non
+2016;20270;2120088;fosetyl-aluminium;39148-24-8;1384.0;Autre;;Non
+2016;20270;2120093;epoxiconazole;133855-98-8;1.25;T, T+, CMR;;Non
+2016;20270;2120107;penoxsulame;219714-96-2;0.4;N Organique;;Oui
+2016;20270;2120132;dimethomorphe;110488-70-5;95.4;N Organique;;Non
+2016;20270;2120132;metirame;9006-42-2;466.4;N Organique;;Non
+2016;20270;2120149;cymoxanil;57966-95-7;9.0;T, T+, CMR;;Oui
+2016;20270;2120153;propyzamide;23950-58-5;8.0;T, T+, CMR;;Non
+2016;20270;2120157;acide pelargonique;112-05-0;0.02448;Autre;;Non
+2016;20270;2120157;glyphosate;1071-83-6;0.00864;N Organique;;Non
+2016;20270;2120182;chlorpyriphos-ethyl;2921-88-2;3.75;T, T+, CMR;;Non
+2016;20270;2120190;spiroxamine;118134-30-8;10.5;N Organique;;Oui
+2016;20270;2120214;chlorantraniliprole;500008-45-7;8.2;N Organique;;Non
+2016;20270;2120214;thiamethoxam;153719-23-4;8.2;N Organique;;Non
+2016;20270;2120216;alphamethrine;67375-30-8;0.7;T, T+, CMR;;Non
+2016;20270;2130037;glufosinate ammonium;77182-82-2;24.0;T, T+, CMR;;Oui
+2016;20270;2130049;cyflufenamid;180409-60-3;16.65;N Organique;;Non
+2016;20270;2130049;difenoconazole;119446-68-3;33.3;N Organique;;Non
+2016;20270;2130059;lambda-cyhalothrine;91465-08-6;1.0;T, T+, CMR;;Oui
+2016;20270;2130067;cyflufenamid;180409-60-3;13.0;N Organique;;Non
+2016;20270;2130115;1,5-diaminopentane;462-94-2;0.094688;Autre;;Non
+2016;20270;2130115;acetate d'ammonium;631-61-8;23.0802;Autre;;Non
+2016;20270;2130115;deltamethrine;52918-63-5;0.044977;T, T+, CMR;;Non
+2016;20270;2130115;trimethylamine hydrochloride;593-81-7;0.094688;Autre;;Non
+2016;20270;2130132;difenoconazole;119446-68-3;1.5;N Organique;;Non
+2016;20270;2130151;hydrazide maleique;123-33-1;0.09;Autre;;Non
+2016;20270;2130152;fluopyram;658066-35-4;54.25;T, T+, CMR;;Non
+2016;20270;2130152;trifloxystrobine;141517-21-7;54.25;N Organique;;Non
+2016;20270;2130212;phosmet;732-11-6;15.0;N Organique;;Non
+2016;20270;2130216;tebuconazole;107534-96-3;24.0;T, T+, CMR;;Oui
+2016;20270;2130255;dimethomorphe;110488-70-5;5.65;N Organique;;Non
+2016;20270;2130255;folpel;133-07-3;30.0;T, T+, CMR;;Non
+2016;20270;2130264;benthiavalicarbe;177406-68-7;2.45;T, T+, CMR;;Oui
+2016;20270;2130264;mancozebe;8018-01-7;98.0;T, T+, CMR;;Oui
+2016;20270;2130272;e8,e10-dodecadiene-1-ol;33956-49-9;1.725;N Organique;;Non
+2016;20270;2140001;acide gibberellique;77-06-5;0.516;Autre;;Non
+2016;20270;2140009;fosetyl-aluminium;39148-24-8;248.0;Autre;;Oui
+2016;20270;2140039;imidaclopride;138261-41-3;3.5;N Organique;;Non
+2016;20270;2140039;prothioconazole;178928-70-6;0.5;T, T+, CMR;;Non
+2016;20270;2140085;abamectine;71751-41-2;3.06;T, T+, CMR;;Non
+2016;20270;2140090;azadirachtine;11141-17-6;0.196;Autre;;Non
+2016;20270;2140093;glyphosate;1071-83-6;162.0;N Organique;;Non
+2016;20270;2140098;aminopyralid;150114-71-9;0.1581;N Organique;;Non
+2016;20270;2140098;propyzamide;23950-58-5;15.0;T, T+, CMR;;Non
+2016;20270;2140121;acide pelargonique;112-05-0;0.432414;Autre;;Non
+2016;20270;2140127;cymoxanil;57966-95-7;126.72;T, T+, CMR;;Non
+2016;20270;2140127;zoxamide;156052-68-5;126.72;N Organique;;Non
+2016;20270;2140134;soufre triture ventile;7704-34-9;0.394;Autre;;Non
+2016;20270;2140153;trinexapac-ethyl;95266-40-3;4.5;N Organique;;Non
+2016;20270;2140173;fluxapyroxad;907204-31-3;3.125;T, T+, CMR;;Non
+2016;20270;2140173;metconazole;125116-23-6;2.25;T, T+, CMR;;Non
+2016;20270;2140181;folpel;133-07-3;192.0;T, T+, CMR;;Oui
+2016;20270;2140203;diflufenicanil;83164-33-4;5.0;N Organique;;Non
+2016;20270;2140252;phosphate ferrique;10045-86-0;0.01875;Autre;;Non
+2016;20270;2150011;tebuconazole;107534-96-3;0.005;T, T+, CMR;;Non
+2016;20270;2150083;chlorpyriphos-methyl;5598-13-0;50.625;N Organique;;Oui
+2016;20270;2150245;alphamethrine;67375-30-8;1.0;T, T+, CMR;;Non
+2016;20270;2150387;ametoctradine;865318-97-4;214.5;Autre;;Non
+2016;20270;2150387;dimethomorphe;110488-70-5;160.875;N Organique;;Non
+2016;20270;5100219;soufre sublime;7704-34-9;5940.0;Autre;;Non
+2016;20270;7100280;benfluraline;1861-40-1;5.4;T, T+, CMR;;Non
+2016;20270;7100402;2,4-d;94-75-7;36.0;N Organique;;Non
+2016;20270;7400057;glyphosate;1071-83-6;1224.0;N Organique;;Non
+2016;20270;7600008;bupirimate;41483-43-6;5.0;N Organique;;Non
+2016;20270;7700216;soufre pour pulverisation (micronise);7704-34-9;16.5;Autre;;Non
+2016;20270;7700706;2,4-d;94-75-7;0.28;N Organique;;Non
+2016;20270;7700706;dicamba;1918-00-9;0.04;N Organique;;Non
+2016;20270;8300243;chlorothalonil;1897-45-6;40.0;T, T+, CMR;;Non
+2016;20270;8400528;isoxaben;82558-50-7;43.125;N Organique;;Non
+2016;20270;8400574;propyzamide;23950-58-5;16.0;T, T+, CMR;;Non
+2016;20270;8500023;thirame;137-26-8;32.0;N Organique;;Non
+2016;20270;8500194;tau-fluvalinate;102851-06-9;37.44;N Organique;;Non
+2016;20270;8700102;benalaxyl;71626-11-4;105.0;N Organique;;Non
+2016;20270;8700102;folpel;133-07-3;673.75;T, T+, CMR;;Non
+2016;20270;8700542;cymoxanil;57966-95-7;4.8;T, T+, CMR;;Non
+2016;20270;8700542;folpel;133-07-3;48.0;T, T+, CMR;;Non
+2016;20270;8800395;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;20270;8800395;pyrimicarbe;23103-98-2;2.0;T, T+, CMR;;Non
+2016;20270;8800417;captane;133-06-2;9.6;T, T+, CMR;;Non
+2016;20270;8800841;difenoconazole;119446-68-3;2.5;N Organique;;Oui
+2016;20270;8900620;folpel;133-07-3;50.0;T, T+, CMR;;Non
+2016;20270;9000184;2,4-mcpa;94-74-6;44.0;N Organique;;Non
+2016;20270;9000184;clopyralid (sous forme de sel de monoethanolamine);57754-85-5;4.4;Autre;;Non
+2016;20270;9000184;fluroxypyr;69377-81-7;8.8;N Organique;;Non
+2016;20270;9000222;soufre;7704-34-9;3514.0;Autre;;Non
+2016;20270;9000471;glufosinate ammonium;77182-82-2;399.75;T, T+, CMR;;Non
+2016;20270;9000490;cycloxydime;101205-02-1;33.0;T, T+, CMR;;Non
+2016;20270;9100034;chlormequat chlorure;999-81-5;69.0;Autre;;Non
+2016;20270;9100296;2,4-d;94-75-7;105.0;N Organique;;Non
+2016;20270;9100418;nicosulfuron;111991-09-4;2.4;N Organique;;Non
+2016;20270;9100479;glyphosate;1071-83-6;1152.0;N Organique;;Non
+2016;20270;9100525;tebufenpyrad;119168-77-3;0.2;T, T+, CMR;;Non
+2016;20270;9100558;cypermethrine;52315-07-8;0.001875;N Organique;;Non
+2016;20270;9200135;cypermethrine;52315-07-8;0.001;N Organique;;Non
+2016;20270;9200155;oxyfluorfene;42874-03-3;46.08;T, T+, CMR;;Non
+2016;20270;9200262;iprodione;36734-19-7;7.0;T, T+, CMR;;Non
+2016;20270;9200313;fenazaquin;120928-09-8;11.0;T, T+, CMR;;Non
+2016;20270;9200383;lambda-cyhalothrine;91465-08-6;1.0;T, T+, CMR;;Non
+2016;20270;9200482;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20270;9200493;bromoxynil octanoate;1689-99-2;2.0;T, T+, CMR;;Non
+2016;20270;9300186;tebuconazole;107534-96-3;4.25;T, T+, CMR;;Non
+2016;20270;9300189;fluroxypyr;69377-81-7;0.16;N Organique;;Non
+2016;20270;9300189;triclopyr;55335-06-3;0.48;N Organique;;Non
+2016;20270;9300309;zetacypermethrine;52315-07-8;4.0;T, T+, CMR;;Non
+2016;20270;9300504;huile de vaseline;8042-47-5;10653.68;Autre;;Non
+2016;20270;9400012;tetraconazole;112281-77-3;0.5;N Organique;;Non
+2016;20270;9400052;clethodime;99129-21-2;4.8;N Organique;;Non
+2016;20270;9400280;flumioxazine;103361-09-7;18.0;T, T+, CMR;;Non
+2016;20270;9400354;glyphosate;1071-83-6;1965.6;N Organique;;Non
+2016;20270;9400458;(z)-9-dodecenylacetate;16974-11-1;9.828;N Organique;;Non
+2016;20270;9400458;e7,z9-dodecadienylacetate;54364-62-4;5.37264;N Organique;;Non
+2016;20270;9400484;cuivre du sulfate de cuivre;8011-63-0;149.94;N minéral;;Non
+2016;20270;9400484;cymoxanil;57966-95-7;28.5719;T, T+, CMR;;Non
+2016;20270;9400484;mancozebe;8018-01-7;95.795;T, T+, CMR;;Non
+2016;20270;9400485;cymoxanil;57966-95-7;6.8;T, T+, CMR;;Non
+2016;20270;9400485;folpel;133-07-3;56.78;T, T+, CMR;;Non
+2016;20270;9500011;prochloraze;67747-09-5;18.0;N Organique;;Non
+2016;20270;9500040;quizalofop-p-ethyl;100646-51-3;3.25;N Organique;;Non
+2016;20270;9500213;fenbuconazole;114369-43-6;2.75;N Organique;;Non
+2016;20270;9500414;cypermethrine;52315-07-8;0.0025;N Organique;;Non
+2016;20270;9500432;acrinathrine;101007-06-1;4.725;N Organique;;Non
+2016;20270;9500561;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20270;9500568;cyprodinyl;121552-61-2;6.0;N Organique;;Non
+2016;20270;9500568;fludioxonil;131341-86-1;4.0;N Organique;;Non
+2016;20270;9500649;folpel;133-07-3;135.0;T, T+, CMR;;Non
+2016;20270;9500649;fosetyl-aluminium;39148-24-8;270.0;Autre;;Non
+2016;20270;9600025;fosetyl-aluminium;39148-24-8;1080.0;Autre;;Non
+2016;20270;9600056;flupyrsulfuron-methyl;144740-54-5;0.1332;N Organique;;Non
+2016;20270;9600056;metsulfuron-methyl;74223-64-6;0.0668;N Organique;;Non
+2016;20270;9600097;cuivre de l'hydroxyde de cuivre;20427-59-2;0.0864;T, T+, CMR;;Non
+2016;20270;9600120;thirame;137-26-8;184.0;N Organique;;Non
+2016;20270;9600197;carfentrazone ethyl;128639-02-1;0.4;N Organique;;Non
+2016;20270;9600197;metsulfuron-methyl;74223-64-6;0.1;N Organique;;Non
+2016;20270;9600368;fosetyl-aluminium;39148-24-8;1803.93;Autre;;Non
+2016;20270;9600368;metirame;9006-42-2;1106.87;N Organique;;Non
+2016;20270;9600386;fosetyl-aluminium;39148-24-8;0.8;Autre;;Non
+2016;20270;9600395;dithianon;3347-22-6;21.0;T, T+, CMR;;Non
+2016;20270;9600398;kresoxim-methyl;143390-89-0;2.4;T, T+, CMR;;Non
+2016;20270;9600512;folpel;133-07-3;676.8;T, T+, CMR;;Non
+2016;20270;9600512;fosetyl-aluminium;39148-24-8;676.8;Autre;;Non
+2016;20270;9700027;hexythiazox;78587-05-0;0.05;N Organique;;Non
+2016;20270;9700065;quinoxyfene;124495-18-7;16.875;N Organique;;Non
+2016;20270;9700070;flazasulfuron;104040-78-0;16.1;N Organique;;Non
+2016;20270;9700181;chlortoluron;15545-48-9;120.0;T, T+, CMR;;Non
+2016;20270;9700214;kresoxim-methyl;143390-89-0;2.4;T, T+, CMR;;Non
+2016;20270;9700216;imidaclopride;138261-41-3;2.0;N Organique;;Non
+2016;20270;9700277;diflufenicanil;83164-33-4;4.0;N Organique;;Non
+2016;20270;9700277;flurtamone;96525-23-4;10.0;N Organique;;Non
+2016;20270;9700332;azoxystrobine;131860-33-8;0.25;T, T+, CMR;;Non
+2016;20270;9700442;tebuconazole;107534-96-3;37.125;T, T+, CMR;;Non
+2016;20270;9700442;triadimenol;55219-65-3;12.375;N Organique;;Non
+2016;20270;9700521;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;20270;9800018;clomazone;81777-89-1;3.3;N Organique;;Non
+2016;20270;9800018;dimethachlore;50563-36-5;20.625;N Organique;;Non
+2016;20270;9800018;napropamide;15299-99-7;20.625;N Organique;;Non
+2016;20270;9800096;huile minerale paraffinique;8042-47-5;0.8;Autre;;Non
+2016;20270;9800259;benoxacor;98730-04-2;1.8;Autre;;Non
+2016;20270;9800259;s-metolachlore;87392-12-9;36.6;N Organique;;Non
+2016;20270;9800336;lambda-cyhalothrine;91465-08-6;12.0;T, T+, CMR;;Non
+2016;20270;9800344;fludioxonil;131341-86-1;0.023;N Organique;;Non
+2016;20270;9800344;metalaxyl-m;70630-17-0;0.008924;Autre;;Non
+2016;20270;9800347;fluroxypyr;69377-81-7;0.36;N Organique;;Non
+2016;20270;9800347;triclopyr;55335-06-3;1.08;N Organique;;Non
+2016;20270;9800392;dodine;2439-10-3;32.0;T, T+, CMR;;Non
+2016;20270;9800420;spiroxamine;118134-30-8;297.0;N Organique;;Non
+2016;20270;9800474;cuivre du sulfate de cuivre;8011-63-0;117.0;N minéral;;Non
+2016;20270;9800477;bentazone;25057-89-0;8.0;N Organique;;Non
+2016;20270;9800477;dicamba;1918-00-9;2.25;N Organique;;Non
+2016;20270;9800481;fleur de chaux (chaux eteinte);1305-62-0;3.9;Autre;;Non
+2016;20270;9900037;trifloxystrobine;141517-21-7;4.125;N Organique;;Non
+2016;20270;9900104;chlorpyriphos-ethyl;2921-88-2;23.75;T, T+, CMR;;Non
+2016;20270;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;446.0;T, T+, CMR;;Non
+2016;20270;9900242;mancozebe;8018-01-7;172.5;T, T+, CMR;;Non
+2016;20272;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20275;2120086;chlorpyriphos-methyl;5598-13-0;1.125;N Organique;;Non
+2016;20275;9400354;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20276;9100613;bioallethrine;584-79-2;0.012;Autre;;Non
+2016;20276;9100613;butoxyde de piperonyle;51-03-6;0.06;Autre;;Non
+2016;20276;9100613;permethrine;52645-53-1;0.1;Autre;;Non
+2016;20290;2000017;tau-fluvalinate;102851-06-9;0.0288;N Organique;;Non
+2016;20290;2000071;2,4-d;94-75-7;0.91875;N Organique;;Non
+2016;20290;2000071;dicamba;1918-00-9;0.13125;N Organique;;Non
+2016;20290;2000071;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;35.188125;Autre;;Non
+2016;20290;2000125;cuivre du sulfate de cuivre;8011-63-0;48.6;N minéral;;Non
+2016;20290;2000128;diflufenicanil;83164-33-4;0.05988;N Organique;;Non
+2016;20290;2000128;glyphosate;1071-83-6;0.998;N Organique;;Non
+2016;20290;2000128;oxadiazon;19666-30-9;0.998;N Organique;;Non
+2016;20290;2000299;clomazone;81777-89-1;0.36;N Organique;;Non
+2016;20290;2000391;2,4-d;94-75-7;0.29;N Organique;;Non
+2016;20290;2000391;triclopyr;55335-06-3;0.3235;N Organique;;Non
+2016;20290;2000500;glyphosate;1071-83-6;0.5588;N Organique;;Non
+2016;20290;2000510;fer sous forme de sulfate de fer;7720-78-7;192.0;Autre;;Non
+2016;20290;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;48.6;T, T+, CMR;;Non
+2016;20290;2010023;deltamethrine;52918-63-5;0.495;T, T+, CMR;;Non
+2016;20290;2010035;2,4-mcpa;94-74-6;1.64;N Organique;;Non
+2016;20290;2010035;dichlorprop-p;15165-67-0;0.82;Autre;;Non
+2016;20290;2010035;mecoprop-p (mcpp-p);16484-77-8;0.82;N Organique;;Non
+2016;20290;2010130;cuivre de l'oxyde cuivreux;1317-39-1;97.5;N minéral;;Non
+2016;20290;2010299;diflufenicanil;83164-33-4;0.02076;N Organique;;Non
+2016;20290;2010299;glyphosate;1071-83-6;0.346;N Organique;;Non
+2016;20290;2010299;oxadiazon;19666-30-9;0.346;N Organique;;Non
+2016;20290;2010321;glyphosate;1071-83-6;0.36576;N Organique;;Non
+2016;20290;2010398;folpel;133-07-3;51.2;T, T+, CMR;;Non
+2016;20290;2010398;metalaxyl-m;70630-17-0;6.208;Autre;;Non
+2016;20290;2010410;soufre pour pulverisation (micronise);7704-34-9;52.8;Autre;;Non
+2016;20290;2010493;glyphosate;1071-83-6;8.1;N Organique;;Non
+2016;20290;2010509;cuivre du sulfate de cuivre;8011-63-0;2.8;N minéral;;Non
+2016;20290;2010512;pyrimethanil;53112-28-0;0.048;N Organique;;Non
+2016;20290;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20290;2010530;myclobutanil;88671-89-0;0.10755;T, T+, CMR;;Non
+2016;20290;2010617;dimethenamide-p (dmta-p);163515-14-8;7.2;N Organique;;Non
+2016;20290;2020003;phosphate ferrique;10045-86-0;0.087615;Autre;;Non
+2016;20290;2020065;metribuzine;21087-64-9;0.084;N Organique;;Non
+2016;20290;2020238;pendimethaline;40487-42-1;3.2;N Organique;;Non
+2016;20290;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20290;2020448;glyphosate;1071-83-6;2.655;N Organique;;Non
+2016;20290;2030125;deltamethrine;52918-63-5;1.572;T, T+, CMR;;Non
+2016;20290;2030175;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20290;2030273;lambda-cyhalothrine;91465-08-6;0.04515;T, T+, CMR;;Non
+2016;20290;2030273;pyrimicarbe;23103-98-2;0.903;T, T+, CMR;;Non
+2016;20290;2030292;oxyfluorfene;42874-03-3;0.2;T, T+, CMR;;Non
+2016;20290;2030292;propyzamide;23950-58-5;0.56;T, T+, CMR;;Non
+2016;20290;2030332;2,4-d;94-75-7;68.28;N Organique;;Non
+2016;20290;2030332;dichlorprop-p;15165-67-0;34.14;Autre;;Non
+2016;20290;2030337;dichlorprop-p;15165-67-0;0.125;Autre;;Non
+2016;20290;2040195;myclobutanil;88671-89-0;4.725;T, T+, CMR;;Non
+2016;20290;2050046;flonicamide;158062-67-0;2.0;Autre;;Non
+2016;20290;2050145;diflufenicanil;83164-33-4;0.1166;N Organique;;Non
+2016;20290;2050145;glyphosate;1071-83-6;0.72875;N Organique;;Non
+2016;20290;2050146;diflufenicanil;83164-33-4;0.5246;N Organique;;Non
+2016;20290;2050146;glyphosate;1071-83-6;3.27875;N Organique;;Non
+2016;20290;2060085;boscalid;188425-85-6;0.2;N Organique;;Non
+2016;20290;2060085;kresoxim-methyl;143390-89-0;0.1;T, T+, CMR;;Non
+2016;20290;2060088;benoxacor;98730-04-2;1.7;Autre;;Non
+2016;20290;2060088;mesotrione;104206-82-8;3.4;N Organique;;Non
+2016;20290;2060088;s-metolachlore;87392-12-9;34.0;N Organique;;Non
+2016;20290;2060098;spinosad;168316-95-8;3.12;N Organique;;Non
+2016;20290;2060130;spinosad;168316-95-8;0.00816;N Organique;;Non
+2016;20290;2060131;2,4-d;94-75-7;1.8135;N Organique;;Non
+2016;20290;2060131;triclopyr;55335-06-3;2.0202;N Organique;;Non
+2016;20290;2060133;thiaclopride;111988-49-9;0.96;T, T+, CMR;;Non
+2016;20290;2080018;acetamipride;135410-20-7;0.70585;N Organique;;Non
+2016;20290;2080029;penoxsulame;219714-96-2;0.06;N Organique;;Non
+2016;20290;2080039;2,4-db;94-82-6;16.0;N Organique;;Non
+2016;20290;2080053;diflufenicanil;83164-33-4;0.00145;N Organique;;Non
+2016;20290;2080053;glyphosate;1071-83-6;0.024;N Organique;;Non
+2016;20290;2080053;oxadiazon;19666-30-9;0.024;N Organique;;Non
+2016;20290;2080054;acetamipride;135410-20-7;0.0034;N Organique;;Non
+2016;20290;2080060;pyriproxyfene;95737-68-1;1.2;N Organique;;Non
+2016;20290;2080089;thiaclopride;111988-49-9;0.0027;T, T+, CMR;;Non
+2016;20290;2080098;mandipropamide;374726-62-2;0.005;N Organique;;Non
+2016;20290;2080100;folpel;133-07-3;88.0;T, T+, CMR;;Non
+2016;20290;2080100;mandipropamide;374726-62-2;11.0;N Organique;;Non
+2016;20290;2080101;acetamipride;135410-20-7;8.0;N Organique;;Non
+2016;20290;2080112;thirame;137-26-8;1.2336;N Organique;;Non
+2016;20290;2080124;metsulfuron-methyl;74223-64-6;0.2;N Organique;;Non
+2016;20290;2090024;sulcotrione;99105-77-8;3.0;T, T+, CMR;;Non
+2016;20290;2090029;thiamethoxam;153719-23-4;0.1275;N Organique;;Non
+2016;20290;2090030;thiamethoxam;153719-23-4;0.02592;N Organique;;Non
+2016;20290;2090032;2,4-d;94-75-7;0.0021;N Organique;;Non
+2016;20290;2090032;2,4-mcpa;94-74-6;0.0021;N Organique;;Non
+2016;20290;2090032;dicamba;1918-00-9;0.0006;N Organique;;Non
+2016;20290;2090032;mecoprop (mcpp);7085-19-0;0.00126;N Organique;;Non
+2016;20290;2090033;difenoconazole;119446-68-3;0.000668;N Organique;;Non
+2016;20290;2090034;difenoconazole;119446-68-3;0.002672;N Organique;;Non
+2016;20290;2090037;dicamba;1918-00-9;0.5;N Organique;;Non
+2016;20290;2090037;prosulfuron;94125-34-5;0.05;N Organique;;Non
+2016;20290;2090044;glyphosate;1071-83-6;24.18615;N Organique;;Non
+2016;20290;2090045;acetamipride;135410-20-7;0.000744;N Organique;;Non
+2016;20290;2090050;cypermethrine;52315-07-8;4.032;N Organique;;Non
+2016;20290;2090078;acide acetique;64-19-7;0.15;Autre;;Non
+2016;20290;2090079;acide acetique;64-19-7;1.65;Autre;;Non
+2016;20290;2090080;sulcotrione;99105-77-8;15.0;T, T+, CMR;;Non
+2016;20290;2090082;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2016;20290;2090091;thiamethoxam;153719-23-4;0.25;N Organique;;Non
+2016;20290;2090126;cyazofamide;120116-88-3;0.375;N Organique;;Non
+2016;20290;2090126;phosphonate de disodium;13708-85-5;3.75;Autre;;Non
+2016;20290;2090127;huile essentielle d'orange douce;8028-48-6;0.6;N Organique;;Non
+2016;20290;2090146;abamectine;71751-41-2;0.00024;T, T+, CMR;;Non
+2016;20290;2090146;pyrethrines;8003-34-7;0.0032;N Organique;;Non
+2016;20290;2090164;glyphosate;1071-83-6;76.68;N Organique;;Non
+2016;20290;2090176;diquat;85-00-7;0.0435;T, T+, CMR;;Non
+2016;20290;2090176;glyphosate;1071-83-6;1.2035;N Organique;;Non
+2016;20290;2090178;tebuconazole;107534-96-3;0.000188;T, T+, CMR;;Non
+2016;20290;2090178;trifloxystrobine;141517-21-7;0.000188;N Organique;;Non
+2016;20290;2090188;glyphosate;1071-83-6;21.6;N Organique;;Non
+2016;20290;2090199;huile de colza;8002-13-9;0.99036;Autre;;Non
+2016;20290;2090199;pyrethrines;8003-34-7;0.005508;N Organique;;Non
+2016;20290;2100001;glyphosate;1071-83-6;11.745;N Organique;;Non
+2016;20290;2100001;pyraflufen-ethyl;129630-19-9;0.07695;N Organique;;Non
+2016;20290;2100004;acetamipride;135410-20-7;0.00108;N Organique;;Non
+2016;20290;2100004;triticonazole;131983-72-7;0.00324;N Organique;;Non
+2016;20290;2100078;deltamethrine;52918-63-5;0.000311;T, T+, CMR;;Non
+2016;20290;2100083;2,4-d;94-75-7;0.504;N Organique;;Non
+2016;20290;2100083;2,4-mcpa;94-74-6;0.504;N Organique;;Non
+2016;20290;2100083;dicamba;1918-00-9;0.144;N Organique;;Non
+2016;20290;2100083;mecoprop-p (mcpp-p);16484-77-8;0.3024;N Organique;;Non
+2016;20290;2100098;glyphosate;1071-83-6;32.4;N Organique;;Non
+2016;20290;2100108;prothioconazole;178928-70-6;1.25;T, T+, CMR;;Non
+2016;20290;2100108;tebuconazole;107534-96-3;1.25;T, T+, CMR;;Non
+2016;20290;2100111;mesotrione;104206-82-8;0.375;N Organique;;Non
+2016;20290;2100111;nicosulfuron;111991-09-4;0.15;N Organique;;Non
+2016;20290;2100165;acetamipride;135410-20-7;0.04435;N Organique;;Non
+2016;20290;2100165;triticonazole;131983-72-7;0.13305;N Organique;;Non
+2016;20290;2100193;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;20290;2100218;quinoxyfene;124495-18-7;0.98;N Organique;;Non
+2016;20290;2100218;soufre;7704-34-9;112.0;Autre;;Non
+2016;20290;2100219;glyphosate;1071-83-6;4.5;N Organique;;Non
+2016;20290;2100220;glyphosate;1071-83-6;0.1134;N Organique;;Non
+2016;20290;2100221;ametoctradine;865318-97-4;8.4;Autre;;Non
+2016;20290;2100221;metirame;9006-42-2;30.8;N Organique;;Non
+2016;20290;2100231;emamectine benzoate;155569-91-8;0.095;T, T+, CMR;;Non
+2016;20290;2110040;bacillus subtilis;68038-70-0;0.06268;Autre;;Non
+2016;20290;2110073;indoxacarbe;173584-44-6;0.15;T, T+, CMR;;Non
+2016;20290;2110083;cuivre du sulfate tribasique;12527-76-3;0.010838;N minéral;;Non
+2016;20290;2110083;pyrethrines;8003-34-7;0.003188;N Organique;;Non
+2016;20290;2110083;soufre;7704-34-9;0.0765;Autre;;Non
+2016;20290;2110084;butoxyde de piperonyle;51-03-6;0.11025;Autre;;Non
+2016;20290;2110084;pyrethrines;8003-34-7;0.015313;N Organique;;Non
+2016;20290;2110086;spirotetramat;203313-25-1;24.5;T, T+, CMR;;Non
+2016;20290;2110102;difenoconazole;119446-68-3;0.125;N Organique;;Non
+2016;20290;2110102;fludioxonil;131341-86-1;0.125;N Organique;;Non
+2016;20290;2110102;sedaxane;874967-67-6;0.25;N Organique;;Non
+2016;20290;2110135;glyphosate;1071-83-6;0.4584;N Organique;;Non
+2016;20290;2110141;dimethomorphe;110488-70-5;0.36;N Organique;;Non
+2016;20290;2110141;pyraclostrobine;175013-18-0;0.2;T, T+, CMR;;Non
+2016;20290;2110149;huile de colza;8002-13-9;0.964145;Autre;;Non
+2016;20290;2110150;huile de colza;8002-13-9;17.4825;Autre;;Non
+2016;20290;2110154;2,4-mcpa;94-74-6;3.4;N Organique;;Non
+2016;20290;2110154;dicamba;1918-00-9;0.3;N Organique;;Non
+2016;20290;2110159;triticonazole;131983-72-7;0.135;N Organique;;Non
+2016;20290;2110160;triticonazole;131983-72-7;0.000864;N Organique;;Non
+2016;20290;2110165;tebuconazole;107534-96-3;3.75;T, T+, CMR;;Non
+2016;20290;2110180;cuivre de l'oxyde cuivreux;1317-39-1;2.3475;N minéral;;Non
+2016;20290;2110196;bicarbonate de potassium;298-14-6;0.85;Autre;;Non
+2016;20290;2110198;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20290;2120015;glyphosate;1071-83-6;0.0054;N Organique;;Non
+2016;20290;2120018;glyphosate;1071-83-6;79.104;N Organique;;Non
+2016;20290;2120034;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20290;2120048;aminopyralid;150114-71-9;0.09;N Organique;;Non
+2016;20290;2120048;triclopyr;55335-06-3;0.72;N Organique;;Non
+2016;20290;2120063;fluopicolide;239110-15-7;0.0625;N Organique;;Non
+2016;20290;2120063;propamocarbe;25606-41-1;0.625;Autre;;Non
+2016;20290;2120086;chlorpyriphos-methyl;5598-13-0;256.5;N Organique;;Non
+2016;20290;2120088;fosetyl-aluminium;39148-24-8;608.0;Autre;;Non
+2016;20290;2120089;diflufenicanil;83164-33-4;0.135;N Organique;;Non
+2016;20290;2120089;glyphosate;1071-83-6;1.08;N Organique;;Non
+2016;20290;2120089;mecoprop (mcpp);7085-19-0;0.54;N Organique;;Non
+2016;20290;2120118;2,4-d;94-75-7;0.29;N Organique;;Non
+2016;20290;2120118;triclopyr;55335-06-3;0.3235;N Organique;;Non
+2016;20290;2120133;fluroxypyr;69377-81-7;5.5416;N Organique;;Non
+2016;20290;2120133;triclopyr;55335-06-3;16.6248;N Organique;;Non
+2016;20290;2120157;acide pelargonique;112-05-0;3.42924;Autre;;Non
+2016;20290;2120157;glyphosate;1071-83-6;1.21032;N Organique;;Non
+2016;20290;2120159;thirame;137-26-8;0.06504;N Organique;;Non
+2016;20290;2120205;epoxiconazole;133855-98-8;0.416;T, T+, CMR;;Non
+2016;20290;2120205;fluxapyroxad;907204-31-3;0.416;T, T+, CMR;;Non
+2016;20290;2120205;pyraclostrobine;175013-18-0;0.666;T, T+, CMR;;Non
+2016;20290;2120214;chlorantraniliprole;500008-45-7;1.2;N Organique;;Non
+2016;20290;2120214;thiamethoxam;153719-23-4;1.2;N Organique;;Non
+2016;20290;2130040;2,4-d;94-75-7;0.024;N Organique;;Non
+2016;20290;2130049;cyflufenamid;180409-60-3;1.95;N Organique;;Non
+2016;20290;2130049;difenoconazole;119446-68-3;3.9;N Organique;;Non
+2016;20290;2130067;cyflufenamid;180409-60-3;0.25;N Organique;;Non
+2016;20290;2130075;metaldehyde;108-62-3;3.0;Autre;;Non
+2016;20290;2130092;spiromesifen;283594-90-1;0.96;Autre;;Non
+2016;20290;2130093;diflufenicanil;83164-33-4;0.043776;N Organique;;Non
+2016;20290;2130093;glyphosate;1071-83-6;0.2736;N Organique;;Non
+2016;20290;2130115;1,5-diaminopentane;462-94-2;0.048576;Autre;;Non
+2016;20290;2130115;acetate d'ammonium;631-61-8;11.8404;Autre;;Non
+2016;20290;2130115;deltamethrine;52918-63-5;0.023074;T, T+, CMR;;Non
+2016;20290;2130115;trimethylamine hydrochloride;593-81-7;0.048576;Autre;;Non
+2016;20290;2130151;hydrazide maleique;123-33-1;0.858;Autre;;Non
+2016;20290;2130153;acide acetique;64-19-7;1.26;Autre;;Non
+2016;20290;2130240;fosetyl-aluminium;39148-24-8;15.44;Autre;;Non
+2016;20290;2130255;dimethomorphe;110488-70-5;7.91;N Organique;;Non
+2016;20290;2130255;folpel;133-07-3;42.0;T, T+, CMR;;Non
+2016;20290;2140001;acide gibberellique;77-06-5;0.024;Autre;;Non
+2016;20290;2140039;imidaclopride;138261-41-3;3.15;N Organique;;Non
+2016;20290;2140039;prothioconazole;178928-70-6;0.45;T, T+, CMR;;Non
+2016;20290;2140085;abamectine;71751-41-2;7.056;T, T+, CMR;;Non
+2016;20290;2140086;flazasulfuron;104040-78-0;0.0201;N Organique;;Non
+2016;20290;2140086;glyphosate;1071-83-6;0.864;N Organique;;Non
+2016;20290;2140106;huile minerale paraffinique;8042-47-5;1.58;Autre;;Non
+2016;20290;2140121;acide pelargonique;112-05-0;59.939205;Autre;;Non
+2016;20290;2140134;soufre triture ventile;7704-34-9;181.1415;Autre;;Non
+2016;20290;2140166;acide decanoique;334-48-5;0.16632;Autre;;Non
+2016;20290;2140166;acide octanoique;124-07-2;0.24948;Autre;;Non
+2016;20290;2140183;deltamethrine;52918-63-5;0.15;T, T+, CMR;;Non
+2016;20290;2140252;phosphate ferrique;10045-86-0;0.9025;Autre;;Non
+2016;20290;2140256;chlorpyriphos-methyl;5598-13-0;8.8875;N Organique;;Non
+2016;20290;2150011;tebuconazole;107534-96-3;0.065;T, T+, CMR;;Non
+2016;20290;2150417;bacillus thuringiensis ssp kurstaki;68038-71-1;0.243;Autre;;Non
+2016;20290;2150790;phosphate ferrique;10045-86-0;0.264;Autre;;Non
+2016;20290;7100402;2,4-d;94-75-7;3.0;N Organique;;Non
+2016;20290;7400057;glyphosate;1071-83-6;72.0;N Organique;;Non
+2016;20290;7700216;soufre pour pulverisation (micronise);7704-34-9;33.0;Autre;;Non
+2016;20290;7700706;2,4-d;94-75-7;3.633;N Organique;;Non
+2016;20290;7700706;dicamba;1918-00-9;0.519;N Organique;;Non
+2016;20290;8100236;chlorophacinone;3691-35-8;0.019125;Autre;;Non
+2016;20290;8100291;metazachlore;67129-08-2;5.0;T, T+, CMR;;Non
+2016;20290;8300092;flutriafol;76674-21-0;3.125;N Organique;;Non
+2016;20290;8400096;dicamba;1918-00-9;1.44;N Organique;;Non
+2016;20290;8400098;bacillus thuringiensis serotype 3a 3b;68038-71-1;0.008;Autre;;Non
+2016;20290;8400098;butoxyde de piperonyle;51-03-6;0.02;Autre;;Non
+2016;20290;8400098;pyrethrines;8003-34-7;0.0096;N Organique;;Non
+2016;20290;8500023;thirame;137-26-8;4.0;N Organique;;Non
+2016;20290;8500321;acide malique;6915-15-7;5.0;Autre;;Non
+2016;20290;8500321;acide sulfamique;5329-14-6;2.5;Autre;;Non
+2016;20290;8500321;pentapotassium bis(peroxymonosulfate) bis(sulfate);70693-62-8;11.25;Autre;;Non
+2016;20290;8500351;acide b-indole butyrique (aib);133-32-4;0.020625;T, T+, CMR;;Non
+2016;20290;8600349;huile vegetale;;0.138;Autre;;Non
+2016;20290;8600349;resines (colophane);8050-09-7;0.368;Autre;;Non
+2016;20290;8600395;huile vegetale;;0.2277;Autre;;Non
+2016;20290;8600395;resines (colophane);8050-09-7;0.7326;Autre;;Non
+2016;20290;8700102;benalaxyl;71626-11-4;0.06;N Organique;;Non
+2016;20290;8700102;folpel;133-07-3;0.385;T, T+, CMR;;Non
+2016;20290;8700111;huile de ricin;8001-79-4;14.6496;Autre;;Non
+2016;20290;8700111;resines (colophane);8050-09-7;7.3248;Autre;;Non
+2016;20290;8700621;propiconazole;60207-90-1;0.00875;N Organique;;Non
+2016;20290;8800519;goudrons de pin;8011-48-1;39.2;Autre;;Non
+2016;20290;9000222;soufre;7704-34-9;28.0;Autre;;Non
+2016;20290;9000471;glufosinate ammonium;77182-82-2;170.25;T, T+, CMR;;Non
+2016;20290;9100231;metaldehyde;108-62-3;3.885;Autre;;Non
+2016;20290;9100296;2,4-d;94-75-7;105.0;N Organique;;Non
+2016;20290;9100418;nicosulfuron;111991-09-4;2.4;N Organique;;Non
+2016;20290;9100479;glyphosate;1071-83-6;216.0;N Organique;;Non
+2016;20290;9100505;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20290;9100525;tebufenpyrad;119168-77-3;5.85;T, T+, CMR;;Non
+2016;20290;9100558;cypermethrine;52315-07-8;0.070688;N Organique;;Non
+2016;20290;9100613;bioallethrine;584-79-2;0.072;Autre;;Non
+2016;20290;9100613;butoxyde de piperonyle;51-03-6;0.36;Autre;;Non
+2016;20290;9100613;permethrine;52645-53-1;0.6;Autre;;Non
+2016;20290;9200091;imidaclopride;138261-41-3;0.42;N Organique;;Non
+2016;20290;9200135;cypermethrine;52315-07-8;0.036375;N Organique;;Non
+2016;20290;9200215;cymoxanil;57966-95-7;0.144;T, T+, CMR;;Non
+2016;20290;9200215;metirame-zinc;9006-42-2;1.92;N Organique;;Non
+2016;20290;9200262;iprodione;36734-19-7;3.0;T, T+, CMR;;Non
+2016;20290;9200512;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20290;9200532;polybutene;9003-29-6;0.9984;Autre;;Non
+2016;20290;9200532;polyisobutene;115-11-7;0.5376;Autre;;Non
+2016;20290;9300111;pyrethrines;8003-34-7;0.02;N Organique;;Non
+2016;20290;9300186;tebuconazole;107534-96-3;1.25;T, T+, CMR;;Non
+2016;20290;9300194;chlorothalonil;1897-45-6;3.75;T, T+, CMR;;Non
+2016;20290;9300194;cyproconazole;94361-06-5;0.4;T, T+, CMR;;Non
+2016;20290;9300241;glyphosate;1071-83-6;4.6206;N Organique;;Non
+2016;20290;9300309;zetacypermethrine;52315-07-8;0.5;T, T+, CMR;;Non
+2016;20290;9300504;huile de vaseline;8042-47-5;947.72;Autre;;Non
+2016;20290;9400008;triticonazole;131983-72-7;0.06;N Organique;;Non
+2016;20290;9400039;huile de colza;8002-13-9;12.64;Autre;;Non
+2016;20290;9400354;glyphosate;1071-83-6;381.6;N Organique;;Non
+2016;20290;9400409;2,4-mcpa;94-74-6;0.02;N Organique;;Non
+2016;20290;9400409;clopyralid;1702-17-6;0.002;Autre;;Non
+2016;20290;9400409;fluroxypyr;69377-81-7;0.004;N Organique;;Non
+2016;20290;9400485;cymoxanil;57966-95-7;0.8;T, T+, CMR;;Non
+2016;20290;9400485;folpel;133-07-3;6.68;T, T+, CMR;;Non
+2016;20290;9420113;2,4-d;94-75-7;1.4;N Organique;;Non
+2016;20290;9420113;dicamba;1918-00-9;0.2;N Organique;;Non
+2016;20290;9420113;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;100.0;Autre;;Non
+2016;20290;9500002;glyphosate;1071-83-6;17.28;N Organique;;Non
+2016;20290;9500088;bromoxynil octanoate;1689-99-2;1.8;T, T+, CMR;;Non
+2016;20290;9500088;dicamba;1918-00-9;0.36;N Organique;;Non
+2016;20290;9500088;mecoprop (mcpp);7085-19-0;5.4;N Organique;;Non
+2016;20290;9500135;metaldehyde;108-62-3;0.765;Autre;;Non
+2016;20290;9500147;soufre pour pulverisation (micronise);7704-34-9;9.6;Autre;;Non
+2016;20290;9500148;metirame-zinc;9006-42-2;1.92;N Organique;;Non
+2016;20290;9500150;isoxaben;82558-50-7;0.214;N Organique;;Non
+2016;20290;9500150;oryzalin;19044-88-3;0.858;T, T+, CMR;;Non
+2016;20290;9500234;tetraconazole;112281-77-3;0.1;N Organique;;Non
+2016;20290;9500281;2,4-mcpa;94-74-6;5.418;N Organique;;Non
+2016;20290;9500281;dicamba;1918-00-9;0.4644;N Organique;;Non
+2016;20290;9500281;sulfate de fer (sulfate ferreux heptahydrate);7782-63-0;332.82;Autre;;Non
+2016;20290;9500341;soufre;7704-34-9;28.2;Autre;;Non
+2016;20290;9500414;cypermethrine;52315-07-8;0.039;N Organique;;Non
+2016;20290;9500432;acrinathrine;101007-06-1;0.15;N Organique;;Non
+2016;20290;9500467;triclopyr;55335-06-3;0.45;N Organique;;Non
+2016;20290;9500561;glyphosate;1071-83-6;2.7;N Organique;;Non
+2016;20290;9500568;cyprodinyl;121552-61-2;0.0225;N Organique;;Non
+2016;20290;9500568;fludioxonil;131341-86-1;0.015;N Organique;;Non
+2016;20290;9500649;folpel;133-07-3;63.0;T, T+, CMR;;Non
+2016;20290;9500649;fosetyl-aluminium;39148-24-8;126.0;Autre;;Non
+2016;20290;9600025;fosetyl-aluminium;39148-24-8;139.2;Autre;;Non
+2016;20290;9600097;cuivre de l'hydroxyde de cuivre;20427-59-2;0.8208;T, T+, CMR;;Non
+2016;20290;9600120;thirame;137-26-8;24.0;N Organique;;Non
+2016;20290;9600368;fosetyl-aluminium;39148-24-8;32.97;Autre;;Non
+2016;20290;9600368;metirame;9006-42-2;20.23;N Organique;;Non
+2016;20290;9600377;glyphosate;1071-83-6;0.54;N Organique;;Non
+2016;20290;9600395;dithianon;3347-22-6;9.8;T, T+, CMR;;Non
+2016;20290;9600404;2,4-d;94-75-7;0.525;N Organique;;Non
+2016;20290;9600404;2,4-mcpa;94-74-6;0.6125;N Organique;;Non
+2016;20290;9600404;clopyralid;1702-17-6;0.1225;Autre;;Non
+2016;20290;9600488;cypermethrine;52315-07-8;0.22025;N Organique;;Non
+2016;20290;9700216;imidaclopride;138261-41-3;8.6;N Organique;;Non
+2016;20290;9700233;dichlobenil;1194-65-6;0.151875;Autre;;Non
+2016;20290;9700259;glyphosate;1071-83-6;6.624;N Organique;;Non
+2016;20290;9700329;cuivre de l'oxychlorure de cuivre;1332-40-7;3.0;T, T+, CMR;;Non
+2016;20290;9700329;cymoxanil;57966-95-7;0.3;T, T+, CMR;;Non
+2016;20290;9700332;azoxystrobine;131860-33-8;0.21;T, T+, CMR;;Non
+2016;20290;9700521;glyphosate;1071-83-6;34.92;N Organique;;Non
+2016;20290;9800096;huile minerale paraffinique;8042-47-5;37.6;Autre;;Non
+2016;20290;9800107;diflufenicanil;83164-33-4;0.19;N Organique;;Non
+2016;20290;9800107;glyphosate;1071-83-6;1.1875;N Organique;;Non
+2016;20290;9800126;flufenacet;142459-58-3;0.204;N Organique;;Non
+2016;20290;9800126;metribuzine;21087-64-9;0.14875;N Organique;;Non
+2016;20290;9800201;2,4-mcpa;94-74-6;5.4;N Organique;;Non
+2016;20290;9800201;dichlorprop-p;15165-67-0;5.4;Autre;;Non
+2016;20290;9800201;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20290;9800231;mancozebe;8018-01-7;0.162;T, T+, CMR;;Non
+2016;20290;9800231;myclobutanil;88671-89-0;0.006075;T, T+, CMR;;Non
+2016;20290;9800236;glyphosate;1071-83-6;36.0;N Organique;;Non
+2016;20290;9800244;fenhexamid;126833-17-8;0.045;N Organique;;Non
+2016;20290;9800245;soufre pour pulverisation (micronise);7704-34-9;16.0;Autre;;Non
+2016;20290;9800321;cypermethrine;52315-07-8;0.002;N Organique;;Non
+2016;20290;9800336;lambda-cyhalothrine;91465-08-6;3.7;T, T+, CMR;;Non
+2016;20290;9800344;fludioxonil;131341-86-1;0.1455;N Organique;;Non
+2016;20290;9800344;metalaxyl-m;70630-17-0;0.056454;Autre;;Non
+2016;20290;9800365;oxyfluorfene;42874-03-3;0.1;T, T+, CMR;;Non
+2016;20290;9800365;propyzamide;23950-58-5;0.28;T, T+, CMR;;Non
+2016;20290;9800420;spiroxamine;118134-30-8;67.5;N Organique;;Non
+2016;20290;9800474;cuivre du sulfate de cuivre;8011-63-0;42.0;N minéral;;Non
+2016;20290;9800481;fleur de chaux (chaux eteinte);1305-62-0;152.75;Autre;;Non
+2016;20290;9800510;mancozebe;8018-01-7;0.18;T, T+, CMR;;Non
+2016;20290;9800510;myclobutanil;88671-89-0;0.00675;T, T+, CMR;;Non
+2016;20290;9800524;huile de colza;8002-13-9;1.58;Autre;;Non
+2016;20290;9900037;trifloxystrobine;141517-21-7;0.5;N Organique;;Non
+2016;20290;9900119;isoxaben;82558-50-7;0.036088;N Organique;;Non
+2016;20290;9900119;oryzalin;19044-88-3;0.149904;T, T+, CMR;;Non
+2016;20290;9900133;spiroxamine;118134-30-8;0.4;N Organique;;Non
+2016;20290;9900133;tebuconazole;107534-96-3;0.1;T, T+, CMR;;Non
+2016;20290;9900134;fenbuconazole;114369-43-6;0.0725;N Organique;;Non
+2016;20290;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;18.0;T, T+, CMR;;Non
+2016;20290;9900242;mancozebe;8018-01-7;30.0;T, T+, CMR;;Non
+2016;20290;9900257;cuivre du sulfate de cuivre;8011-63-0;153.45;N minéral;;Non
+2016;20290;9900269;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20290;9900282;cuivre de l'oxychlorure de cuivre;1332-40-7;3.75375;T, T+, CMR;;Non
+2016;20600;2000510;fer sous forme de sulfate de fer;7720-78-7;1.6;Autre;;Non
+2016;20600;2010019;quizalofop-p-ethyl;100646-51-3;1.25;N Organique;;Non
+2016;20600;2010023;deltamethrine;52918-63-5;0.735;T, T+, CMR;;Non
+2016;20600;2010130;cuivre de l'oxyde cuivreux;1317-39-1;82.5;N minéral;;Non
+2016;20600;2030273;lambda-cyhalothrine;91465-08-6;0.001;T, T+, CMR;;Non
+2016;20600;2030273;pyrimicarbe;23103-98-2;0.02;T, T+, CMR;;Non
+2016;20600;2030457;azoxystrobine;131860-33-8;0.5;T, T+, CMR;;Non
+2016;20600;2040195;myclobutanil;88671-89-0;0.81;T, T+, CMR;;Non
+2016;20600;2050046;flonicamide;158062-67-0;5.25;Autre;;Non
+2016;20600;2060084;boscalid;188425-85-6;2.403;N Organique;;Non
+2016;20600;2060084;pyraclostrobine;175013-18-0;0.603;T, T+, CMR;;Non
+2016;20600;2060098;spinosad;168316-95-8;0.48;N Organique;;Non
+2016;20600;2080018;acetamipride;135410-20-7;0.00475;N Organique;;Non
+2016;20600;2080054;acetamipride;135410-20-7;9.6e-05;N Organique;;Non
+2016;20600;2080060;pyriproxyfene;95737-68-1;1.0;N Organique;;Non
+2016;20600;2090094;thiophanate-methyl;23564-05-8;3.52;T, T+, CMR;;Non
+2016;20600;2090164;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;20600;2100041;phosphonate de potassium;13492-26-7;10.95;Autre;;Non
+2016;20600;2100098;glyphosate;1071-83-6;81.0;N Organique;;Non
+2016;20600;2100114;cyprodinyl;121552-61-2;1.5;N Organique;;Non
+2016;20600;2100114;fludioxonil;131341-86-1;1.0;N Organique;;Non
+2016;20600;2100165;acetamipride;135410-20-7;0.001;N Organique;;Non
+2016;20600;2100165;triticonazole;131983-72-7;0.003;N Organique;;Non
+2016;20600;2110084;butoxyde de piperonyle;51-03-6;0.0036;Autre;;Non
+2016;20600;2110084;pyrethrines;8003-34-7;0.0005;N Organique;;Non
+2016;20600;2110086;spirotetramat;203313-25-1;6.5;T, T+, CMR;;Non
+2016;20600;2110141;dimethomorphe;110488-70-5;2.88;N Organique;;Non
+2016;20600;2110141;pyraclostrobine;175013-18-0;1.6;T, T+, CMR;;Non
+2016;20600;2120018;glyphosate;1071-83-6;2.688;N Organique;;Non
+2016;20600;2120034;glyphosate;1071-83-6;28.8;N Organique;;Non
+2016;20600;2120086;chlorpyriphos-methyl;5598-13-0;21.375;N Organique;;Non
+2016;20600;2120133;fluroxypyr;69377-81-7;0.002;N Organique;;Non
+2016;20600;2120133;triclopyr;55335-06-3;0.006;N Organique;;Non
+2016;20600;2120219;tebuconazole;107534-96-3;0.2;T, T+, CMR;;Non
+2016;20600;2120219;trifloxystrobine;141517-21-7;0.1;N Organique;;Non
+2016;20600;2130054;propiconazole;60207-90-1;2.43;N Organique;;Non
+2016;20600;2130075;metaldehyde;108-62-3;7.2;Autre;;Non
+2016;20600;2130083;lambda-cyhalothrine;91465-08-6;0.9;T, T+, CMR;;Non
+2016;20600;2140085;abamectine;71751-41-2;0.72;T, T+, CMR;;Non
+2016;20600;2140134;soufre triture ventile;7704-34-9;1.4775;Autre;;Non
+2016;20600;2140183;deltamethrine;52918-63-5;0.075;T, T+, CMR;;Non
+2016;20600;2150417;bacillus thuringiensis ssp kurstaki;68038-71-1;0.0162;Autre;;Non
+2016;20600;7600008;bupirimate;41483-43-6;2.75;N Organique;;Non
+2016;20600;8100291;metazachlore;67129-08-2;2.5;T, T+, CMR;;Non
+2016;20600;8300092;flutriafol;76674-21-0;0.625;N Organique;;Non
+2016;20600;9000471;glufosinate ammonium;77182-82-2;9.75;T, T+, CMR;;Non
+2016;20600;9100296;2,4-d;94-75-7;24.0;N Organique;;Non
+2016;20600;9100525;tebufenpyrad;119168-77-3;0.2;T, T+, CMR;;Non
+2016;20600;9100613;bioallethrine;584-79-2;0.288;Autre;;Non
+2016;20600;9100613;butoxyde de piperonyle;51-03-6;1.44;Autre;;Non
+2016;20600;9100613;permethrine;52645-53-1;2.4;Autre;;Non
+2016;20600;9200155;oxyfluorfene;42874-03-3;14.4;T, T+, CMR;;Non
+2016;20600;9200262;iprodione;36734-19-7;3.0;T, T+, CMR;;Non
+2016;20600;9300504;huile de vaseline;8042-47-5;1241.84;Autre;;Non
+2016;20600;9400354;glyphosate;1071-83-6;64.8;N Organique;;Non
+2016;20600;9400484;cuivre du sulfate de cuivre;8011-63-0;2.52;N minéral;;Non
+2016;20600;9400484;cymoxanil;57966-95-7;0.4802;T, T+, CMR;;Non
+2016;20600;9400484;mancozebe;8018-01-7;1.61;T, T+, CMR;;Non
+2016;20600;9500199;propamocarbe;25606-41-1;18.05;Autre;;Non
+2016;20600;9600025;fosetyl-aluminium;39148-24-8;244.8;Autre;;Non
+2016;20600;9600103;dimethomorphe;110488-70-5;2.7;N Organique;;Non
+2016;20600;9600103;mancozebe;8018-01-7;18.0;T, T+, CMR;;Non
+2016;20600;9600386;fosetyl-aluminium;39148-24-8;57.6;Autre;;Non
+2016;20600;9700216;imidaclopride;138261-41-3;0.8;N Organique;;Non
+2016;20600;9700259;glyphosate;1071-83-6;0.288;N Organique;;Non
+2016;20600;9700332;azoxystrobine;131860-33-8;2.0;T, T+, CMR;;Non
+2016;20600;9700521;glyphosate;1071-83-6;0.36;N Organique;;Non
+2016;20600;9800474;cuivre du sulfate de cuivre;8011-63-0;36.0;N minéral;;Non
+2016;20600;9800481;fleur de chaux (chaux eteinte);1305-62-0;3.9;Autre;;Non
+2016;20600;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;6.0;T, T+, CMR;;Non
+2016;20600;9900242;mancozebe;8018-01-7;52.5;T, T+, CMR;;Non
+2016;20600;9900331;chlorothalonil;1897-45-6;12.5;T, T+, CMR;;Non
+2016;20600;9900331;metalaxyl-m;70630-17-0;0.9075;Autre;;Non
+2016;20620;2000122;metalaxyl-m;70630-17-0;0.003392;Autre;;Non
+2016;20620;2000299;clomazone;81777-89-1;0.36;N Organique;;Non
+2016;20620;2000510;fer sous forme de sulfate de fer;7720-78-7;4.8;Autre;;Non
+2016;20620;2000517;cuivre de l'hydroxyde de cuivre;20427-59-2;12.6;T, T+, CMR;;Non
+2016;20620;2010019;quizalofop-p-ethyl;100646-51-3;1.8;N Organique;;Non
+2016;20620;2010023;deltamethrine;52918-63-5;0.885;T, T+, CMR;;Non
+2016;20620;2010398;folpel;133-07-3;3.2;T, T+, CMR;;Non
+2016;20620;2010398;metalaxyl-m;70630-17-0;0.388;Autre;;Non
+2016;20620;2010410;soufre pour pulverisation (micronise);7704-34-9;1.2;Autre;;Non
+2016;20620;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;20620;2020003;phosphate ferrique;10045-86-0;0.04554;Autre;;Non
+2016;20620;2020241;bacillus thuringiensis serotype h 7;68038-71-1;;Autre;;Non
+2016;20620;2030125;deltamethrine;52918-63-5;0.00075;T, T+, CMR;;Non
+2016;20620;2030273;lambda-cyhalothrine;91465-08-6;0.00025;T, T+, CMR;;Non
+2016;20620;2030273;pyrimicarbe;23103-98-2;0.005;T, T+, CMR;;Non
+2016;20620;2040195;myclobutanil;88671-89-0;0.405;T, T+, CMR;;Non
+2016;20620;2050046;flonicamide;158062-67-0;19.0;Autre;;Non
+2016;20620;2060050;metrafenone;220899-03-6;0.5;N Organique;;Non
+2016;20620;2060084;boscalid;188425-85-6;1.068;N Organique;;Non
+2016;20620;2060084;pyraclostrobine;175013-18-0;0.268;T, T+, CMR;;Non
+2016;20620;2060085;boscalid;188425-85-6;0.6;N Organique;;Non
+2016;20620;2060085;kresoxim-methyl;143390-89-0;0.3;T, T+, CMR;;Non
+2016;20620;2060098;spinosad;168316-95-8;0.96;N Organique;;Non
+2016;20620;2060133;thiaclopride;111988-49-9;1.44;T, T+, CMR;;Non
+2016;20620;2080018;acetamipride;135410-20-7;0.00475;N Organique;;Non
+2016;20620;2080100;folpel;133-07-3;4.0;T, T+, CMR;;Non
+2016;20620;2080100;mandipropamide;374726-62-2;0.5;N Organique;;Non
+2016;20620;2080101;acetamipride;135410-20-7;2.2;N Organique;;Non
+2016;20620;2090029;thiamethoxam;153719-23-4;0.005;N Organique;;Non
+2016;20620;2090034;difenoconazole;119446-68-3;8.4e-05;N Organique;;Non
+2016;20620;2090044;glyphosate;1071-83-6;1.514;N Organique;;Non
+2016;20620;2090080;sulcotrione;99105-77-8;1.5;T, T+, CMR;;Non
+2016;20620;2090127;huile essentielle d'orange douce;8028-48-6;0.6;N Organique;;Non
+2016;20620;2090188;glyphosate;1071-83-6;7.2;N Organique;;Non
+2016;20620;2100041;phosphonate de potassium;13492-26-7;25.55;Autre;;Non
+2016;20620;2100098;glyphosate;1071-83-6;3.6;N Organique;;Non
+2016;20620;2100114;cyprodinyl;121552-61-2;0.375;N Organique;;Non
+2016;20620;2100114;fludioxonil;131341-86-1;0.25;N Organique;;Non
+2016;20620;2100154;chlorpyriphos-ethyl;2921-88-2;5.0;T, T+, CMR;;Non
+2016;20620;2100154;cypermethrine;52315-07-8;0.5;N Organique;;Non
+2016;20620;2100165;acetamipride;135410-20-7;0.00115;N Organique;;Non
+2016;20620;2100165;triticonazole;131983-72-7;0.00345;N Organique;;Non
+2016;20620;2100231;emamectine benzoate;155569-91-8;0.475;T, T+, CMR;;Non
+2016;20620;2110086;spirotetramat;203313-25-1;0.5;T, T+, CMR;;Non
+2016;20620;2110102;difenoconazole;119446-68-3;0.065;N Organique;;Non
+2016;20620;2110102;fludioxonil;131341-86-1;0.065;N Organique;;Non
+2016;20620;2110102;sedaxane;874967-67-6;0.13;N Organique;;Non
+2016;20620;2110141;dimethomorphe;110488-70-5;5.04;N Organique;;Non
+2016;20620;2110141;pyraclostrobine;175013-18-0;2.8;T, T+, CMR;;Non
+2016;20620;2110150;huile de colza;8002-13-9;0.6216;Autre;;Non
+2016;20620;2120018;glyphosate;1071-83-6;2.304;N Organique;;Non
+2016;20620;2120034;glyphosate;1071-83-6;124.8;N Organique;;Non
+2016;20620;2120086;chlorpyriphos-methyl;5598-13-0;33.75;N Organique;;Non
+2016;20620;2120133;fluroxypyr;69377-81-7;0.018;N Organique;;Non
+2016;20620;2120133;triclopyr;55335-06-3;0.054;N Organique;;Non
+2016;20620;2130075;metaldehyde;108-62-3;3.2;Autre;;Non
+2016;20620;2130092;spiromesifen;283594-90-1;0.24;Autre;;Non
+2016;20620;2140085;abamectine;71751-41-2;0.45;T, T+, CMR;;Non
+2016;20620;2140121;acide pelargonique;112-05-0;0.47518;Autre;;Non
+2016;20620;2140252;phosphate ferrique;10045-86-0;0.014375;Autre;;Non
+2016;20620;2150483;lambda-cyhalothrine;91465-08-6;1.0;T, T+, CMR;;Non
+2016;20620;7600008;bupirimate;41483-43-6;1.75;N Organique;;Non
+2016;20620;8100291;metazachlore;67129-08-2;12.5;T, T+, CMR;;Non
+2016;20620;8700525;mancozebe;8018-01-7;150.0;T, T+, CMR;;Non
+2016;20620;8800498;acide alpha naphtylacetique (ana);86-87-3;0.0086;N Organique;;Non
+2016;20620;8800498;alpha naphtyl acetamide (nad);86-86-2;0.0236;N Organique;;Non
+2016;20620;9000222;soufre;7704-34-9;196.0;Autre;;Non
+2016;20620;9000471;glufosinate ammonium;77182-82-2;27.0;T, T+, CMR;;Non
+2016;20620;9100613;bioallethrine;584-79-2;0.576;Autre;;Non
+2016;20620;9100613;butoxyde de piperonyle;51-03-6;2.88;Autre;;Non
+2016;20620;9100613;permethrine;52645-53-1;4.8;Autre;;Non
+2016;20620;9200262;iprodione;36734-19-7;25.5;T, T+, CMR;;Non
+2016;20620;9200313;fenazaquin;120928-09-8;2.0;T, T+, CMR;;Non
+2016;20620;9200512;glyphosate;1071-83-6;2.7;N Organique;;Non
+2016;20620;9300504;huile de vaseline;8042-47-5;32.68;Autre;;Non
+2016;20620;9400354;glyphosate;1071-83-6;79.2;N Organique;;Non
+2016;20620;9500199;propamocarbe;25606-41-1;2.888;Autre;;Non
+2016;20620;9500213;fenbuconazole;114369-43-6;0.5;N Organique;;Non
+2016;20620;9500561;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;20620;9600025;fosetyl-aluminium;39148-24-8;24.0;Autre;;Non
+2016;20620;9600103;dimethomorphe;110488-70-5;6.3;N Organique;;Non
+2016;20620;9600103;mancozebe;8018-01-7;42.0;T, T+, CMR;;Non
+2016;20620;9600368;fosetyl-aluminium;39148-24-8;5.652;Autre;;Non
+2016;20620;9600368;metirame;9006-42-2;3.468;N Organique;;Non
+2016;20620;9700027;hexythiazox;78587-05-0;1.05;N Organique;;Non
+2016;20620;9700216;imidaclopride;138261-41-3;1.0;N Organique;;Non
+2016;20620;9700259;glyphosate;1071-83-6;0.288;N Organique;;Non
+2016;20620;9700332;azoxystrobine;131860-33-8;0.75;T, T+, CMR;;Non
+2016;20620;9700521;glyphosate;1071-83-6;2.16;N Organique;;Non
+2016;20620;9800096;huile minerale paraffinique;8042-47-5;0.8;Autre;;Non
+2016;20620;9800098;metamitrone;41394-05-2;3.6;N Organique;;Non
+2016;20620;9800201;2,4-mcpa;94-74-6;10.8;N Organique;;Non
+2016;20620;9800201;dichlorprop-p;15165-67-0;10.8;Autre;;Non
+2016;20620;9800201;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20620;9800236;glyphosate;1071-83-6;14.4;N Organique;;Non
+2016;20620;9800289;metalaxyl-m;70630-17-0;0.4652;Autre;;Non
+2016;20620;9800336;lambda-cyhalothrine;91465-08-6;2.1;T, T+, CMR;;Non
+2016;20620;9800474;cuivre du sulfate de cuivre;8011-63-0;30.0;N minéral;;Non
+2016;20620;9900189;coniothyrium minitans souche con/m/91-08;;4.8;Autre;;Non
+2016;20620;9900227;cuivre de l'hydroxyde de cuivre;20427-59-2;4.0;T, T+, CMR;;Non
+2016;20620;9900242;mancozebe;8018-01-7;90.0;T, T+, CMR;;Non
+2016;20620;9900331;chlorothalonil;1897-45-6;15.0;T, T+, CMR;;Non
+2016;20620;9900331;metalaxyl-m;70630-17-0;1.089;Autre;;Non
+2016;00000;9800201;2,4-mcpa;94-74-6;1.35;N Organique;;Non
+2016;00000;9800201;dichlorprop-p;15165-67-0;1.35;Autre;;Non
+2016;00000;9800201;glyphosate;1071-83-6;1.8;N Organique;;Non
+2016;00000;2110196;bicarbonate de potassium;298-14-6;0.085;Autre;;Non
+2016;00000;2140134;soufre triture ventile;7704-34-9;0.394;Autre;;Non
+2016;00000;2010143;isoxaben;82558-50-7;35.952;N Organique;;Non
+2016;00000;2010143;oryzalin;19044-88-3;144.144;T, T+, CMR;;Non
+2016;00000;2030332;2,4-d;94-75-7;384.0;N Organique;;Non
+2016;00000;2030332;dichlorprop-p;15165-67-0;192.0;Autre;;Non
+2016;00000;2090116;glyphosate;1071-83-6;120.96;N Organique;;Non
+2016;00000;2110161;glyphosate;1071-83-6;36.0;N Organique;;Non
+2016;00000;2120089;diflufenicanil;83164-33-4;19.8;N Organique;;Non
+2016;00000;2120089;glyphosate;1071-83-6;158.4;N Organique;;Non
+2016;00000;2120089;mecoprop (mcpp);7085-19-0;79.2;N Organique;;Non
+2016;00000;2060130;spinosad;168316-95-8;0.0024;N Organique;;Non
+2016;00000;9100613;bioallethrine;584-79-2;0.036;Autre;;Non
+2016;00000;9100613;butoxyde de piperonyle;51-03-6;0.18;Autre;;Non
+2016;00000;9100613;permethrine;52645-53-1;0.3;Autre;;Non
+2016;00000;2140121;acide pelargonique;112-05-0;0.23759;Autre;;Non
+2016;00000;9200512;glyphosate;1071-83-6;0.9;N Organique;;Non
+2016;00000;9700521;glyphosate;1071-83-6;0.72;N Organique;;Non
+2016;00000;2120133;fluroxypyr;69377-81-7;0.002;N Organique;;Non
+2016;00000;2120133;triclopyr;55335-06-3;0.006;N Organique;;Non
+2016;00000;9800201;2,4-mcpa;94-74-6;1.62;N Organique;;Non
+2016;00000;9800201;dichlorprop-p;15165-67-0;1.62;Autre;;Non
+2016;00000;9800201;glyphosate;1071-83-6;2.16;N Organique;;Non
+2016;20145;nc;nc;nc;nc;nc;nc;nc
+2016;20247;nc;nc;nc;nc;nc;nc;nc

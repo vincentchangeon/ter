@@ -1,0 +1,49 @@
+annee;code_postal_acheteur;amm;substance;cas;quantite_substance;classification;classification_mention;achat_etranger
+2015;97351;2010023;deltamethrine;52918-63-5;0.3;T, T+, CMR;;Non
+2015;97351;2070107;fosetyl;15845-66-6;18.6;Autre;;Non
+2015;97351;2070107;propamocarbe;25606-41-1;31.8;Autre;;Non
+2015;97351;2080101;acetamipride;135410-20-7;3.6;N Organique;;Non
+2015;97351;2090091;thiamethoxam;153719-23-4;3.0;N Organique;;Non
+2015;97351;2090094;thiophanate-methyl;23564-05-8;35.2;T, T+, CMR;;Non
+2015;97351;2090137;cuivre du sulfate de cuivre;7758-98-7;160.0;N minéral;;Non
+2015;97351;2100026;cypermethrine;52315-07-8;15.5;N Organique;;Non
+2015;97351;2110163;diquat;85-00-7;40.0;T, T+, CMR;;Non
+2015;97351;2120143;glyphosate;1071-83-6;144.0;N Organique;;Non
+2015;97351;8500174;abamectine;71751-41-2;0.18;T, T+, CMR;;Non
+2015;97351;9000471;glufosinate ammonium;77182-82-2;6.0;T, T+, CMR;;Non
+2015;97351;9600025;fosetyl-aluminium;39148-24-8;4.8;Autre;;Non
+2015;97351;9600526;acibenzolar-s-methyl;135158-54-2;3.0;N Organique;;Non
+2015;97351;9700332;azoxystrobine;131860-33-8;13.75;T, T+, CMR;;Non
+2015;97360;2030404;pendimethaline;40487-42-1;80.0;N Organique;;Non
+2015;97360;2060088;benoxacor;98730-04-2;3.6;Autre;;Non
+2015;97360;2060088;mesotrione;104206-82-8;7.2;N Organique;;Non
+2015;97360;2060088;s-metolachlore;87392-12-9;72.0;N Organique;;Non
+2015;97360;2080117;prosulfuron;94125-34-5;0.375;N Organique;;Non
+2015;97360;2090008;thirame;137-26-8;1.7589;N Organique;;Non
+2015;97360;2090037;dicamba;1918-00-9;20.0;N Organique;;Non
+2015;97360;2090037;prosulfuron;94125-34-5;2.0;N Organique;;Non
+2015;97360;2100111;mesotrione;104206-82-8;3.375;N Organique;;Non
+2015;97360;2100111;nicosulfuron;111991-09-4;1.35;N Organique;;Non
+2015;97360;2100121;chlorantraniliprole;500008-45-7;3.0;N Organique;;Non
+2015;97360;2100175;prothioconazole;178928-70-6;0.12;T, T+, CMR;;Non
+2015;97360;2110121;thiaclopride;111988-49-9;4.2;T, T+, CMR;;Non
+2015;97360;2130068;diflufenicanil;83164-33-4;10.0;N Organique;;Non
+2015;97360;7100402;2,4-d;94-75-7;60.0;N Organique;;Non
+2015;97360;9000144;betacyfluthrine;68359-37-5;1.5;T, T+, CMR;;Non
+2015;97360;9400162;glyphosate;1071-83-6;360.0;N Organique;;Non
+2015;97360;9800259;benoxacor;98730-04-2;8.1;Autre;;Non
+2015;97360;9800259;s-metolachlore;87392-12-9;164.7;N Organique;;Non
+2015;97360;9800344;fludioxonil;131341-86-1;0.0225;N Organique;;Non
+2015;97360;9800344;metalaxyl-m;70630-17-0;0.00873;Autre;;Non
+2015;97390;8800498;acide alpha naphtylacetique (ana);86-87-3;0.086;N Organique;;Non
+2015;97390;8800498;alpha naphtyl acetamide (nad);86-86-2;0.236;N Organique;;Non
+2015;00000;2060130;spinosad;168316-95-8;0.00048;N Organique;;Non
+2015;00000;2060098;spinosad;168316-95-8;0.48;N Organique;;Non
+2015;00000;2080105;glyphosate;1071-83-6;1.8;N Organique;;Non
+2015;00000;2090094;thiophanate-methyl;23564-05-8;3.52;T, T+, CMR;;Non
+2015;00000;8800006;dimethoate;60-51-5;0.8;Autre;;Non
+2015;00000;9200262;iprodione;36734-19-7;0.5;T, T+, CMR;;Non
+2015;00000;9500199;propamocarbe;25606-41-1;10.83;Autre;;Non
+2015;00000;9700332;azoxystrobine;131860-33-8;0.5;T, T+, CMR;;Non
+2015;00000;9800219;ethephon;16672-87-0;0.6;N Organique;;Non
+2015;00000;9900242;mancozebe;8018-01-7;7.5;T, T+, CMR;;Non

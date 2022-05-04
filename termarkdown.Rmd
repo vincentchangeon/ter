@@ -1,0 +1,475 @@
+---
+title: "Produits phytosanitaires : visualisation de données"
+author: "Changeon Vincent"
+date: "03/05/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyr)
+library(dplyr)
+library(sf) # pour gérer les fichiers shapefile
+library(ggplot2) # pas besoin car c'est pour les cartes statiques
+library(tmap) # pour créer une carte 
+library(stringi) # pour le problème d'encodage du fichier shapefile
+library(maptools)
+library(mapview) # permet une carte dynamique
+library(tmaptools) 
+library(psych)
+library(readxl)
+library(spgwr)
+library(grid)
+library(gridExtra)
+library(spdep)
+library(rgdal)
+library(rgeos)
+library(sp)
+```
+
+## Creation de la base de donnée sur le substance
+
+Dans un premier temps, nous utilisons la fonction « list.files » pour récupérer le nom de tous les fichiers débutant par « bnvd », « bnvd » étant le début commun à toutes les bases de données concernant l'achats de produits phytosanitaires.
+
+Ensuite, nous retirons de cette base de données toutes les lignes où l'identifiant est « 0000 », puis les valeurs manquantes sont transformées en « NA » (ce qui n'était pas le cas avant).
+
+Après, nous enlevons les lignes pour lesquelles la quantité de substance n'est pas renseignée puis, enfin, nous regroupons certains facteurs sous le nom « substance ».
+
+Par la suite, un premier « group_by » est effectué. Pour un même code postal, la même année et la même classification, nous additionnons la quantité de substances achetées.
+
+Le deuxième « group_by » reprend le dataframe obtenu lors du premier « group_by » et permet, cette fois, d'obtenir une seule ligne pour un code postal.
+
+```{r }
+
+fichiers = list.files(pattern="^bnvd.*\\.csv$")
+
+bddsubstance = do.call(rbind, lapply(fichiers, function(x) read.csv(x, sep=";", dec=".", stringsAsFactors = FALSE,header=TRUE, colClasses=c("code_postal_acheteur"="character"),encoding = "UTF-8" )))
+
+bddsubstance <- bddsubstance[-which(bddsubstance$code_postal_acheteur=="00000"),]
+
+bddsubstance$quantite_substance[bddsubstance$quantite_substance == ""] <- NA
+
+bddsubstance<-bddsubstance[!is.na(bddsubstance$quantite_substance),]
+
+bddsubstance$quantite_substance<-as.numeric(bddsubstance$quantite_substance)
+
+bddsubstance$classification<-as.factor(bddsubstance$classification)
+
+bddsubstance<-bddsubstance[c(1,2,6,7)]
+
+levels(bddsubstance$classification)[c(4,5)]<-"Toxique"
+
+bddsubstance = bddsubstance %>% group_by(code_postal_acheteur,annee, classification) %>%
+  summarise(quantite_totale = sum(quantite_substance), .groups = 'drop')
+
+
+bddlongsubstance<-bddsubstance %>%
+  pivot_wider(
+    id_cols = code_postal_acheteur,
+    names_from = c(annee, classification),
+    values_from = quantite_totale,
+    names_glue = "{classification}_quantite-totale-{annee}"
+  )
+
+
+
+
+```
+
+## GROUPBY
+
+Voici le résultat du premier « group_by ».
+
+Nous obtenons une quantité totale unique par code postal, par année et par classification.
+
+```{r , echo=FALSE}
+
+bddsubstance
+
+
+
+```
+
+Le deuxième « group_by » permet de n'avoir qu'une seule ligne par code postal, le transformant en identifiant.
+
+```{r , echo=FALSE}
+bddlongsubstance
+
+```
+
+## Création de la base de données sur la quantité de produits phytosanitaires retrouvés dans l'eau
+
+De la même manière que pour la base de données sur les quantités achetées, nous utilisons la fonction « list.files » pour détecter tous les fichiers dont le nom commence par « moy ».
+
+Le dataframe contient les valeurs qui nous intéressent, cependant l'identifiant est « CD_station ». Or, nous souhaitons le code postal.
+
+Pour cela, nous importons « stat », qui nous donne, entre autres, la station (avec son identifiant « CD_station »), son code postal, son code Insee.
+
+Le dataframe « cp », lui, associe à un code Insee le code postal correspondant. Par le biais de deux « merge », nous parvenons à obtenir un dataframe avec les données qui nous intéressent, et le code postal en identifiant.
+
+Enfin, un « group_by » est effectué de manière à avoir le code postal comme identifiant.
+
+```{r}
+
+fichiers = list.files(pattern="^moy.*\\.csv$")
+
+
+pe<- do.call(rbind, lapply(fichiers, function(x) read.csv(x, sep=";", dec=",", stringsAsFactors = FALSE,header=TRUE,encoding = "UTF-8" )))
+cp<-read.table(file="codepostal.csv",header=TRUE, sep=";", dec=',',colClasses=c("Code_postal"="character"),encoding = "UTF-8")
+stat<-read.csv2(file="stations.csv")
+
+stat<-stat[,c(1,2)]
+cp<-cp[,c(1,3)]
+
+fus<-merge(pe,stat, by="CD_STATION")
+
+names(cp)<-c("NUM_COM","COD_POS")
+
+bddeau<-merge(fus,cp,by="NUM_COM")
+bddeau<-bddeau[,-c(1,2)]
+
+
+
+
+bddlongeau = bddeau %>% group_by(COD_POS,ANNEE) %>%
+  summarise(nbpreltot=sum(NBPREL),MOYPTOTAL=mean(MOYPTOT), MAXPTOTAL=max(MAXPTOT), MINMOLRECHTOTAL=min(MINMOLRECH), MINMOLQTOTAL=min(MINMOLQ),MAXMOLQTOTAL=max(MAQMOLQ), .groups = 'drop')
+
+rm(list=c("cp","fus","pe","stat","fichiers"))
+
+
+```
+
+Voici les deux dataframes obtenus :
+
+```{r , echo=FALSE}
+head(bddeau)
+
+head(bddlongeau)
+
+```
+
+## CARTOGRAPHIE
+
+On transforme le code postal en facteur, puis nous remplaçons « code_postal_acheteur », le nom de la colonne contenant les codes postaux, par « ID ».
+
+Enfin, nous importons le fichier shapefile codes_postaux_région.shp avant d'encoder le fichier en UTF-8.
+
+```{r }
+bddlongsubstance$code_postal_acheteur= as.factor(bddlongsubstance$code_postal_acheteur)
+names(bddlongsubstance)[1]= "ID"
+codes_postaux= st_read(dsn = "codes_postaux_V5/codes_postaux_region.shp", 
+                       layer = "codes_postaux_region",
+                       quiet = TRUE) %>%
+  select(ID, LIB, DEP)
+
+codes_postaux$LIB= stri_encode(codes_postaux$LIB, from= "ISO-8859-1", to= "utf8")
+
+```
+
+Nous fusionnons ensuite le fichier shapefile avec la base de données.
+
+```{r }
+fusion= codes_postaux %>% 
+  left_join(bddlongsubstance[1:17], by= "ID") %>%
+  st_transform(2154)
+
+
+```
+
+Enfin, nous créons la carte pour les valeurs « autre » de l'année 2015.
+
+Ce processus est le même pour toutes les autres catégories, il suffit juste de changer le paramètre « col » dans « tm_fill » et « quantité » dans « popup.vars ».
+
+```{r }
+tmap_mode(mode= "view") 
+autre_2015= 
+  tm_basemap("CartoDB.Voyager")+ tm_shape(shp= fusion)+
+  tm_fill(col= "Autre_quantite-totale-2015", palette= "YlOrBr", id= "ID",
+          textNA = "Valeur manquante", style = "quantile", n= 6, title= "Quantité totale : <br> Catégorie AUTRE",
+          popup.vars = c("Ville"= "LIB", "Quantité"= "Autre_quantite-totale-2015"))+
+  tm_borders("black", lwd= 0.3, alpha= 0.6)+
+  tm_layout(title = "Quantité de substances phytopharmaceutiques achetées en 2015 (en kilogrammes)", title.position = c("center", "bottom"), legend.bg.color = "white", legend.bg.alpha = 0.4)+
+  tm_scale_bar(position = c("left", "bottom"))+
+  tm_view(view.legend.position = c("right", "bottom"))
+
+```
+
+Nous affichons ensuite la carte créée pour la catégorie « autre » en 2015.
+
+```{r,echo=FALSE }
+autre_2015
+
+```
+
+## TAUX DE CROISSANCE
+
+Pour ce faire, nous calculons, en premier lieu, les coefficients multiplicateurs selon la formule suivante : ((Valeur_n+1 – valeur_n) / valeur_n) + 1.
+
+```{r }
+bdd<-bddlongsubstance
+
+bdd$tauxdecroissancetoxique2016<- ((bdd$`Toxique_quantite-totale-2016`-bdd$`Toxique_quantite-totale-2015`   )/bdd$`Toxique_quantite-totale-2015`)+1
+bdd$tauxdecroissancetoxique2017<- ((bdd$`Toxique_quantite-totale-2017`-bdd$`Toxique_quantite-totale-2016`   )/bdd$`Toxique_quantite-totale-2016`)+1
+bdd$tauxdecroissancetoxique2018<- ((bdd$`Toxique_quantite-totale-2018`-bdd$`Toxique_quantite-totale-2017`   )/bdd$`Toxique_quantite-totale-2017`)+1
+
+
+bdd$tauxdecroissanceAutre2016<-   ((bdd$`Autre_quantite-totale-2016`-bdd$`Autre_quantite-totale-2015`)/bdd$`Autre_quantite-totale-2015`)+1
+bdd$tauxdecroissanceAutre2017<-   ((bdd$`Autre_quantite-totale-2017`-bdd$`Autre_quantite-totale-2016`)/bdd$`Autre_quantite-totale-2016`)+1
+bdd$tauxdecroissanceAutre2018<-   ((bdd$`Autre_quantite-totale-2018`-bdd$`Autre_quantite-totale-2017`)/bdd$`Autre_quantite-totale-2017`)+1
+
+bdd$tauxdecroissanceNorganique2016 <- ((bdd$`N Organique_quantite-totale-2016`-bdd$`N Organique_quantite-totale-2015`)/bdd$`N Organique_quantite-totale-2015`)+1
+bdd$tauxdecroissanceNorganique2017 <- ((bdd$`N Organique_quantite-totale-2017`-bdd$`N Organique_quantite-totale-2016`)/bdd$`N Organique_quantite-totale-2016`)+1
+bdd$tauxdecroissanceNorganique2018 <- ((bdd$`N Organique_quantite-totale-2018`-bdd$`N Organique_quantite-totale-2017`)/bdd$`N Organique_quantite-totale-2017`)+1
+
+bdd$tauxdecroissanceNmineral2016<-(( bdd$`N minéral_quantite-totale-2016`-bdd$`N minéral_quantite-totale-2015` )/bdd$`N minéral_quantite-totale-2015`)+1
+bdd$tauxdecroissanceNmineral2017<-(( bdd$`N minéral_quantite-totale-2017`-bdd$`N minéral_quantite-totale-2016` )/bdd$`N minéral_quantite-totale-2016`)+1
+bdd$tauxdecroissanceNmineral2018<-(( bdd$`N minéral_quantite-totale-2018`-bdd$`N minéral_quantite-totale-2017` )/bdd$`N minéral_quantite-totale-2017`)+1
+
+
+```
+
+Puis nous calculons le taux toxique moyen annuel pour toutes les catégories, grâce à une moyenne géométrique.
+
+```{r }
+
+bdd$TAUXtoxiqueMOYENannuel<- ((bdd$tauxdecroissancetoxique2016*bdd$tauxdecroissancetoxique2017*bdd$tauxdecroissancetoxique2018)^(1/rowSums(!is.na(bdd[c(20,21,22)])))-1 )*100   
+bdd$TAUXautreMOYENannuel<-((bdd$tauxdecroissanceAutre2016*bdd$tauxdecroissanceAutre2017*bdd$tauxdecroissanceAutre2018)^(1/rowSums(!is.na(bdd[c(23,24,25)])))  -1)*100
+bdd$TAUXnorganiqueMOYENannuel<-((bdd$tauxdecroissanceNorganique2016*bdd$tauxdecroissanceNorganique2017*bdd$tauxdecroissanceNorganique2018)^(1/rowSums(!is.na(bdd[c(26,27,28)])))-1)*100
+bdd$TAUXNmineralMOYENannuel<-((bdd$tauxdecroissanceNmineral2016*bdd$tauxdecroissanceNmineral2017*bdd$tauxdecroissanceNmineral2016)^(1/rowSums(!is.na(bdd[c(29,30,31)])))-1 )*100   
+
+
+
+
+```
+
+Cette fonction permet de retirer les valeurs aberrantes de notre dataframe.
+
+```{r }
+bdd <- lapply(bdd[-1], function(x) {
+  q1 <- quantile(x, .25,na.rm=TRUE)
+  q2 <- quantile(x, .75,na.rm=TRUE)
+  IQR <- q2 - q1
+  replace(x, x < (q1 - 1.5*IQR) | x > (q2+1.5*IQR), NA)
+})
+
+
+```
+
+Nous représentons ensuite les taux de croissance moyens entre 2015 et 2018, par catégorie.
+
+```{r }
+
+bdd<-as.data.frame(bdd)
+
+ggplot(stack(bdd[,seq(29,32)]), aes(x = ind, y = values )) + labs(
+  title    = "Taux de croissance annuel moyen de la quantité de produits phytosanitaires achetés ",
+  
+  x        = "catégorie",
+  y        = "taux de croissance annuel moyen entre 2015 et 2018"
+) +
+  geom_boxplot()
+
+
+```
+
+## HYPOTHÈSE FORTE EAU
+
+Dans un premier temps, nous faisons un « group_by » pour n'avoir qu'un seul code postal, puis nous réarrangons l'ordre des colonnes dans le dataframe « longeau ».
+
+```{r }
+longeau<-bddlongeau %>%
+  pivot_wider(
+    id_cols = COD_POS,
+    names_from = c(ANNEE),
+    values_from = MOYPTOTAL,
+    names_glue = "moyptotal-{ANNEE}"
+  )
+
+longeau<-longeau[c(1,6,7,2,3,4,5)]
+
+```
+
+La même formule que tout à l'heure nous permet de calculer le coefficient multiplicateur.
+
+```{r }
+longeau$TC2008<-((longeau$`moyptotal-2008`-longeau$`moyptotal-2007`)/(longeau$`moyptotal-2007`))+1
+longeau$TC2009<-((longeau$`moyptotal-2009`-longeau$`moyptotal-2008`)/(longeau$`moyptotal-2008`))+1
+longeau$TC2010<-((longeau$`moyptotal-2010`-longeau$`moyptotal-2009`)/(longeau$`moyptotal-2009`))+1
+longeau$TC2011<-((longeau$`moyptotal-2011`-longeau$`moyptotal-2010`)/(longeau$`moyptotal-2010`))+1
+longeau$TC2012<-((longeau$`moyptotal-2012`-longeau$`moyptotal-2011`)/(longeau$`moyptotal-2011`))+1
+
+
+```
+
+Dans un premier temps, nous supprimons les valeurs non finies et manquantes, puis nous calculons le taux de croissance moyen. Enfin, nous supprimons les valeurs aberrantes.
+
+```{r }
+
+longeau <- longeau[is.finite(rowSums(longeau[,-1])),]
+
+
+
+longeau$TCglobal<-longeau$TC2008*longeau$TC2009*longeau$TC2010*longeau$TC2011*longeau$TC2012
+
+
+longeau$TCAMmoyenpor<-((longeau$TCglobal^(1/5))   -1)*100
+
+
+
+longeauAB <- lapply(longeau[seq(8,14)], function(x) {
+  q1 <- quantile(x, .25,na.rm=TRUE)
+  q2 <- quantile(x, .75,na.rm=TRUE)
+  IQR <- q2 - q1
+  replace(x, x < (q1 - 1.5*IQR) | x > (q2+1.5*IQR), NA)
+})
+
+
+
+
+```
+
+Voici le boxplot obtenu pour les taux de croissance de la quantité de produits phytosanitaires retrouvée dans les eaux souterraines :
+
+```{r }
+ggplot(stack(longeauAB[7]), aes(x = ind, y = values )) + labs(
+  title    = "Taux de croissance annuel moyen entre 2007 et 2012 en % de la quantité de produits phytosanitaires retrouvée dans l'eau",
+  
+  x=" taux de croissance moyen en %",
+  y        = ""
+) +
+  geom_boxplot()
+
+
+```
+
+## LIEN VARIABLE
+
+Nous cherchons à voir s'il y a un lien entre la quantité de produit retrouvée dans les eaux et la quantité de produit acheté
+dans la première partie nous 
+pour ce faire nous voulons comparer nos variables à un niveau départemental, ainsi, nous ne conservons que les 2 premiers chiffres du code postal, grace à la fonction substr puis nous faisons un group by
+
+```{r }
+bddsub<-bddlongsubstance
+
+eau2012<-longeau[c(1,7)]
+
+
+bddsub$total2015<-bddsub$`Autre_quantite-totale-2015`+bddsub$`Autre_quantite-totale-2015`+bddsub$`N minéral_quantite-totale-2015`+bdd$N.Organique_quantite.totale.2015
+sub2015<-bddsub[c(1,18)]
+
+
+colnames(sub2015)[1]<-'COD_POS'
+cor<-merge(sub2015,eau2012,'COD_POS')
+
+
+cor$dep<-substr(cor$COD_POS,1,2)
+
+cordep<-cor[c(2,3,4)]
+cordep<-cordep[c(3,1,2)]
+
+cordeplong = cordep %>% group_by(dep) %>%
+  summarise(Total2015dep=sum(total2015,na.rm = TRUE),moyenne2012dep=mean(`moyptotal-2012`,na.rm = TRUE), .groups = 'drop')
+
+
+cordeplong<-cordeplong[-3,]
+
+```
+
+```{r}
+plot(cor$`moyptotal-2012`~cor$total2015,xlab='Total des quantités de produits phytosanitaires achetées en 2015',ylab="quantitée de produit retrouvée dans les eaux en 2012",xlim=c(0,15000),ylim=c(0,0.5)    )
+
+
+```
+
+```{r }
+plot(cordeplong$moyenne2012dep~cordeplong$Total2015dep ,xlab='Total des quantités de produits phytosanitaires achetées en 2015 par département',ylab="quantitée de produits retrouvés dans les eaux en 2012",xlim=c(0,300000),ylim=c(0,0.6) )
+
+
+```
+
+## AGRESTE
+
+Ici nous cherchons à voir s'il y a un lien entre le type de culture et la pollution. Premièrement, nous récupérons  la base de donnée de l'agreste, nous enlevons la première colonne qui n'est pas importante puis certaines lignes concernant la corse et les dom tom
+enfin nous réalisons la matrice de correlation
+
+```{r }
+agreste<-read_excel("agreste.xlsx")
+
+
+agreste<-agreste[-1]
+
+
+
+
+agreste<-agreste[-c(seq(1,5),100,101),]
+
+
+
+
+
+
+
+cols.num <- c("Céréales","Maïs grain et maïs semence","Oléagineux","Protéagineux","Tournesol","Fourrages et superficies toujours en herbe","Superficie toujours en herbe","Vignes","Jachères")
+agreste[cols.num] <- sapply(agreste[cols.num],as.numeric)
+agreste[is.na(agreste)]<-0
+
+
+agreste$Département <-substr(agreste$Département,1,2)
+
+
+names(agreste)[1]<-"dep"
+
+df<-merge(agreste,cordeplong,"dep")
+
+
+
+#obligé d'enlever les accents sinon erreur caractère ascii
+names(df)<-c("dep","SAU","cereales","ble tendre","Mais","oleagineux","Proteagineux","Tournesol","Colza","Superficie Fourrage","Superficie toujours en herbe","Vignes","Jacheres","Total2015depAchat","Moyenne2012eau")
+
+
+corPlot(df[-1],upper=FALSE,xlas=3,scale=FALSE,MAR = 1 ,cex=1,cex.axis=1,main="Matrice de corrélation")
+
+
+```
+
+
+## Test de moran
+
+au début nous créer les variables contenant la somme des produits phytosanitaires achetés.
+Au début nous transformons notre fichier en un fichier shapefile puis nous définissons les voisins les plus proches
+ensuite nous définissons une matrice de poids puis nous pouvons appliquer le test de moran
+```{r }
+fusion<-fusion[-c(1,2,3)]
+
+fusion$total2015<-fusion$`Autre_quantite-totale-2015`+fusion$`Toxique_quantite-totale-2015`+fusion$`N minéral_quantite-totale-2015`+fusion$`N Organique_quantite-totale-2015`
+fusion$total2016<-fusion$`Autre_quantite-totale-2016`+fusion$`Toxique_quantite-totale-2016`+fusion$`N minéral_quantite-totale-2016`+fusion$`N Organique_quantite-totale-2016`
+fusion$total2017<-fusion$`Autre_quantite-totale-2017`+fusion$`Toxique_quantite-totale-2017`+fusion$`N minéral_quantite-totale-2017`+fusion$`N Organique_quantite-totale-2017`
+fusion$total2018<-fusion$`Autre_quantite-totale-2018`+fusion$`Toxique_quantite-totale-2018`+fusion$`N minéral_quantite-totale-2018`+fusion$`N Organique_quantite-totale-2018`
+
+
+
+fusion_sf<-st_as_sf(fusion)
+
+
+neighbours_sf <- poly2nb(fusion_sf)
+
+listw <- nb2listw(neighbours_sf,zero.policy = TRUE)
+
+
+globalMoran <- moran.test(fusion$`Autre_quantite-totale-2015` , listw,na.action=na.omit,zero.policy=TRUE)
+globalMoran
+
+
+local <- localmoran(x = fusion$total2017, listw = nb2listw(neighbours_sf, style = "W",zero.policy = TRUE),na.action=na.exclude,zero.policy = TRUE)
+
+moran.map <- cbind(fusion, local)
+
+tm_shape(moran.map) +
+  tm_fill(col = "Ii",
+          style = "quantile",
+          title = "local moran statistic") 
+
+
+```
+
+

@@ -1,0 +1,57 @@
+annee;code_postal_acheteur;amm;substance;cas;quantite_substance;classification;classification_mention;achat_etranger
+2016;97215;2100040;epoxiconazole;133855-98-8;0.625;T, T+, CMR;;Non
+2016;97215;2100040;pyraclostrobine;175013-18-0;0.85;T, T+, CMR;;Non
+2016;97215;2100234;diflufenicanil;83164-33-4;0.6;N Organique;;Non
+2016;97215;2100234;iodosulfuron-methyl-sodium;144550-36-7;0.0375;N Organique;;Non
+2016;97215;2100234;mefenpyr-diethyl;135590-91-9;0.135;Autre;;Non
+2016;97215;2100234;mesosulfuron-methyl;208465-21-8;0.045;N Organique;;Non
+2016;97215;2110102;difenoconazole;119446-68-3;0.03;N Organique;;Non
+2016;97215;2110102;fludioxonil;131341-86-1;0.03;N Organique;;Non
+2016;97215;2110102;sedaxane;874967-67-6;0.06;N Organique;;Non
+2016;97215;9200078;tebuconazole;107534-96-3;1.25;T, T+, CMR;;Non
+2016;97215;9200091;imidaclopride;138261-41-3;0.42;N Organique;;Non
+2016;97215;9300305;prochloraze;67747-09-5;2.25;N Organique;;Non
+2016;97226;2120048;aminopyralid;150114-71-9;0.03;N Organique;;Non
+2016;97226;2120048;triclopyr;55335-06-3;0.24;N Organique;;Non
+2016;97226;9100505;glyphosate;1071-83-6;21.6;N Organique;;Non
+2016;97227;2010019;quizalofop-p-ethyl;100646-51-3;5.0;N Organique;;Non
+2016;97227;2010513;bacillus thuringiensis serotype 3a 3b;68038-71-1;;Autre;;Non
+2016;97227;2050046;flonicamide;158062-67-0;1.0;Autre;;Non
+2016;97227;2060085;boscalid;188425-85-6;8.0;N Organique;;Non
+2016;97227;2060085;kresoxim-methyl;143390-89-0;4.0;T, T+, CMR;;Non
+2016;97227;2060098;spinosad;168316-95-8;4.8;N Organique;;Non
+2016;97227;2080101;acetamipride;135410-20-7;10.2;N Organique;;Non
+2016;97227;2090011;pendimethaline;40487-42-1;4.55;N Organique;;Non
+2016;97227;2090094;thiophanate-methyl;23564-05-8;211.2;T, T+, CMR;;Non
+2016;97227;2100122;chlorantraniliprole;500008-45-7;1.05;N Organique;;Non
+2016;97227;2110141;dimethomorphe;110488-70-5;18.0;N Organique;;Non
+2016;97227;2110141;pyraclostrobine;175013-18-0;10.0;T, T+, CMR;;Non
+2016;97227;8800843;cyromazine;66215-27-8;3.75;Autre;;Non
+2016;97227;9200262;iprodione;36734-19-7;75.0;T, T+, CMR;;Non
+2016;97227;9500568;cyprodinyl;121552-61-2;37.5;N Organique;;Non
+2016;97227;9500568;fludioxonil;131341-86-1;25.0;N Organique;;Non
+2016;97227;9700332;azoxystrobine;131860-33-8;20.0;T, T+, CMR;;Non
+2016;97227;9800144;indoxacarbe;173584-44-6;7.5;T, T+, CMR;;Non
+2016;97227;9900251;dimethenamide-p (dmta-p);163515-14-8;7.2;N Organique;;Non
+2016;97229;2060088;benoxacor;98730-04-2;0.9;Autre;;Non
+2016;97229;2060088;mesotrione;104206-82-8;1.8;N Organique;;Non
+2016;97229;2060088;s-metolachlore;87392-12-9;18.0;N Organique;;Non
+2016;97229;2090008;thirame;137-26-8;0.41574;N Organique;;Non
+2016;97229;2110121;thiaclopride;111988-49-9;0.952;T, T+, CMR;;Non
+2016;97229;6500402;2,4-d;94-75-7;4.8;N Organique;;Non
+2016;97229;9800344;fludioxonil;131341-86-1;0.0065;N Organique;;Non
+2016;97229;9800344;metalaxyl-m;70630-17-0;0.002522;Autre;;Non
+2016;97232;2090113;dimethenamide-p (dmta-p);163515-14-8;0.136;N Organique;;Non
+2016;97232;2090113;pendimethaline;40487-42-1;0.16;N Organique;;Non
+2016;97232;8900681;pendimethaline;40487-42-1;0.2;N Organique;;Non
+2016;97232;9000490;cycloxydime;101205-02-1;0.016;T, T+, CMR;;Non
+2016;97250;2010132;pymetrozine;123312-89-0;0.5;T, T+, CMR;;Non
+2016;97250;2100231;emamectine benzoate;155569-91-8;0.0285;T, T+, CMR;;Non
+2016;97250;2110012;cyazofamide;120116-88-3;2.4;N Organique;;Non
+2016;97250;2110143;metribuzine;21087-64-9;1.2;N Organique;;Non
+2016;97250;2120200;abamectine;71751-41-2;0.054;T, T+, CMR;;Non
+2016;97250;2130251;lambda-cyhalothrine;91465-08-6;0.1;T, T+, CMR;;Non
+2016;97250;8600243;aclonifen;74070-46-5;6.0;T, T+, CMR;;Non
+2016;97250;8700525;mancozebe;8018-01-7;7.5;T, T+, CMR;;Non
+2016;97260;2010023;deltamethrine;52918-63-5;0.3;T, T+, CMR;;Non
+2016;97260;2090094;thiophanate-methyl;23564-05-8;14.08;T, T+, CMR;;Non

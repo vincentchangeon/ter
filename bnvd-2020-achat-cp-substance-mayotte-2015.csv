@@ -1,0 +1,41 @@
+annee;code_postal_acheteur;amm;substance;cas;quantite_substance;classification;classification_mention;achat_etranger
+2015;97600;2000018;soufre pour pulverisation (micronise);7704-34-9;64.0;Autre;;Non
+2015;97600;2000305;glyphosate;1071-83-6;21.6;N Organique;;Non
+2015;97600;2000502;chlorpyriphos-methyl;5598-13-0;4.5;N Organique;;Non
+2015;97600;2010023;deltamethrine;52918-63-5;0.735;T, T+, CMR;;Non
+2015;97600;2010398;folpel;133-07-3;16.0;T, T+, CMR;;Non
+2015;97600;2010398;metalaxyl-m;70630-17-0;1.94;Autre;;Non
+2015;97600;2060084;boscalid;188425-85-6;0.267;N Organique;;Non
+2015;97600;2060084;pyraclostrobine;175013-18-0;0.067;T, T+, CMR;;Non
+2015;97600;2060098;spinosad;168316-95-8;0.96;N Organique;;Non
+2015;97600;2080060;pyriproxyfene;95737-68-1;0.1;N Organique;;Non
+2015;97600;2080109;myclobutanil;88671-89-0;0.45;T, T+, CMR;;Non
+2015;97600;2080109;quinoxyfene;124495-18-7;0.45;N Organique;;Non
+2015;97600;2090119;cuivre du sulfate tribasique;12527-76-3;5.7;N minéral;;Non
+2015;97600;2090126;cyazofamide;120116-88-3;3.375;N Organique;;Non
+2015;97600;2090126;phosphonate de disodium;13708-85-5;33.75;N minéral;;Non
+2015;97600;2100122;chlorantraniliprole;500008-45-7;0.21;N Organique;;Non
+2015;97600;2130049;cyflufenamid;180409-60-3;0.3;N Organique;;Non
+2015;97600;2130049;difenoconazole;119446-68-3;0.6;N Organique;;Non
+2015;97600;2130075;metaldehyde;108-62-3;1.6;Autre;;Non
+2015;97600;2130152;fluopyram;658066-35-4;0.5;T, T+, CMR;;Non
+2015;97600;2130152;trifloxystrobine;141517-21-7;0.5;N Organique;;Non
+2015;97600;8300025;penconazole;66246-88-6;0.5;N Organique;;Non
+2015;97600;8300488;soufre pour pulverisation (micronise);7704-34-9;32.0;Autre;;Non
+2015;97600;8800498;acide alpha naphtylacetique (ana);86-87-3;0.0129;N Organique;;Non
+2015;97600;8800498;alpha naphtyl acetamide (nad);86-86-2;0.0354;N Organique;;Non
+2015;97600;8800941;metaldehyde;108-62-3;110.88;Autre;;Non
+2015;97600;9100482;chlorothalonil;1897-45-6;2.5;T, T+, CMR;;Non
+2015;97600;9600319;glyphosate;1071-83-6;1.8;N Organique;;Non
+2015;97600;9700070;flazasulfuron;104040-78-0;0.2;N Organique;;Non
+2015;97600;9800289;metalaxyl-m;70630-17-0;0.4652;Autre;;Non
+2015;97600;9800336;lambda-cyhalothrine;91465-08-6;1.2;T, T+, CMR;;Non
+2015;97600;9900242;mancozebe;8018-01-7;45.0;T, T+, CMR;;Non
+2015;97680;2000018;soufre pour pulverisation (micronise);7704-34-9;160.0;Autre;;Non
+2015;97680;2070107;fosetyl;15845-66-6;3.72;Autre;;Non
+2015;97680;2070107;propamocarbe;25606-41-1;6.36;Autre;;Non
+2015;97680;8800498;acide alpha naphtylacetique (ana);86-87-3;0.0215;N Organique;;Non
+2015;97680;8800498;alpha naphtyl acetamide (nad);86-86-2;0.059;N Organique;;Non
+2015;97680;8800841;difenoconazole;119446-68-3;1.25;N Organique;;Non
+2015;97680;9700332;azoxystrobine;131860-33-8;3.0;T, T+, CMR;;Non
+2015;97680;9800219;ethephon;16672-87-0;1.8;N Organique;;Non

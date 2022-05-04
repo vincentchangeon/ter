@@ -1,0 +1,21 @@
+annee;code_postal_acheteur;amm;substance;cas;quantite_substance;classification;classification_mention;achat_etranger
+2018;97300;2090164;glyphosate;1071-83-6;360.0;N Organique;;Non
+2018;97351;2010513;bacillus thuringiensis ssp kurstaki;68038-71-1;;Autre;;Non
+2018;97351;2090127;huile essentielle d'orange douce;8028-48-6;12.0;N Organique;;Non
+2018;97351;2120143;glyphosate;1071-83-6;96.0;N Organique;;Non
+2018;97351;2140085;abamectine;71751-41-2;1.44;T, T+, CMR;;Non
+2018;97351;8900156;metam-sodium;137-42-8;1071.0;N Organique;;Non
+2018;97351;9200482;bacillus thuringiensis ssp kurstaki souche sa-11;68038-71-1;51.0;Autre;;Non
+2018;97355;2010513;bacillus thuringiensis ssp kurstaki;68038-71-1;;Autre;;Non
+2018;97355;2060098;spinosad;168316-95-8;0.48;N Organique;;Non
+2018;97355;2080101;acetamipride;135410-20-7;0.2;N Organique;;Non
+2018;97355;2090127;huile essentielle d'orange douce;8028-48-6;0.3;N Organique;;Non
+2018;97355;2140085;abamectine;71751-41-2;0.09;T, T+, CMR;;Non
+2018;97356;2060084;boscalid;188425-85-6;0.267;N Organique;;Non
+2018;97356;2060084;pyraclostrobine;175013-18-0;0.067;T, T+, CMR;;Non
+2018;97356;9200159;pyrimethanil;53112-28-0;2.0;N Organique;;Non
+2018;97356;9200313;fenazaquin;120928-09-8;0.2;T, T+, CMR;;Non
+2018;00000;2050046;flonicamide;158062-67-0;0.25;Autre;;Non
+2018;00000;2080060;pyriproxyfene;95737-68-1;0.1;N Organique;;Non
+2018;00000;2090082;imidaclopride;138261-41-3;0.2;N Organique;;Non
+2018;00000;8500174;abamectine;71751-41-2;0.036;T, T+, CMR;;Non
